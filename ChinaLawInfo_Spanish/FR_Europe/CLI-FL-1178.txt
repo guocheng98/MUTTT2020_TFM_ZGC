@@ -1,0 +1,333 @@
+DIRECTIVA 96/9/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 11 de marzo de 1996 sobre la protección jurídica de las bases de datos
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+Visto el Tratado constitutivo de la Comunidad Europea y, en particular, el apartado 2 de su artículo 57 y sus artículos 66 y 100 A,
+
+Vista la propuesta de la Comisión (1),
+
+Visto el dictamen del Comité Económico y Social (2),
+
+De conformidad con el procedimiento establecido en el artículo 189 B del Tratado (3),
+
+(1) Considerando que, en la actualidad, las bases de datos no están suficientemente protegidas en todos los Estados miembros por la legislación vigente y que, cuando existe, tal protección no es uniforme;
+
+(2) Considerando que las diferencias de protección jurídica de las bases de datos en las legislaciones de los Estados miembros inciden de forma directa y negativa en el funcionamiento del mercado interior en lo que se refiere a las bases de datos y, en particular, en la libertad de las personas físicas y jurídicas de suministrar bienes y prestar servicios en el sector de las bases de datos de acceso en línea conforme a un fundamento jurídico armonizado en toda la Comunidad; que dichas diferencias pueden agudizarse a medida que los Estados miembros adopten nuevas disposiciones en un sector que está cobrando una dimensión cada vez más internacional;
+
+(3) Considerando que deben suprimirse las diferencias que tienen un efecto distorsionador sobre el funcionamiento del mercado interior y que debe prevenirse la aparición de otras nuevas; que no es preciso eliminar las diferencias que en la actualidad no afectan negativamente al funcionamiento del mercado interior o al desarrollo de un mercado de la información en la Comunidad;
+
+(4) Considerando que en los Estados miembros se reconoce una protección de derechos de autor, bajo diferentes formas, respecto a las bases de datos, de acuerdo con su propia legislación o jurisprudencia, y que estos derechos de propiedad intelectual no armonizados pueden tener como efecto impedir la libre circulación de mercancías y servicios en la Comunidad si en las legislaciones de los Estados miembros subsisten diferencias respecto al alcance y las condiciones de protección de los derechos;
+
+(5) Considerando que los derechos de autor constituyen una forma apropiada de derechos exclusivos de los autores de las bases de datos;
+
+(6) Considerando, sin embargo, que se precisan unas medidas que impidan la extracción y/o reutilización no autorizadas del contenido de una base de datos a falta de un régimen armonizado relativo a la competencia desleal o de la correspondiente jurisprudencia;
+
+(7) Considerando que la fabricación de una base de datos requiere una gran inversión en términos de recursos humanos, técnicos y económicos, y que las bases de datos se pueden copiar o se puede acceder a ellas a un coste muy inferior al necesario para crearlas de forma independiente;
+
+(8) Considerando que la extracción y/o reutilización no autorizadas del contenido de una base de datos son actos que pueden tener consecuencias graves desde el punto de vista económico y técnico;
+
+(9) Considerando que las bases de datos constituyen un instrumento de gran valor para el desarrollo del mercado comunitario de la información; que este instrumento es de gran utilidad para otras muchas actividades;
+
+(10) Considerando que el crecimiento exponencial de la cantidad de información generada y procesada anualmente en la Comunidad y en todo el mundo en los sectores del comercio y la industria exige que en todos los Estados miembros se invierta en sistemas avanzados de tratamiento de la información;
+
+(11) Considerando que, en la actualidad, existe un gran desequilibrio en el nivel de inversión en el sector de las bases de datos, tanto entre los Estados miembros como entre la Comunidad y los principales países terceros productores de bases de datos;
+
+(12) Considerando que esta inversión en sistemas modernos de almacenamiento y tratamiento de la información no se llevará a cabo en la Comunidad sin la creación de un régimen estable y uniforme de protección jurídica de los derechos de los fabricantes de bases de datos;
+
+(13) Considerando que la presente Directiva protege las recopilaciones, también llamadas «compilaciones», de obras, de datos o de otras materias cuya disposición, almacenamiento y acceso se efectúen mediante procedimientos electrónicos, electromagnéticos, electroópticos u otros similares;
+
+(14) Considerando que conviene hacer extensiva la protección prestada por la presente Directiva a las bases de datos no electrónicas;
+
+(15) Considerando que los criterios en virtud de los cuales las bases de datos son susceptibles de la protección de derechos de autor deben limitarse al hecho de que la selección o disposición del contenido de la base de datos constituya una labor de creación intelectual propia del autor; que esta protección se refiere a la estructura de la base de datos;
+
+(16) Considerando que, para determinar si una base de datos puede acceder a la protección de los derechos de autor, no deben aplicarse más criterios que la originalidad en el sentido de creación intelectual, y, en especial, no se deben aplicar criterios estéticos o cualitativos;
+
+(17) Considerando que el término «base de datos» debe abarcar las recopilaciones de obras, sean literarias, artísticas, musicales o de otro tipo, o de materias tales como textos, sonidos, imágenes, cifras, hechos y datos; que debe tratarse de recopilaciones de obras, de datos o de otros elementos independientes, dispuestos de forma sistemática o metódica y accesibles individualmente; que ello implica que la fijación de una obra audiovisual, cinematográfica, literaria o musical como tal no forma parte del ámbito de aplicación de la presente Directiva;
+
+(18) Considerando que lo dispuesto en la presente Directiva se entenderá sin perjuicio de la libertad de los autores de decidir si permiten, y de qué manera, la inclusión de sus obras en una base de datos, en particular si la autorización dada es de carácter exclusivo o no; que la protección de las bases de datos mediante el derecho sui generis se entiende sin perjuicio de los derechos existentes sobre su contenido, y que, en particular, cuando un autor o un titular de un derecho afín autorice la inclusión de determinadas obras o prestaciones suyas en una base de datos, en cumplimiento de un contrato de licencia no exclusiva, un tercero podrá explotar dichas obras o prestaciones una vez obtenida la autorización que debe dar el autor o el titular del derecho afín, sin podérsele oponer el derecho sui generis del fabricante de la base de datos, siempre que dichas obras o prestaciones no se extraigan de la base de datos ni sean reutilizadas a partir de la misma;
+
+(19) Considerando que normalmente la compilación de varias fijaciones de ejecuciones musicales en un CD no forma parte del ámbito de aplicación de la Directiva tanto porque, como compilación, no reúne las condiciones para su protección por el derecho de autor, como porque no representa una inversión suficientemente sustancial para acogerse al derecho sui generis;
+
+(20) Considerando que la protección prevista en la presente Directiva podrá aplicarse igualmente a los elementos necesarios para el funcionamiento o la consulta de algunas bases de datos como el Thesaurus y los sistemas de indización;
+
+(21) Considerando que la protección prevista por la presente Directiva se refiere a las bases de datos en las que obras, datos u otros elementos se han dispuesto de forma sistemática y metódica; que no se requiere que estas materias se hayan almacenado físicamente de forma organizada;
+
+(22) Considerando que las bases de datos electrónicas con arreglo a la presente Directiva pueden incluir asimismo dispositivos tales como los CD-ROM y los CD-I;
+
+(23) Considerando que el término «base de datos» no debe hacerse extensivo a los programas de ordenador utilizados en la elaboración u operación de una base de datos, que seguirán protegidos por la Directiva 91/250/CEE del Consejo, de 14 de mayo de 1991, sobre la protección jurídica de los programas de ordenador (4);
+
+(24) Considerando que el alquiler y el préstamo de bases de datos en el ámbito de los derechos de autor y derechos afines se rigen exclusivamente por la Directiva 92/100/CEE del Consejo, de 19 de noviembre de 1992, sobre derechos de alquiler y préstamo y otros derechos afines a los derechos de autor en el ámbito de la propiedad intelectual (5);
+
+(25) Considerando que la duración del derecho de autor ya está regulada por la Directiva 93/98/CEE del Consejo, de 29 de octubre de 1993, relativa a la armonización del plazo de protección del derecho de autor y de determinados derechos afines (6);
+
+(26) Considerando que las obras protegidas por derechos de autor y las prestaciones protegidas por derechos afines incorporadas a una base de datos siguen siendo objeto de los derechos exclusivos respectivos, por lo que no pueden incorporarse a una base de datos o extraerse de ella sin el permiso del titular de los derechos o de sus derechohabientes;
+
+(27) Considerando que los derechos de autor sobre las obras y los derechos afines sobre prestaciones incorporadas a una base de datos no se ven afectados por la existencia de otro derecho independiente sobre la selección o disposición de dichas obras y prestaciones en una base de datos;
+
+(28) Considerando que el derecho moral de la persona física que ha creado las bases de datos pertenece al autor y se ejercerá de conformidad con lo dispuesto en la legislación de los Estados miembros y en el Convenio de Berna para la protección de las obras literarias y artísticas; que dicho derecho moral no entra en el ámbito de aplicación de la presente Directiva;
+
+(29) Considerando que el régimen aplicable a la creación asalariada se deja a la discreción de los Estados miembros; que, por lo tanto, nada en la presente Directiva impide a los Estados miembros precisar en su legislación que, cuando una base de datos haya sido creada por un empleado en cumplimiento de sus funciones o de acuerdo con las instrucciones de su empresario, este último, salvo disposición contractual en contrario, será el único facultado para ejercer todos los derechos patrimoniales sobre la base de datos;
+
+(30) Considerando que entre los derechos exclusivos del autor debe incluirse el de determinar cómo y quién debe explotar su obra y, especialmente, el de controlar la distribución de la misma a personas no autorizadas;
+
+(31) Considerando que la protección de las bases de datos por el derecho de autor abarca igualmente la puesta a disposición de bases de datos en forma distinta de la distribución de copias;
+
+(32) Considerando que los Estados miembros deben garantizar como mínimo la equivalencia material de sus disposiciones nacionales respecto de los actos sujetos a restricción contemplados en la presente Directiva;
+
+(33) Considerando que la cuestión del agotamiento del derecho de distribución no se plantea en el caso de bases de datos en línea, que entran en el marco de la prestación de servicios; que esto se aplica igualmente en relación con una copia material de dicha base hecha por el usuario de este servicio con el consentimiento del titular del derecho; que, contrariamente a lo que sucede con los CD-ROM y los CD-I, en que la propiedad intelectual se halla integrada en un soporte material, es decir, una mercancía, cada prestación en línea es, en efecto, un acto que requerirá autorización si ello está previsto en el derecho de autor;
+
+(34) Considerando, sin embargo, que, una vez que el titular de los derechos de autor ha puesto a disposición de un usuario una copia de la base de datos a través de un servicio de acceso en línea o de otro medio de distribución, dicho usuario legítimo debe poder acceder a la base de datos y utilizarla para los fines y en la forma establecidos en el contrato de licencia celebrado con el titular del derecho, incluso cuando dicho acceso y utilización requieran la realización de ciertos actos normalmente sometidos a restricciones;
+
+(35) Considerando que conviene prever un catálogo de excepciones a los actos sometidos a restricciones, habida cuenta del hecho de que el derecho de autor contemplado por la presente Directiva sólo se aplicará a la selección o disposición de materias contenidas en una base de datos; que es conveniente dar a los Estados miembros la facultad de prever dichas excepciones en casos determinados; que, en cualquier caso, esta facultad deberá utilizarse conforme a las disposiciones del Convenio de Berna y en la medida en que las excepciones afecten a la estructura de la base de datos; que conviene distinguir las excepciones a título de uso privado de la reproducción con fines privados, que concierne a disposiciones de derecho nacional de algunos Estados miembros en materia de impuestos sobre los soportes vírgenes o los aparatos de grabación;
+
+(36) Considerando que la expresión «investigación científica» con arreglo a la presente Directiva abarca tanto a las ciencias naturales como a las ciencias humanas;
+
+(37) Considerando que el apartado 1 del artículo 10 del Convenio de Berna no se ve afectado por la presente Directiva;
+
+(38) Considerando que el uso cada vez mayor de la tecnología digital expone al fabricante de una base de datos al peligro de que el contenido de la misma sea copiado y reordenado electrónicamente sin su autorización con el fin de crear una base de datos de idéntico contenido, pero que no infringiría los derechos de autor respecto a la ordenación de la base original;
+
+(39) Considerando que, además de proteger los derechos de autor respecto a la originalidad de la selección y disposición del contenido de una base de datos, la presente Directiva pretende proteger a los fabricantes de bases de datos contra la apropiación de los resultados obtenidos de las inversiones económicas y de trabajo hechas por quien buscó y recopiló el contenido, ya que protege el conjunto o las partes sustanciales de la base de datos contra determinados actos que pueda cometer el usuario o un competidor;
+
+(40) Considerando que el objeto de este derecho sui generis es el de garantizar la protección de una inversión en la obtención, verificación o presentación del contenido de una base de datos para la duración limitada del derecho; que esta inversión puede consistir en la aplicación de medios financieros y/o en el empleo de tiempo, esfuerzo y energía;
+
+(41) Considerando que el objetivo del derecho sui generis consiste en facilitar al fabricante de una base de datos la posibilidad de impedir la extracción y/o reutilización no autorizadas de la totalidad o de una parte sustancial del contenido de la base de datos; que el fabricante de una base de datos es la persona que toma la iniciativa y asume el riesgo de efectuar las inversiones; que esto excluye, en particular, de la definición de «fabricante» a los subcontratistas;
+
+(42) Considerando que el derecho específico de impedir la extracción y/o la reutilización no autorizadas se refiere a actos del usuario que excedan de sus derechos legítimos y que perjudiquen así la inversión; que el derecho de prohibir la extracción y/o reutilización del conjunto o de una parte sustancial del contenido se refiere no sólo a la fabricación de un producto competidor parásito, sino también a los actos realizados por el usuario que perjudiquen sustancialmente la inversión, desde el punto de vista cualitativo o cuantitativo;
+
+(43) Considerando que, en caso de transmisión en línea, el derecho de prohibir la reutilización no se agota ni en lo que concierne a la base de datos, ni en lo que concierne a la copia material de esta misma base o de parte de la misma efectuada con el consentimiento del titular del derecho por el destinatario de la transmisión;
+
+(44) Considerando que, cuando la visualización en pantalla del contenido de una base de datos requiera la transferencia permanente o temporal de todo o de una parte sustancial del contenido a otro soporte, este acto estará sometido a la autorización del titular del derecho;
+
+(45) Considerando que el derecho de impedir la extracción y/o reutilización no autorizadas en modo alguno constituye una ampliación de la protección del derecho de autor a meros hechos o a los datos;
+
+(46) Considerando que la existencia de un derecho a impedir la extracción y/o reutilización no autorizada del conjunto o de una parte sustancial de obras, datos o elementos de una base de datos no supone la creación de un derecho nuevo respecto de dichas obras, datos o elementos en sí;
+
+(47) Considerando que, para fomentar la competencia entre proveedores de productos y de servicios en el sector del mercado de la información, la protección mediante el derecho sui generis no deberá ejercerse de forma que facilite abusos de posición dominante, en particular por lo que se refiere a la creación y a la difusión de nuevos productos y servicios que presenten un valor añadido de tipo intelectual, documental, técnico, económico o comercial; que, por lo tanto, lo dispuesto en la presente Directiva se entiende sin perjuicio de la aplicación de las normas de competencia, tanto comunitarias como nacionales;
+
+(48) Considerando que el objetivo de la presente Directiva, consistente en la instauración de un nivel suficiente y uniforme de protección para las bases de datos con el objeto de garantizar la remuneración del fabricante que las ha creado, es diferente del objetivo perseguido por la Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (7), que es el de garantizar la libre circulación de dichos datos a partir de unas normas armonizadas de protección de los derechos fundamentales, en especial del derecho a la vida privada, reconocido en el artículo 8 del Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales; que las disposiciones de la presente Directiva se entienden sin perjuicio de la legislación en materia de protección de datos;
+
+(49) Considerando que, a pesar del derecho de prohibir la extracción y/o reutilización de la totalidad o de una parte sustancial de una base de datos, es conveniente prever que el fabricante de una base de datos o su derechohabiente no pueda impedir al usuario legítimo de la base extraer y reutilizar partes no sustanciales; que, en cualquier caso, este mismo usuario no podrá causar un perjuicio injustificado ni a los intereses legítimos del titular del derecho sui generis, ni al titular de un derecho de autor o de un derecho afín sobre obras o prestaciones contenidas en esta base;
+
+(50) Considerando que conviene dar a los Estados miembros la facultad de establecer excepciones al derecho de impedir la extracción y/o reutilización no autorizadas de una parte sustancial del contenido de una base de datos cuando dicha extracción se destine a fines privados, de ilustración de enseñanza o de investigación científica, y cuando la extracción y/o reutilización se realice para fines de seguridad pública o a efectos de un procedimiento administrativo o jurisdiccional; que es preciso que dichas operaciones no sean perjudiciales para los derechos exclusivos del fabricante de explotar la base de datos y que no tenga carácter comercial;
+
+(51) Considerando que los Estados miembros, al hacer uso de la facultad de autorizar al usuario legítimo de una base de datos a extraer de ella una parte sustancial del contenido a efectos de ilustración de enseñanza o de investigación científica, podrán limitar dicha autorización a determinadas categorías de establecimientos de enseñanza o de investigación científica;
+
+(52) Considerando que los Estados miembros que cuenten con una normativa específica que incluya un derecho similar al derecho sui generis previsto por la presente Directiva deben poder mantener, respecto del nuevo derecho, las excepciones tradicionalmente establecidas por dicha legislación;
+
+(53) Considerando que la carga de la prueba de la fecha de terminación de la fabricación de una base de datos recaerá sobre el fabricante de la misma;
+
+(54) Considerando que la carga de la prueba de que se reúnen los criterios que permiten concluir que la modificación sustancial del contenido de una base de datos ha de considerarse como una nueva inversión sustancial recaerá sobre el fabricante de la misma;
+
+(55) Considerando que una nueva inversión sustancial que implique un nuevo plazo de protección podrá comprender la verificación sustancial del contenido de la base de datos;
+
+(56) Considerando que el derecho a impedir la extracción y/o reutilización no autorizadas sólo podrá aplicarse a las bases de datos cuyos fabricantes sean ciudadanos o residentes habituales de países terceros y a las producidas por empresas o sociedades no establecidas en un Estado miembro, en el sentido del Tratado, si dichos países terceros ofrecen una protección equivalente a las bases de datos producidas por ciudadanos de un Estado miembro o residentes habituales en el territorio de la Comunidad;
+
+(57) Considerando que, además de las sanciones establecidas por la legislación de los Estados miembros en caso de violación de los derechos de autor o de otro tipo, los Estados miembros deben prever sanciones apropiadas en caso de extracción y/o reutilización no autorizadas del contenido de una base de datos;
+
+(58) Considerando que, además de la protección de los derechos de autor que la presente Directiva dispensa a la estructura de las bases de datos y a su contenido mediante el derecho sui generis a impedir la extracción y/o reutilización no autorizadas, seguirán siendo aplicables las demás disposiciones legales de los Estados miembros en relación con el suministro de bienes y con la prestación de servicios de bases de datos;
+
+(59) Considerando que lo dispuesto en la presente Directiva se entiende sin perjuicio de que a las bases de datos compuestas por obras audiovisuales se apliquen las normas reconocidas en su caso por la legislación de un Estado miembro relativas a la teledifusión de programas audiovisuales;
+
+(60) Considerando que algunos Estados miembros protegen en la actualidad mediante un régimen de derecho de autor bases de datos que no responden a los criterios que las hacen susceptibles de la protección del derecho de autor previstos en la presente Directiva; que, aun cuando las bases de datos en cuestión son susceptibles de la protección dispensada por el derecho previsto por la presente Directiva de impedir la extracción y/o reutilización no autorizadas de su contenido, el período de protección por este último derecho es sensiblemente inferior al que disfrutan con arreglo a los regímenes nacionales actualmente en vigor; que la armonización de los criterios aplicados para determinar si una base de datos estará protegida por los derechos de autor no puede tener como efecto disminuir el período de protección de que disfrutan en la actualidad los titulares de los derechos de que se trate; que es conveniente prever una excepción a tal efecto; que los efectos de esta exención deben limitarse al territorio de los Estados miembros interesados,
+
+HAN ADOPTADO LA PRESENTE DIRECTIVA:
+
+CAPÍTULO I
+
+ÁMBITO DE APLICACIÓN
+
+Artículo 1
+
+Ámbito de aplicación
+
+1. La presente Directiva se refiere a la protección jurídica de las bases de datos, sean cuales fueren sus formas.
+
+2. A efectos de la presente Directiva, tendrán la consideración de «base de datos» las recopilaciones de obras, de datos o de otros elementos independientes dispuestos de manera sistemática o metódica y accesibles individualmente por medios electrónicos o de otra forma.
+
+3. La protección prevista por la presente Directiva no se aplicará a los programas de ordenador utilizados en la fabricación o en el funcionamiento de bases de datos accesibles por medios electrónicos.
+
+Artículo 2
+
+Limitación del ámbito de aplicación
+
+La presente Directiva se aplicará sin perjuicio de las disposiciones comunitarias relativas a:
+
+a) la protección jurídica de los programas de ordenador;
+
+b) el derecho de arrendamiento y de préstamo y a determinados derechos afines al derecho de autor en el ámbito de la propiedad intelectual;
+
+c) la duración de la protección del derecho de autor y de determinados derechos afines.
+
+CAPÍTULO II
+
+DERECHOS DE AUTOR
+
+Artículo 3
+
+Objeto de la protección
+
+1. De conformidad con lo dispuesto en la presente Directiva, las bases de datos que por la selección o la disposición de su contenido constituyan una creación intelectual de su autor estarán protegidas, como tal creación, por los derechos de autor. No serán de aplicación otros criterios para determinar si tales bases de datos son susceptibles de dicha protección.
+
+2. La protección del derecho de autor que la presente Directiva reconoce a las bases de datos no podrá hacerse extensiva a su contenido y se entenderá sin perjuicio de los derechos que pudieran subsistir sobre dicho contenido.
+
+Artículo 4
+
+Condición de autor de la base de datos
+
+1. Es autor de una base de datos la persona física o el grupo de personas físicas que haya creado dicha base o, cuando la legislación de los Estados miembros lo permita, la persona jurídica que dicha legislación designe como titular del derecho.
+
+2. Cuando la legislación de un Estado miembro reconozca las obras colectivas, la titularidad de los derechos patrimoniales corresponderá a la persona que sea titular de los derechos de autor.
+
+3. Los derechos exclusivos sobre una base de datos creado conjuntamente por un grupo de personas físicas corresponderán conjuntamente a todas ellas.
+
+Artículo 5
+
+Actos sujetos a restricciones
+
+El autor de una base de datos tendrá el derecho exclusivo, respecto de la forma de expresión de dicha base susceptible de la protección de los derechos de autor, de realizar o autorizar:
+
+a) la reproducción temporal o permanente, total o parcial, por cualquier medio y de cualquier forma;
+
+b) la traducción, adaptación, reordenación y cualquier otra modificación;
+
+c) cualquier forma de distribución al público de la base de datos o de copias de la misma. La primera venta en la Comunidad de una copia de la base de datos por el titular del derecho o con su consentimiento extinguirá el derecho de control de las ventas sucesivas de dichas copias en la Comunidad;
+
+d) cualquier forma de comunicación, exhibición o representación;
+
+e) cualquier reproducción, distribución, comunicación, exhibición o representación al público de los resultados de los actos a que se refiere la letra b).
+
+Artículo 6
+
+Excepciones a los actos sujetos a restricción
+
+1. El usuario legítimo de una base de datos o de copias de la misma podrá efectuar, sin la autorización del autor de la base, todos los actos a que se refiere el artículo 5 que sean necesarios para el acceso al contenido de la base de datos y a su normal utilización por el propio usuario. En la medida en que el usuario legítimo está autorizado a utilizar sólo una parte de la base de datos, el presente apartado será aplicable únicamente a dicha parte.
+
+2. En los siguientes casos los Estados miembros podrán imponer limitaciones a los derechos contemplados en el artículo 5:
+
+a) cuando se trate de una reproducción con fines privados de una base de datos no electrónica;
+
+b) cuando la utilización se haga únicamente con fines ilustrativos de enseñanza o de investigación científica, siempre que indique la fuente, en la medida justificada por el objetivo no comercial que se persiga;
+
+c) cuando se trate de una utilización para fines de seguridad pública o a efectos de un procedimiento administrativo o judicial;
+
+d) cuando se trate de otras excepciones a los derechos de autor tradicionalmente contempladas por su derecho interno, sin perjuicio de lo dispuesto en las letras a), b) y c).
+
+3. Conforme a lo dispuesto en el Convenio de Berna para la protección de las obras literarias y artísticas, el presente artículo no podrá interpretarse de manera tal que permita su aplicación de forma que cause un perjuicio injustificado a los intereses legítimos del titular del derecho o que vaya en detrimento de la explotación normal de la base de datos.
+
+CAPÍTULO III
+
+DERECHO SUI GENERIS
+
+Artículo 7
+
+Objeto de la protección
+
+1. Los Estados miembros dispondrán que el fabricante de la base de datos pueda prohibir la extracción y/o reutilización de la totalidad o de una parte sustancial del contenido de ésta, evaluada cualitativa o cuantitativamente, cuando la obtención, la verificación o la presentación de dicho contenido representen una inversión sustancial desde el punto de vista cuantitativo o cualitativo.
+
+2. A efectos del presente capítulo se entenderá por:
+
+a) «extracción» la transferencia permanente o temporal de la totalidad o de una parte sustancial del contenido de una base de datos a otro soporte, cualquiera que sea el medio utilizado o la forma en que se realice;
+
+b) «reutilización» toda forma de puesta a disposición del público de la totalidad o de una parte sustancial del contenido de la base mediante la distribución de copias, alquiler, transmisión en línea o en otras formas. La primera venta de una copia de una base de datos en la Comunidad por el titular de los derechos o con su consentimiento extinguirá el derecho de control de las ventas sucesivas de dicha copia en la Comunidad.
+
+El préstamo público no constituirá un acto de extracción o de reutilización.
+
+3. El derecho contemplado en el apartado 1 podrá transferirse, cederse o darse en licencia contractual.
+
+4. El derecho contemplado en el apartado 1 se aplicará con independencia de la posibilidad de que dicha base de datos esté protegida por el derecho de autor o por otros derechos. Además, se aplicará independientemente de la posibilidad de que el contenido de dicha base de datos esté protegido por el derecho de autor o por otros derechos. La protección de las bases de datos por el derecho contemplado en el apartado 1 se entenderá sin perjuicio de los derechos existentes sobre su contenido.
+
+5. No se autorizará la extracción y/o reutilización repetida/s o sistemática/s de partes no sustanciales del contenido de la base de datos que supongan actos contrarios a una explotación normal de dicha base o que causen un perjuicio injustificado a los intereses legítimos del fabricante de la base.
+
+Artículo 8
+
+Derechos y obligaciones del usuario legítimo
+
+1. El fabricante de una base de datos, sea cual fuere la forma en que haya sido puesta a disposición del público, no podrá impedir al usuario legítimo de dicha base extraer y/o reutilizar partes no sustanciales de su contenido, evaluadas de forma cualitativa o cuantitativa, con independencia del fin a que se destine. En la medida en que el usuario legítimo esté autorizado a extraer y/o reutilizar sólo parte de la base de datos, lo dispuesto en el presente apartado se aplicará únicamente a dicha parte.
+
+2. El usuario legítimo de una base de datos, sea cual fuere la forma en que haya sido puesta a disposición del público, no podrá efectuar actos que sean contrarios a una explotación normal de dicha base o que lesionen injustificadamente los intereses legítimos del fabricante de la base.
+
+3. El usuario legítimo de una base de datos, sea cual fuere la forma en que haya sido puesta a disposición del público, no podrá perjudicar al titular de unos derechos de autor o de derechos afines que afecten a obras o prestaciones contenidas en dicha base.
+
+Artículo 9
+
+Excepciones al derecho sui generis
+
+Los Estados miembros podrán establecer que el usuario legítimo de una base de datos, sea cual fuere la forma en que haya sido puesta a disposición del público, pueda, sin autorización del fabricante de la base, extraer y/o reutilizar una parte sustancial del contenido de la misma:
+
+a) cuando se trate de una extracción para fines privados del contenido de una base de datos no electrónica;
+
+b) cuando se trate de una extracción con fines ilustrativos de enseñanza o de investigación científica, siempre que indique la fuente y en la medida justificada por el objetivo no comercial que se persiga;
+
+c) cuando se trate de una extracción y/o reutilización para fines de seguridad pública o a efectos de un procedimiento administrativo o judicial.
+
+Artículo 10
+
+Plazo de la protección
+
+1. El derecho contemplado en el artículo 7 nacerá en el momento mismo en que se dé por finalizado el proceso de fabricación de la base de datos. Expirará quince años después del 1 de enero del año siguiente a la fecha en que haya terminado dicho proceso.
+
+2. En el caso de bases de datos puestas a disposición del público antes de la expiración del período previsto en el apartado 1, el plazo de protección concedido por este derecho expirará a los quince años contados desde el 1 de enero siguiente a la fecha en que la base de datos hubiese sido puesta a disposición del público por primera vez.
+
+3. Cualquier modificación sustancial, evaluada de forma cuantitativa o cualitativa, del contenido de una base de datos y, en particular, cualquier modificación sustancial que resulte de la acumulación de adiciones, supresiones o cambios sucesivos que conduzcan a considerar que se trata de una nueva inversión sustancial, evaluada desde el punto de vista cuantitativo o cualitativo, permitirá atribuir a la base resultante de dicha inversión un plazo de protección propio.
+
+Artículo 11
+
+Beneficiarios de la protección del derecho sui generis
+
+1. El derecho contemplado en el artículo 7 se aplicará a las bases de datos cuyos fabricantes o derechohabientes sean nacionales de un Estado miembro o tengan su residencia habitual en el territorio de la Comunidad.
+
+2. El apartado 1 del presente artículo se aplicará también a las sociedades y empresas constituidas con arreglo a la legislación de un Estado miembro y que tengan su sede oficial, administración central o centro principal de actividades en la Comunidad; no obstante, si la sociedad o empresa tiene en el territorio de la Comunidad únicamente su domicilio social, sus operaciones deberán estar vinculadas de forma efectiva y continua con la economía de un Estado miembro.
+
+3. A propuesta de la Comisión, el Consejo celebrará acuerdos por los que se extenderá el derecho establecido en el artículo 7 a las bases de datos fabricadas en países terceros y que no entrarán en el ámbito de aplicación de los apartados 1 y 2. El plazo de protección reconocido a esas bases de datos mediante dichos acuerdos no superará el previsto por el artículo 10 de la presente Directiva.
+
+CAPÍTULO IV
+
+DISPOSICIONES COMUNES
+
+Artículo 12
+
+Sanciones
+
+Los Estados miembros introducirán las sanciones adecuadas contra la violación de los derechos que reconoce la presente Directiva.
+
+Artículo 13
+
+Continuación de la vigencia de otras normativas
+
+Las disposiciones de la presente Directiva no afectarán la normativa relativa, en particular, a los derechos de autor, derechos afines o de otro tipo u obligaciones que existieran anteriormente sobre los datos, obras u otros elementos incorporados a una base de datos, sobre las patentes, marcas, diseños y modelos, sobre la protección de los tesoros nacionales, sobre las normas en materia de acuerdos colusorios y de competencia desleal, de secretos comerciales, de seguridad y de confidencialidad, sobre la protección de los datos personales y de la vida privada, sobre el acceso a los documentos públicos o sobre las disposiciones legales en materia contractual.
+
+Artículo 14
+
+Ámbito temporal de aplicación
+
+1. La protección prevista en la presente Directiva en lo que concierne al derecho de autor se aplicará también a las bases de datos cerradas antes de la fecha a que se refiere el apartado 1 del artículo 16 que cumplan en esa fecha los requisitos exigidos por la presente Directiva respecto de la protección de bases de datos por el derecho de autor.
+
+2. No obstante lo dispuesto en el apartado 1, cuando una base de datos que en la fecha de publicación de la presente Directiva esté protegida por un régimen de derecho de autor en un Estado miembro no responda a los criterios que la harían susceptible de la protección del derecho de autor previstos en el apartado 1 del artículo 3, la presente Directiva no tendrá como efecto reducir en dicho Estado miembro el plazo de protección concedido con arreglo al régimen mencionado que quede por transcurrir.
+
+3. La protección prevista por las disposiciones de la presente Directiva en lo que concierne al derecho previsto en el artículo 7 se aplicará igualmente a las bases de datos cuya fabricación haya terminado durante los quince años precedentes a la fecha contemplada en el apartado 1 del artículo 16 y que cumplan en dicha fecha los requisitos establecidos en el artículo 7 de la presente Directiva.
+
+4. La protección prevista en los apartados 1 y 3 se entenderá sin perjuicio de los actos concluidos y de los derechos adquiridos antes de la fecha contemplada en dichos apartados.
+
+5. En el caso de una base de datos cuya fabricación haya terminado durante los quince años precedentes a la fecha contemplada en el apartado 1 del artículo 16, el plazo de protección por el derecho previsto en el artículo 7 será de quince años a partir del 1 de enero siguiente a dicha fecha.
+
+Artículo 15
+
+Carácter imperativo de determinadas disposiciones
+
+Serán nulos de pleno derecho cualesquiera pactos contrarios a lo dispuesto en el apartado 1 del artículo 6 y en el artículo 8.
+
+Artículo 16
+
+Disposiciones finales
+
+1. Los Estados miembros pondrán en vigor las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo establecido en la presente Directiva antes del 1 de enero de 1998.
+
+Cuando los Estados miembros adopten dichas disposiciones, éstas incluirán una referencia a la presente Directiva o irán acompañadas de dicha referencia en su publicación oficial. Los Estados miembros establecerán las modalidades de la mencionada referencia.
+
+2. Los Estados miembros notificarán a la Comisión las disposiciones de derecho interno que adopten en el ámbito regulado por la presente Directiva.
+
+3. A más tardar al término del tercer año a partir de la fecha contemplada en el apartado 1, y cada tres años en lo sucesivo, la Comisión presentará al Parlamento Europeo, al Consejo y al Comité Económico y Social un informe sobre la aplicación de la presente Directiva en el cual, en particular sobre la base de informaciones específicas suministradas por los Estados miembros, estudiará especialmente la aplicación del derecho sui generis, incluidos los artículos 8 y 9, y concretamente si la misma ha dado lugar a abusos de posición dominante o a otras violaciones de la libre competencia que justificasen medidas adecuadas, en particular el establecimiento de un régimen de licencias no voluntarias. Presentará, en su caso, propuestas destinadas a adaptar la presente Directiva a la evolución de las bases de datos.
+
+Artículo 17
+
+Los destinatarios de la presente Directiva serán los Estados miembros.

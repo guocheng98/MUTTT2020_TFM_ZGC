@@ -1,0 +1,1713 @@
+REGLAMENTO (CE) N o 1060/2009 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+
+de 16 de septiembre de 2009
+
+sobre las agencias de calificación crediticia
+
+(Texto pertinente a efectos del EEE)
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+Visto el Tratado constitutivo de la Comunidad Europea y, en particular, su artículo 95,
+
+Vista la propuesta de la Comisión,
+
+Visto el dictamen del Comité Económico y Social Europeo,
+
+Visto el dictamen del Banco Central Europeo,
+
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado,
+
+Considerando lo siguiente:
+
+(1)
+
+Las agencias de calificación crediticia desempeñan un papel importante en los mercados de valores y en los mercados bancarios internacionales, pues los inversores, los prestatarios, los emisores y las administraciones públicas utilizan las calificaciones crediticias que otorgan como uno de los elementos para adoptar decisiones fundadas en los ámbitos de inversión y de financiación. Las entidades de crédito, las empresas de inversión, las empresas de seguros, las empresas de reaseguro, los organismos de inversión colectiva en valores mobiliarios (OICVM) y los fondos de pensiones de empleo pueden utilizar dichas calificaciones crediticias como referencia para calcular sus necesidades de capital a efectos de solvencia o para calcular los riesgos derivados de su actividad de inversión. En consecuencia, las calificaciones crediticias influyen significativamente en el funcionamiento de los mercados y en la confianza de los inversores y los consumidores. Es esencial, por ello, que las actividades de las agencias de calificación crediticia se lleven a cabo con arreglo a los principios de integridad, transparencia, responsabilidad y de buena gobernanza a fin de que las calificaciones crediticias resultantes que se utilicen en la Comunidad sean independientes, objetivas y de adecuada calidad.
+
+(2)
+
+Actualmente, la mayor parte de las agencias de calificación crediticia tienen su sede fuera de la Comunidad. La mayoría de los Estados miembros no regulan las actividades de estas agencias, ni las condiciones de emisión de sus calificaciones. Pese a la gran importancia que revisten para el funcionamiento de los mercados financieros, las agencias de calificación crediticia solo están sujetas al Derecho comunitario en determinados ámbitos, en particular a través de la Directiva 2003/6/CE del Parlamento Europeo y del Consejo, de 28 de enero de 2003, sobre las operaciones con información privilegiada y la manipulación del mercado. La Directiva 2006/48/CE del Parlamento Europeo y del Consejo, de 14 de junio de 2006, relativa al acceso a la actividad de las entidades de crédito y a su ejercicio, y la Directiva 2006/49/CE del Parlamento Europeo y del Consejo, de 14 de junio de 2006, sobre la adecuación del capital de las empresas de inversión y las entidades de crédito, remiten asimismo a las agencias de calificación crediticia. Resulta, por tanto, importante establecer normas que garanticen que todas las calificaciones crediticias emitidas por las agencias de calificación crediticia registradas en la Comunidad sean de adecuada calidad y estén emitidas por agencias de calificación crediticia sujetas a requisitos estrictos. La Comisión seguirá colaborando con sus socios internacionales para lograr la convergencia de las normas reguladoras de las agencias de calificación crediticia. Debe brindarse la posibilidad de eximir del presente Reglamento a determinados bancos centrales que emiten calificaciones crediticias siempre que cumplan las correspondientes condiciones aplicables que garanticen la independencia y la integridad de sus actividades de calificación crediticia y que sean tan estrictas como los requisitos previstos en el presente Reglamento.
+
+(3)
+
+El presente Reglamento no debe crear una obligación general en el sentido de que los instrumentos financieros o las obligaciones financieras deban ser calificados con arreglo al presente Reglamento. En particular, no debe obligar a los organismos de inversión colectiva en valores mobiliarios (OICVM), tal y como se definen en la Directiva 85/611/CEE del Consejo, de 20 de diciembre de 1985, por la que se coordinan las disposiciones legales, reglamentarias y administrativas sobre determinados organismos de inversión colectiva en valores mobiliarios (OICVM), ni a los fondos de pensiones de empleo definidos en la Directiva 2003/41/CE del Parlamento Europeo y del Consejo, de 3 de junio de 2003, relativa a las actividades y la supervisión de fondos de pensiones de empleo, a invertir exclusivamente en los instrumentos financieros calificados con arreglo al presente Reglamento.
+
+(4)
+
+El presente Reglamento no debe crear una obligación general en el sentido de que las entidades financieras o los inversores solo puedan invertir en valores sobre los que se haya publicado un folleto de conformidad con la Directiva 2003/71/CE del Parlamento Europeo y del Consejo, de 4 de noviembre de 2003, sobre el folleto que debe publicarse en caso de oferta pública o admisión a cotización de valores, y el Reglamento (CE) no 809/2004 de la Comisión, de 29 de abril de 2004, relativo a la aplicación de la Directiva 2003/71/CE en cuanto a la información contenida en los folletos así como el formato, incorporación por referencia, publicación de dichos folletos y difusión de publicidad, y que se califican de conformidad con el presente Reglamento. Además, el presente Reglamento no debe obligar a los emisores u ofertantes o a las personas que solicitan la admisión a negociación en un mercado regulado a obtener calificaciones crediticias en relación con valores objeto del requisito de publicación de un folleto con arreglo a la Directiva 2003/71/CE y el Reglamento (CE) no 809/2004.
+
+(5)
+
+Un folleto publicado con arreglo a la Directiva 2003/71/CE y el Reglamento (CE) no 809/2004 debe contener información clara y visible en la que se indique si la calificación crediticia de los valores respectivos la emite o no una agencia de calificación crediticia establecida en la Comunidad y registrada con arreglo al presente Reglamento. No obstante, ninguna disposición del presente Reglamento debe impedir a las personas responsables de la publicación del folleto con arreglo a la Directiva 2003/71/CE y el Reglamento (CE) no 809/2004 que incluyan cualquier tipo de material informativo en el folleto, incluidas las calificaciones crediticias emitidas en terceros países e información relacionada.
+
+(6)
+
+Además de emitir calificaciones crediticias y realizar actividades de calificación crediticia, las agencias de calificación crediticia pueden realizar también actividades afines a título profesional. La realización de actividades auxiliares no debe comprometer la independencia o la integridad de sus actividades de calificación crediticia.
+
+(7)
+
+El presente Reglamento debe aplicarse a las calificaciones crediticias emitidas por las agencias de calificación crediticia registradas en la Comunidad. El objetivo principal del presente Reglamento es la protección de la estabilidad de los mercados financieros y de los inversores. Las calificaciones crediticias, los sistemas de calificación crediticia y las evaluaciones similares en relación con obligaciones derivadas de relaciones de consumidores, comerciales o industriales no deben entrar en el ámbito de aplicación del presente Reglamento.
+
+(8)
+
+Las agencias de calificación crediticia deben aplicar, con carácter voluntario, el Código de conducta para las agencias de calificación crediticia publicado por la Organización Internacional de Comisiones de Valores («Código de la OICV»). En 2006, la Comisión, en una Comunicación sobre las Agencias de Calificación Crediticia, pedía al Comité de Responsables Europeos de Reglamentación de Valores (CERV), creado mediante Decisión 2009/77/CE de la Comisión, que supervisara el cumplimiento del Código de la OICV y le informara anualmente al respecto.
+
+(9)
+
+El Consejo Europeo de los días 13 y 14 de marzo de 2008 adoptó una serie de conclusiones en respuesta a las principales deficiencias observadas en el sistema financiero. Uno de los objetivos era mejorar el funcionamiento del mercado y las estructuras de incentivos, entre otras cosas la función de las agencias de calificación crediticia.
+
+(10)
+
+Se considera que las agencias de calificación crediticia, en primer lugar, no han reflejado con la suficiente prontitud en sus calificaciones el deterioro de las condiciones del mercado y, en segundo lugar, no han ajustado a tiempo sus calificaciones crediticias a la vista de la agravación de la crisis del mercado. La mejor forma de corregir esos fallos es adoptar medidas en relación con los conflictos de intereses, la calidad de las calificaciones crediticias, la transparencia y gestión interna de las agencias de calificación, y la supervisión de sus actividades. Los usuarios de las calificaciones no deben confiar ciegamente en ellas, sino que deben procurar encarecidamente realizar su propio análisis y actuar en todo momento con la debida diligencia antes de confiar en esas calificaciones.
+
+(11)
+
+Es preciso establecer un marco normativo común con respecto a la mejora de la calidad de las calificaciones crediticias, en particular la calidad de las calificaciones crediticias que utilicen las entidades financieras y las personas sujetas a disposiciones comunitarias armonizadas. A falta de este marco común, existe el riesgo de que los Estados miembros adopten medidas divergentes a escala nacional, lo cual tendría repercusiones negativas directas sobre el buen funcionamiento del mercado interior y lo obstaculizaría, pues las agencias de calificación crediticia que emiten calificaciones para uso de las entidades financieras de la Comunidad estarían sujetas a diferentes normas en los distintos Estados miembros. Por otra parte, la divergencia en cuanto a los requisitos de calidad de las calificaciones crediticias podría generar distintos niveles de protección de los inversores y de los consumidores. Además, los usuarios deben tener la posibilidad de comparar las calificaciones crediticias emitidas en la Comunidad con las emitidas a nivel internacional.
+
+(12)
+
+El presente Reglamento no debe afectar al uso que hagan de las calificaciones crediticias personas que no se mencionan en el presente Reglamento.
+
+(13)
+
+Es conveniente prever el uso de las calificaciones crediticias emitidas en terceros países a efectos de regulación en la Comunidad siempre y cuando respeten unos requisitos tan estrictos como los establecidos en el presente Reglamento. El presente Reglamento introduce un régimen de refrendo que permite a las agencias de calificación crediticia establecidas en la Comunidad y registradas de conformidad con el presente Reglamento refrendar calificaciones crediticias emitidas en terceros países. Al refrendar una calificación crediticia emitida en un tercer país, las agencias de calificación crediticia deben determinar y comprobar de manera permanente si las actividades de calificación crediticia resultantes de la publicación de dicha calificación crediticia respetan unos requisitos en materia de publicación de estas calificaciones tan estrictos como los establecidos en el presente Reglamento y si en la práctica alcanzan el mismo objetivo y surten los mismos efectos.
+
+(14)
+
+Para responder a las preocupaciones en el sentido de que el no establecimiento en la Comunidad pudiera ser un obstáculo importante para una supervisión eficaz en interés de los mercados financieros de la Comunidad, dicho régimen de refrendo debe introducirse en relación con las agencias de calificación crediticia que estén afiliadas o que trabajen estrechamente con las agencias de calificación crediticia establecidas en la Comunidad. No obstante, pudiera ser necesario proceder al ajuste del requisito relativo a la presencia física en la Comunidad en casos determinados, en particular en lo que se refiere a las pequeñas agencias de calificación crediticia de terceros países que no están presentes o afiliadas en la Comunidad. Por consiguiente, debe establecerse un régimen específico de certificación para tales agencias de calificación crediticia, en la medida en que no tengan una importancia fundamental para la estabilidad financiera o la integridad de los mercados financieros de uno o más Estados miembros.
+
+(15)
+
+La certificación debe ser posible después de que la Comisión determine la equivalencia del marco jurídico y de supervisión de un tercer país con respecto a los requisitos recogidos en el presente Reglamento. El mecanismo de equivalencia previsto no debe suponer un acceso automático a la Comunidad sino que debe ofrecer la posibilidad de que las agencias de calificación crediticia de un tercer país puedan ser evaluadas individualmente y se les pueda conceder una exención con respecto a algunos de los requisitos organizativos aplicables a las agencias de calificación crediticia activas en la Comunidad, incluido el requisito relativo a la presencia física en la Comunidad.
+
+(16)
+
+El presente Reglamento también debe obligar a las agencias de calificación crediticia de un tercer país a cumplir unos requisitos que son requisitos previos generales respecto de la integridad de sus actividades de calificación crediticia para impedir la injerencia por parte de las autoridades competentes y de otras autoridades públicas de dicho tercer país en el contenido de las calificaciones crediticias y para prever una política adecuada en materia de conflictos de interés, rotación de analistas de calificaciones y divulgación periódica y continua.
+
+(17)
+
+Otro importante requisito para un régimen de refrendo sólido y un sistema de equivalencia es la existencia de acuerdos sólidos de cooperación entre las autoridades competentes de los Estados miembros de origen y las autoridades competentes de las agencias de calificación crediticia de terceros países.
+
+(18)
+
+La agencia de calificación crediticia que haya refrendado calificaciones crediticias emitidas en un tercer país debe ser plena e incondicionalmente responsable de las calificaciones crediticias refrendadas y del cumplimiento de las condiciones pertinentes establecidas en el presente Reglamento.
+
+(19)
+
+El presente Reglamento no debe aplicarse a las calificaciones crediticias que una agencia de calificación realice en virtud de un encargo individual y que facilite exclusivamente a la persona que las encargó y que no estén destinadas a la divulgación pública ni a la distribución mediante suscripción.
+
+(20)
+
+Los informes de inversiones, las recomendaciones en materia de inversión y otras opiniones acerca de un valor o del precio de un instrumento u obligación financiera no deben considerarse calificaciones crediticias.
+
+(21)
+
+Las calificaciones crediticias no solicitadas, es decir las calificaciones crediticias que no hayan sido emitidas a petición del emisor ni de la entidad calificada, deben identificarse claramente como tales y distinguirse de las calificaciones crediticias solicitadas por los medios apropiados.
+
+(22)
+
+A fin de evitar posibles conflictos de intereses, las agencias de calificación crediticia deben centrar su actividad profesional en la emisión de calificaciones crediticias. Las agencias de calificación crediticia no deben estar autorizadas a prestar servicios de consultoría o asesoramiento. En particular, las agencias de calificación no deben efectuar propuestas o recomendaciones sobre la configuración de un instrumento de financiación estructurada. Sin embargo, dichas agencias deben poder prestar servicios auxiliares, siempre que ello no genere conflictos de intereses con la emisión de calificaciones crediticias.
+
+(23)
+
+Las agencias de calificación crediticia deben emplear métodos de calificación que sean rigurosos, sistemáticos y constantes y que puedan ser validados, incluida la experiencia histórica adecuada y la simulación retrospectiva. No obstante, este requisito no debe en ningún caso justificar una injerencia por parte de las autoridades competentes y de los Estados miembros en el contenido de la calificación crediticia o la metodología utilizada. Del mismo modo, el requisito de que las agencias de calificación revisen las calificaciones al menos una vez al año no debe poner en peligro la obligación de dichas agencias de calificación crediticia de someter a un control y revisión permanentes las calificaciones crediticias cuando sea necesario. Estos requisitos no deben aplicarse de manera que impidan la entrada de nuevas agencias de calificación crediticia en el mercado.
+
+(24)
+
+Las calificaciones crediticias deben estar sólidamente fundadas y motivadas para evitar arbitrajes de calificación.
+
+(25)
+
+Las agencias de calificación crediticia deben hacer pública la información sobre los métodos, los modelos y las hipótesis fundamentales que utilicen en sus actividades de calificación crediticia. El nivel de detalle de la información difundida sobre los modelos debe permitir a los usuarios de las calificaciones crediticias recibir una información adecuada para poder actuar con la debida diligencia al valorar si confían o no en dichas calificaciones crediticias. Sin embargo, la información divulgada sobre modelos no debe revelar información comercial reservada ni obstaculizar seriamente la innovación.
+
+(26)
+
+Las agencias de calificación crediticia deben adoptar políticas y procedimientos internos apropiados en relación con los empleados y otras personas que intervengan en el proceso de calificación, a fin de descubrir, eliminar o gestionar y comunicar los conflictos de intereses y velar, en todo momento, por la calidad, solidez y rigor del proceso de calificación y de revisión crediticias. Estas políticas y procedimientos deben incluir, en particular, los mecanismos de control interno y la función de cumplimiento.
+
+(27)
+
+Las agencias de calificación crediticia deben evitar las situaciones de conflicto de intereses y gestionar tales conflictos adecuadamente cuando resulten ineludibles, al objeto de garantizar su independencia. Las agencias de calificación deben informar de los conflictos de intereses en tiempo oportuno. Asimismo, deben conservar constancia documental de todos los riesgos significativos que pesen sobre su independencia y la de los empleados y otras personas que intervengan en el proceso de calificación crediticia, así como de las medidas de protección aplicadas para mitigar esos riesgos.
+
+(28)
+
+Las agencias de calificación crediticia o los grupos de agencias de calificación crediticia deben disponer lo necesario para garantizar la buena gobernanza empresarial. Al definir sus disposiciones en materia de gobernanza empresarial, las agencias de calificación crediticia o los grupos de agencias de calificación crediticia deben tener presente la necesidad de garantizar la emisión de calificaciones independientes, objetivas y de calidad adecuada.
+
+(29)
+
+Al objeto de garantizar la independencia del proceso de calificación crediticia frente a los intereses comerciales de la agencia de calificación crediticia en su calidad de empresa, estas agencias deben garantizar la independencia de como mínimo un tercio de los miembros del consejo de administración o de supervisión, pero no menos de dos de dichos miembros, de conformidad con la sección III, punto 13, de la Recomendación 2005/162/CE de la Comisión, de 15 de febrero de 2005, relativa al papel de los administradores no ejecutivos o supervisores y al de los comités de consejos de administración o de supervisión, aplicables a las empresas que cotizan en bolsa. Asimismo, es necesario que la mayoría de los altos directivos, incluidos todos los miembros independientes, posean suficientes conocimientos técnicos en los ámbitos apropiados relacionados con los servicios financieros. La persona responsable de la verificación del cumplimiento debe informar periódicamente sobre la ejecución de sus deberes a los altos directivos y a los miembros independientes del consejo de administración o supervisión.
+
+(30)
+
+Al objeto de evitar conflictos de intereses, la retribución de los miembros independientes del consejo de administración o de supervisión no debe supeditarse a los resultados comerciales de la agencia de calificación crediticia.
+
+(31)
+
+Las agencias de calificación crediticia deben asignar a las actividades de calificación crediticia un número suficiente de empleados dotados de conocimientos y experiencia adecuados. En particular, las agencias de calificación deben garantizar que la actividad de emisión de calificaciones y el seguimiento y actualización de las mismas cuente con recursos humanos y financieros suficientes.
+
+(32)
+
+A fin de tener en cuenta las condiciones específicas de las agencias de calificación crediticia que tengan menos de 50 empleados, las autoridades competentes deben tener la posibilidad de eximir a dichas agencias de algunas de las obligaciones establecidas en el presente Reglamento en lo que se refiere al papel de los miembros independientes del consejo de administración, la función de cumplimiento y el mecanismo de rotación, y siempre que dichas agencias puedan demostrar que cumplen las condiciones específicas. Las autoridades competentes deben examinar, en particular, si el tamaño de una agencia de calificación crediticia ha sido determinado para evitar el cumplimiento de los requisitos del presente Reglamento por parte de la agencia de calificación crediticia o de un grupo de agencias de calificación crediticia. Las autoridades competentes de los Estados miembros deben aplicar estas excepciones de tal forma que se evite el riesgo de fragmentación del mercado interior y se garantice la aplicación uniforme del Derecho comunitario.
+
+(33)
+
+El mantenimiento de relaciones prolongadas con las entidades calificadas o terceros vinculados puede ir en detrimento de la independencia de los analistas de calificaciones y de las personas responsables de aprobar las calificaciones crediticias. Por ello, esos analistas y personas deben estar sujetos a un mecanismo de rotación adecuado que dé lugar a cambios graduales en los equipos de análisis y en los comités de calificación crediticia.
+
+(34)
+
+Las agencias deben garantizar que los métodos, los modelos y las hipótesis fundamentales, matemáticas o de correlación, utilizados para determinar las calificaciones crediticias sean adecuadamente mantenidos, actualizados y revisados en profundidad periódicamente y que se publiquen sus descripciones de manera que sea posible un examen exhaustivo. Cuando la falta de datos fiables o la complejidad de la estructura de un nuevo tipo de instrumento financiero, en particular cuando se trate de instrumentos de financiación estructurada, planteen serias dudas en cuanto a la fiabilidad de la calificación crediticia que pueda emitir la agencia de calificación, esta no debe emitir calificación crediticia alguna o retirar una calificación crediticia existente. Las modificaciones de la calidad de la información disponible para supervisar una calificación existente deben darse a conocer en el marco de dicho examen, así como, en su caso, procederse a una revisión de la calificación de que se trate.
+
+(35)
+
+Para garantizar la calidad de las calificaciones crediticias, las agencias de calificación crediticia deben adoptar medidas que garanticen que la información que utilizan para asignar sus calificaciones crediticias es fiable. A estos efectos, las agencias de calificación deben tener la posibilidad de prever, entre otras cosas, el respaldo de estados financieros e información publicada que hayan sido objeto de una auditoría independiente; una verificación efectuada a través de terceros que gocen de reconocido prestigio; un examen por muestreo al azar de la información recibida, efectuado por la propia agencia, o disposiciones contractuales que estipulen claramente la responsabilidad que recae sobre la entidad calificada o terceros vinculados, en caso de que faciliten a sabiendas información sustancialmente falsa o de que la entidad calificada o terceros vinculados no lleve a cabo los procesos de debida diligencia adecuados en relación con la exactitud de la información, según se especifique en las cláusulas del contrato.
+
+(36)
+
+El presente Reglamento no afecta a la obligación de las agencias de calificación crediticia de proteger el derecho a la intimidad de las personas físicas con relación al tratamiento de los datos personales de conformidad con la Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.
+
+(37)
+
+Es preciso que las agencias de calificación crediticia establezcan procedimientos adecuados para revisar periódicamente los métodos, los modelos y las hipótesis fundamentales de calificación utilizados por las agencias de calificación crediticia, con el fin de adaptarlos adecuadamente a la evolución de los mercados de los activos subyacentes. En aras de la transparencia, toda modificación sustancial de los métodos y las prácticas, los procedimientos y los procesos de las agencias de calificación crediticia debe divulgarse antes de su aplicación, salvo cuando debido a condiciones extremas de mercado sea preciso modificar la calificación crediticia de forma inmediata.
+
+(38)
+
+Las agencias de calificación crediticia deben realizar las oportunas advertencias de riesgo, así como un análisis de sensibilidad de las hipótesis pertinentes. Ese análisis debe explicar de qué modo diversos cambios registrados en el mercado y que afectan a los parámetros integrados en el modelo pueden influir en la variación de la calificación crediticia (por ejemplo, la volatilidad). Las agencias de calificación crediticia deben garantizar que la información sobre las tasas históricas de incumplimiento de sus categorías de calificación sea verificable y cuantificable y aporte a los interesados fundamentos suficientes para comprender los resultados históricos de cada categoría de calificación y apreciar si dichas categorías han cambiado y, en su caso, de qué modo. Si, debido a la naturaleza de la calificación crediticia o a otras circunstancias, la tasa histórica de morosidad resulta inapropiada o estadísticamente inválida, o puede de alguna otra forma inducir a error a quienes utilicen la calificación crediticia, la agencia de calificación debe realizar las oportunas aclaraciones. En la medida de lo posible, esta información ha de permitir la comparación con los posibles modelos existentes en el sector, a fin de facilitar al inversor la comparación entre los resultados de diferentes agencias de calificación crediticia.
+
+(39)
+
+Con el fin de reforzar la transparencia de las calificaciones crediticias y contribuir a la protección de los inversores, el CERV debe mantener un registro central en el que debe guardarse información sobre el comportamiento anterior de las agencias de calificación crediticia y las calificaciones crediticias emitidas en el pasado. Las agencias de calificación crediticia deben facilitar la información a este registro en un formato estándar. El CERV debe poner esa información a disposición del público y publicar un resumen anual de los principales cambios observados.
+
+(40)
+
+En determinadas circunstancias, los instrumentos de financiación estructurada pueden tener efectos que difieren de los de los instrumentos tradicionales de deuda de las empresas. Aplicar las mismas categorías de calificaciones a ambos tipos de instrumentos, sin ofrecer explicaciones adicionales, puede inducir a error a los inversores. Las agencias de calificación crediticia tienen una función importante que desempeñar a la hora de hacer que los usuarios de las calificaciones crediticias sean conscientes de las características que distinguen los productos de financiación estructurada de los productos tradicionales. Por consiguiente, las agencias de calificación crediticia deben diferenciar claramente entre las categorías de calificaciones utilizadas para los instrumentos de financiación estructurada, por un lado, y las categorías de calificaciones utilizadas para otros instrumentos financieros u obligaciones financieras, por otro, añadiendo un símbolo adecuado a la categoría de calificación.
+
+(41)
+
+Las agencias de calificación crediticia deben adoptar medidas para evitar situaciones en las que los emisores soliciten a diversas agencias de calificación la valoración crediticia preliminar del instrumento de financiación estructurada, con objeto de determinar cuál de ellas ofrece la mejor calificación con respecto a ese instrumento. Del mismo modo, también los emisores deben evitar tales prácticas.
+
+(42)
+
+Las agencias de calificación crediticia deben conservar constancia documental de los métodos empleados en las calificaciones crediticias y actualizar periódicamente los cambios en aquellos, y conservar asimismo constancia documental de los elementos principales del diálogo que tenga lugar entre el analista de calificaciones y la entidad calificada o terceros a ella vinculados.
+
+(43)
+
+A fin de velar por que los inversores y los consumidores mantengan un elevado nivel de confianza en el mercado interior, las agencias de calificación crediticia que emitan calificaciones crediticias en la Comunidad deben estar sujetas a inscripción en un registro. Este registro es el principal requisito previo para que las agencias de calificación crediticia emitan calificaciones destinadas a ser utilizadas a efectos de regulación en la Comunidad. Resulta, por tanto, necesario establecer las condiciones armonizadas y el procedimiento para la inscripción, suspensión y baja registrales.
+
+(44)
+
+El presente Reglamento no debe sustituir al proceso de reconocimiento de las Agencias de Calificación Externas (ECAI) establecido de conformidad con la Directiva 2006/48/CE. Las ECAI ya reconocidas en la Comunidad deben solicitar su registro con arreglo al presente Reglamento.
+
+(45)
+
+Las agencias de calificación crediticia que hayan sido registradas por la autoridad competente de un Estado miembro deben estar autorizadas a emitir calificaciones en toda la Comunidad. Resulta, por tanto, necesario disponer que exista un procedimiento único de inscripción registral para cada agencia de calificación que sea efectivo en toda la Comunidad. La inscripción de una agencia de calificación crediticia en el registro debe ser efectiva una vez que la decisión de inscripción en el registro emitida por la autoridad competente del Estado miembro de origen haya entrado en vigor con arreglo a la legislación nacional aplicable.
+
+(46)
+
+Es necesario implantar un punto único de entrada para la presentación de las solicitudes de registro. Resulta oportuno que el CERV reciba las solicitudes de registro e informe convenientemente a las autoridades competentes de todos los Estados miembros. Además, el CERV debe prestar asesoramiento a la autoridad competente del Estado miembro de origen sobre si la solicitud está completa. Las solicitudes de registro deben ser examinadas por las autoridades nacionales competentes. A fin de gestionar adecuadamente cuanto se relacione con las agencias de calificación crediticia, las autoridades competentes deben establecer redes operativas («colegios») que cuenten con una infraestructura informática eficaz. El CERV debe crear un subcomité especializado en las calificaciones crediticias de cada una de las clases de activos calificados por las citadas agencias.
+
+(47)
+
+Algunas agencias de calificación crediticia están integradas por varias entidades jurídicas que, juntas, forman un grupo de agencias de calificación crediticia. Al registrar las diferentes agencias de calificación que integran el grupo, las autoridades competentes de los Estados miembros afectados deben coordinar el examen de las solicitudes presentadas por las agencias de calificación crediticia que pertenecen al mismo grupo y el proceso decisorio en relación con la concesión del alta registral. No obstante, debe existir la posibilidad de denegar el registro a una agencia de calificación crediticia en el seno de un grupo de agencias de calificación crediticia cuando dicha agencia no cumpla los requisitos para efectuar el registro y otros miembros del grupo sí cumplan todos los requisitos en materia de registro de conformidad con el presente Reglamento. Dado que no deben concederse al colegio facultades para emitir decisiones jurídicamente vinculantes, las autoridades competentes de los Estados miembros de origen de los miembros del grupo de agencias de calificación crediticia deben emitir una decisión individual respecto a la agencia de calificación crediticia establecida en el territorio del Estado miembro de que se trate.
+
+(48)
+
+El colegio debe representar la plataforma efectiva para un intercambio de información de supervisión entre autoridades competentes, la coordinación de sus actividades y las medidas de supervisión necesarias para la efectiva supervisión de las agencias de calificación crediticia. En particular, el colegio debe facilitar el control del cumplimiento de las condiciones de refrendo de las calificaciones crediticias emitidas en terceros países, la certificación, los acuerdos de subcontratación y las exenciones previstas en el presente Reglamento. Las actividades del colegio deben contribuir a la armonización de la aplicación de las normas previstas en el presente Reglamento y a la convergencia de las prácticas de supervisión.
+
+(49)
+
+Para reforzar la coordinación en la práctica de las actividades del colegio, sus miembros deben elegir entre ellos un facilitador. El facilitador debe presidir las reuniones del colegio, establecer por escrito sus disposiciones de coordinación y coordinar las acciones del colegio. Durante el proceso de registro, el facilitador debe valorar la necesidad de ampliar el plazo de examen de las solicitudes, coordinar dicho examen y servir de enlace con el CERV.
+
+(50)
+
+En noviembre de 2008, la Comisión creó un grupo de alto nivel encargado de examinar la futura configuración del régimen de supervisión de la Unión Europea en el ámbito de los servicios financieros, entre otras cosas la función del CERV.
+
+(51)
+
+El régimen de supervisión existente no debe considerarse una solución a largo plazo para la supervisión de las agencias de calificación crediticia. Los colegios de autoridades competentes, de los que se espera racionalicen la cooperación en materia de supervisión y la convergencia en este ámbito en la Comunidad, son un paso positivo importante, pero puede que no presenten todas las ventajas de una supervisión más consolidada del sector de la calificación crediticia. La crisis en los mercados financieros internacionales ha demostrado claramente que conviene seguir examinando la necesidad de reformar en profundidad el modelo regulador y de supervisión del sector financiero comunitario. Para alcanzar el nivel necesario de convergencia y de cooperación en materia de supervisión en la Comunidad y reforzar la estabilidad del sistema financiero, son extremadamente necesarias reformas adicionales en profundidad del modelo regulador y de supervisión del sector financiero comunitario, que deben ser propuestas rápidamente por la Comisión, teniendo debidamente en cuenta las conclusiones presentadas el 25 de febrero de 2009 por el grupo de expertos presidido por Jacques de Larosière. La Comisión debe informar lo antes posible y, en cualquier caso, antes del 1 de julio de 2010, al Parlamento Europeo, al Consejo y a las demás instituciones interesadas sobre los resultados a este respecto y debe presentar las propuestas legislativas necesarias para corregir las deficiencias detectadas en las disposiciones sobre coordinación y cooperación en materia de supervisión.
+
+(52)
+
+Debe examinarse la posibilidad de introducir cambios significativos en el régimen de refrendo, en los acuerdos de subcontratación y en la apertura y el cierre de sucursales, entre otros aspectos, como modificaciones sustanciales de las condiciones relativas al registro inicial de una agencia de calificación crediticia.
+
+(53)
+
+Las agencias de calificación crediticia deben ser supervisadas por las autoridades competentes del Estado miembro de origen en colaboración con las autoridades competentes de los demás Estados miembros, a través del colegio pertinente y con una implicación adecuada del CERV.
+
+(54)
+
+La capacidad de la autoridad competente del Estado miembro de origen y de otros miembros del colegio pertinente de evaluar y de controlar el cumplimiento, por parte de una agencia de calificación crediticia, de las obligaciones derivadas del presente Reglamento no debe estar limitada por los acuerdos de subcontratación que celebre la agencia de calificación crediticia. En caso de recurso a acuerdos de subcontratación, dicha agencia debe seguir siendo responsable de todas las obligaciones contraídas en virtud del presente Reglamento.
+
+(55)
+
+A fin de que los inversores y los consumidores conserven un elevado nivel de confianza y para poder supervisar permanentemente las calificaciones crediticias emitidas en la Comunidad, las agencias de calificación crediticia cuyo domicilio social esté situado fuera de la Comunidad deben estar obligadas a establecer una filial en esta, de modo que las actividades que ejerzan en la Comunidad puedan ser supervisadas eficazmente y pueda utilizarse eficazmente el régimen de refrendo. Debe alentarse, asimismo, la aparición de nuevos participantes en el mercado de las agencias de calificación crediticia.
+
+(56)
+
+Conviene que las autoridades competentes puedan utilizar las facultades definidas en el presente Reglamento en relación con las agencias de calificación crediticia, las personas que participan en las actividades de calificación crediticia, las entidades calificadas o los terceros vinculados, aquellos terceros a los que las agencias de calificación crediticia hayan subcontratado algunas de sus funciones o actividades, u otras personas relacionadas o conectadas de cualquier otra forma con las agencias o con las actividades de calificación crediticia. Entre estas personas debe incluirse a los accionistas o a los miembros de los consejos de administración o supervisión de las agencias de calificación crediticia y de las entidades calificadas.
+
+(57)
+
+Las disposiciones recogidas en el presente Reglamento en relación con los honorarios por supervisión no deben afectar a las disposiciones correspondientes de las legislaciones nacionales que rijan los honorarios de supervisión o similares.
+
+(58)
+
+Resulta oportuno crear un mecanismo que garantice el cumplimiento efectivo del presente Reglamento. Las autoridades competentes de los Estados miembros deben disponer de los medios necesarios para garantizar que las calificaciones emitidas en la Comunidad se emitan de conformidad con el presente Reglamento. El recurso a estas medidas de supervisión debe coordinarse siempre dentro del colegio pertinente. Deben adoptarse medidas como la baja registral o la suspensión de la utilización a efectos de regulación de las calificaciones crediticias en aquellos casos en que se consideren proporcionadas a la importancia del incumplimiento de las obligaciones derivadas del presente Reglamento. En el ejercicio de sus competencias de supervisión, las autoridades competentes deben tener debidamente en cuenta los intereses de los inversores y la estabilidad del mercado. Es preciso preservar la independencia de las agencias de calificación crediticia durante el proceso de emisión de las calificaciones, por lo que ni las autoridades competentes ni los Estados miembros deben interferir en lo que atañe a la sustancia de dichas calificaciones y los métodos empleados por la agencia para efectuarlas para no comprometer las calificaciones crediticias. En caso de que una agencia de calificación crediticia se vea sometida a presiones, debe notificarlo a la Comisión y al CERV. La Comisión debe examinar caso por caso si se deben adoptar medidas adicionales contra el Estado miembro en cuestión por incumplimiento de sus obligaciones con arreglo al presente Reglamento.
+
+(59)
+
+Es deseable que se garantice que el proceso decisorio previsto en el presente Reglamento se base en la estrecha cooperación entre las autoridades competentes de los Estados miembros y, por tanto, las decisiones de registro deben adoptarse de forma consensuada. Se trata de un requisito previo necesario para que el proceso de inscripción en el registro resulte eficaz y el ejercicio de las tareas de supervisión sea adecuado. El proceso decisorio debe ser eficaz, rápido y consensuado.
+
+(60)
+
+En aras de una supervisión eficiente y a fin de impedir la duplicación de tareas, las autoridades competentes de los Estados miembros deben cooperar entre sí.
+
+(61)
+
+Resulta, asimismo, importante prever el intercambio de información entre las autoridades competentes encargadas de la supervisión de las agencias de calificación crediticia en virtud del presente Reglamento y las autoridades competentes encargadas de la supervisión de las entidades financieras prevista en el presente Reglamento, en particular con las autoridades competentes encargadas de la supervisión prudencial o las encargadas de la estabilidad financiera en los Estados miembros.
+
+(62)
+
+Las autoridades competentes de los Estados miembros distintas de la autoridad competente del Estado miembro de origen deben poder intervenir y adoptar las medidas de supervisión oportunas, tras haber informado al CERV y a la autoridad competente del Estado miembro de origen y haber consultado al colegio pertinente, si han comprobado que una agencia de calificación crediticia registrada cuyas calificaciones se utilizan en su territorio está incumpliendo las obligaciones derivadas del presente Reglamento.
+
+(63)
+
+A menos que el presente Reglamento establezca un procedimiento específico en lo que se refiere al registro, la certificación o la baja registral, la adopción de medidas de supervisión o el ejercicio de las competencias de supervisión, debe ser de aplicación la legislación nacional que rige dichos procedimientos, incluidos los regímenes lingüísticos, el secreto profesional y el privilegio de confidencialidad, y no deben menoscabarse los derechos de las agencias de calificación crediticia ni de otras personas en virtud de dicha legislación.
+
+(64)
+
+Es necesario aumentar la convergencia de las facultades con que cuentan las autoridades competentes a fin de lograr un grado de cumplimiento equivalente en todo el mercado interior.
+
+(65)
+
+El CERV debe velar por la aplicación coherente del presente Reglamento. Debe potenciar y facilitar la cooperación y la coordinación de las autoridades competentes en materia de actividades de supervisión y adoptar orientaciones cuando resulte apropiado. En consecuencia, el CERV debe establecer un mecanismo de mediación y evaluación inter pares que facilite un enfoque coherente por parte de las autoridades competentes.
+
+(66)
+
+Los Estados miembros deben establecer normas relativas a las sanciones aplicables a los supuestos de infracción de las disposiciones del presente Reglamento y velar por su ejecución. Dichas sanciones deben ser efectivas, proporcionadas y disuasorias y cubrir, como mínimo, los casos de falta profesional grave y aquellos en los que se haya actuado con negligencia. Los Estados miembros deben tener la posibilidad de adoptar sanciones administrativas o penales. El CERV debe adoptar unas líneas directrices en materia de convergencia de las prácticas relacionadas con dichas sanciones.
+
+(67)
+
+Todo intercambio o comunicación de información entre las autoridades competentes, otras autoridades, organismos o personas debe realizarse con arreglo a las disposiciones relativas a la transmisión de datos de naturaleza personal previstas en la Directiva 95/46/CE.
+
+(68)
+
+El presente Reglamento debe incluir asimismo normas de intercambio de información con las autoridades competentes de terceros países, en particular las responsables de la supervisión de las agencias de calificación crediticia que intervienen en el refrendo y la certificación.
+
+(69)
+
+Sin perjuicio de la aplicación de esta legislación comunitaria, cualquier reclamación contra una agencia de calificación crediticia por incumplimiento de las disposiciones del presente Reglamento debe hacerse de conformidad con la legislación nacional aplicable en materia de responsabilidad civil.
+
+(70)
+
+Procede aprobar las medidas necesarias para la ejecución del presente Reglamento con arreglo a la Decisión 1999/468/CE del Consejo, de 28 de junio de 1999, por la que se establecen los procedimientos para el ejercicio de las competencias de ejecución atribuidas a la Comisión.
+
+(71)
+
+Conviene, en particular, conferir competencias a la Comisión para que, teniendo en cuenta la evolución de la situación internacional, modifique los anexos I y II, que establecen los criterios específicos que han de aplicarse para evaluar si una agencia de calificación crediticia cumple con sus obligaciones en lo que atañe a la organización interna, las normas de funcionamiento, las normas aplicables a sus empleados, la presentación de las calificaciones crediticias y la divulgación de información, y para que especifique o modifique los criterios para determinar la equivalencia del marco jurídico regulador y de supervisión de los terceros países con las disposiciones del presente Reglamento. Dado que estas medidas son de alcance general y destinadas a modificar elementos no esenciales del presente Reglamento, incluso completándolo con nuevos elementos no esenciales, deben adoptarse de conformidad con el procedimiento de reglamentación con control previsto en el artículo 5 bis de la Decisión 1999/468/CE.
+
+(72)
+
+Para tener en cuenta la evolución de los mercados financieros, la Comisión debe presentar un informe al Parlamento Europeo y al Consejo donde se evalúe la aplicación del presente Reglamento y, en particular, la fiabilidad normativa referente a la calificación crediticia y la idoneidad de la remuneración de la agencia de calificación crediticia por parte de la entidad calificada. A la luz de esta evaluación, la Comisión debe presentar propuestas legislativas adecuadas.
+
+(73)
+
+La Comisión debe presentar asimismo al Parlamento Europeo y al Consejo un informe donde se examinen los incentivos para que los emisores recurran a las agencias de calificación crediticia establecidas en la Comunidad para algunas de sus calificaciones, las posibles alternativas al modelo «el emisor paga», y la convergencia de las normas nacionales sobre incumplimiento de las disposiciones del presente Reglamento. A la luz de esta evaluación, la Comisión debe presentar propuestas legislativas adecuadas.
+
+(74)
+
+La Comisión debe presentar asimismo al Parlamento Europeo y al Consejo un informe donde se analice la evolución del marco regulador y de supervisión para las agencias de calificación crediticia de terceros países y los efectos de dicha evolución y de las disposiciones transitorias a que se refiere el presente Reglamento sobre la estabilidad de los mercados financieros de la Comunidad.
+
+(75)
+
+Dado que el objetivo del presente Reglamento, a saber, garantizar un elevado nivel de protección de los consumidores y de los inversores, estableciendo un marco común en relación con la calidad de las calificaciones crediticias emitidas en el mercado interior, no puede ser alcanzado de manera suficiente por los Estados miembros, dada la escasa legislación nacional en la materia y que la mayoría de las agencias de calificación crediticia están establecidas fuera de la Comunidad, y, por consiguiente, puede lograrse mejor a nivel comunitario, la Comunidad puede adoptar medidas, de acuerdo con el principio de subsidiariedad consagrado en el artículo 5 del Tratado. De conformidad con el principio de proporcionalidad enunciado en dicho artículo, el presente Reglamento no excede de lo necesario para alcanzar dicho objetivo.
+
+HAN ADOPTADO EL PRESENTE REGLAMENTO:
+
+TÍTULO I
+
+OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
+
+Artículo 1
+
+Objeto
+
+El presente Reglamento introduce un planteamiento regulador común para mejorar la integridad, la transparencia, la responsabilidad, la buena gobernanza y la fiabilidad de las actividades de calificación, contribuyendo así a la calidad de las calificaciones crediticias emitidas en la Comunidad y por ende al correcto funcionamiento del mercado interior, y alcanzando, al mismo tiempo, un elevado nivel de protección de los inversores. Establece condiciones para la emisión de calificaciones crediticias y normas relativas a la organización y actuación de las agencias de calificación crediticia, a fin de fomentar su independencia y evitar conflictos de intereses.
+
+Artículo 2
+
+Ámbito de aplicación
+
+1.   El presente Reglamento se aplicará a las calificaciones crediticias que sean emitidas por agencias de calificación crediticia registradas en la Comunidad y que se hagan públicas o se distribuyan por suscripción.
+
+2.   El presente Reglamento no se aplicará a:
+
+a)
+
+las calificaciones crediticias privadas emitidas en respuesta a un encargo individual y que se faciliten exclusivamente a la persona que las encargó y que no estén destinadas a la divulgación pública ni a la distribución mediante suscripción;
+
+b)
+
+las calificaciones crediticias, los sistemas de calificación crediticia o las evaluaciones similares relativas a obligaciones derivadas de relaciones de consumidores, comerciales o industriales;
+
+c)
+
+las calificaciones crediticias establecidas por las agencias de crédito a la exportación de conformidad con el anexo VI, parte 1, punto 1.3, de la Directiva 2006/48/CE, o
+
+d)
+
+las calificaciones crediticias que sean emitidas por los bancos centrales y que:
+
+i)
+
+no sean pagadas por la entidad calificada,
+
+ii)
+
+no se hagan públicas,
+
+iii)
+
+se emitan de acuerdo con los principios, normas y procedimientos que garanticen la integridad e independencia adecuadas de las actividades de calificación crediticia como se contempla en el presente Reglamento, y
+
+iv)
+
+no guarden relación con instrumentos financieros emitidos por los Estados miembros de los correspondientes bancos centrales.
+
+3.   Las agencias de calificación crediticia solicitarán su registro con arreglo al presente Reglamento como condición de su reconocimiento como Agencias de Calificación Externas (ECAI), de conformidad con el anexo VI, parte 2, de la Directiva 2006/48/CE, a menos que solo emitan las calificaciones crediticias mencionadas en el apartado 2.
+
+4.   A fin de garantizar la aplicación uniforme del apartado 2, letra d), la Comisión podrá, a petición de un Estado miembro, de conformidad con el procedimiento de reglamentación contemplado en el artículo 38, apartado 3, y con los criterios establecidos en el apartado 2, letra d), del presente artículo, adoptar una decisión por la que declare que un banco central entra en el ámbito de aplicación de dicha letra y que, en consecuencia, sus calificaciones crediticias quedan exentas de la aplicación del presente Reglamento.
+
+La Comisión publicará en su sitio web la lista de los bancos centrales que entran en el ámbito de aplicación del apartado 2, letra d), del presente artículo.
+
+Artículo 3
+
+Definiciones
+
+1.   A efectos del presente Reglamento, se entenderá por:
+
+a)
+
+«calificación crediticia»: un dictamen acerca de la solvencia de una entidad, una deuda u obligación financiera, una obligación, una acción preferente u otro instrumento financiero, o de un emisor de tal deuda u obligación financiera, obligación, acción preferente u otro instrumento financiero, emitido utilizando un sistema establecido y definido de clasificación de las categorías de calificación;
+
+b)
+
+«agencia de calificación crediticia»: una persona jurídica cuya ocupación incluya la emisión de calificaciones crediticias con carácter profesional;
+
+c)
+
+«Estado miembro de origen»: el Estado miembro en que la agencia de calificación crediticia tenga su domicilio social;
+
+d)
+
+«analista de calificaciones»: una persona que desempeñe las funciones analíticas necesarias para la emisión de una calificación crediticia;
+
+e)
+
+«analista de calificaciones principal»: una persona que asuma la responsabilidad principal de elaborar una calificación crediticia o de comunicarse con el emisor en todo lo relacionado con una calificación crediticia concreta o, en general, con la calificación crediticia de un instrumento financiero emitido por dicho emisor y, si procede, de elaborar recomendaciones sobre dicha calificación para presentarlas al comité calificador;
+
+f)
+
+«entidad calificada»: una persona jurídica cuya solvencia se califica, explícita o implícitamente, a través de la calificación crediticia, con independencia de que haya solicitado o no dicha calificación y de que haya facilitado o no información para la misma;
+
+g)
+
+«fines reglamentarios»: el uso de calificaciones crediticias con el propósito específico de cumplir el Derecho comunitario, tal como haya sido incorporado a la legislación de los Estados miembros;
+
+h)
+
+«categoría de calificación»: un símbolo, como por ejemplo una letra o número que puede ir acompañado de caracteres identificativos añadidos, utilizado en calificación crediticia para proporcionar una medida relativa del riesgo a fin de distinguir las diferentes características de riesgo de los tipos de entidades, emisores e instrumentos financieros u otros activos calificados;
+
+i)
+
+«tercero vinculado»: el originador, estructurador, patrocinador, administrador o cualquier otro interesado que interactúe con una agencia de calificación crediticia por cuenta de una entidad calificada, incluida cualquier persona que tenga, directa o indirectamente, un vínculo de control con dicha entidad calificada;
+
+j)
+
+«control»: la relación existente entre una empresa matriz y una filial, tal y como se describe en el artículo 1 de la Directiva 83/349/CEE del Consejo, de 13 de junio de 1983, relativa a las cuentas consolidadas, o una relación estrecha entre cualquier persona física o jurídica y una empresa;
+
+k)
+
+«instrumentos financieros»: los instrumentos enumerados en el anexo I, sección C, de la Directiva 2004/39/CE del Parlamento Europeo y del Consejo, de 21 de abril de 2004, relativa a los mercados de instrumentos financieros;
+
+l)
+
+«instrumento de financiación estructurada»: un instrumento financiero u otro activo resultante de una operación o mecanismo de titulización según se contempla en el artículo 4, punto 36, de la Directiva 2006/48/CE;
+
+m)
+
+«grupo de agencias de calificación crediticia»: un grupo de empresas establecido en la Comunidad integrado por una empresa matriz y sus filiales según lo previsto en los artículos 1 y 2 de la Directiva 83/349/CEE, así como las empresas vinculadas entre sí según lo contemplado en el artículo 12, apartado 1, de la Directiva 83/349/CEE, y cuya ocupación incluya emitir calificaciones crediticias. A efectos del artículo 4, apartado 3, letra a), el grupo de agencias de calificación crediticia incluirá también las agencias de calificación crediticia establecidas en terceros países;
+
+n)
+
+«alta dirección»: la persona o personas que dirigen efectivamente las operaciones de la agencia de calificación crediticia y el miembro o miembros de su consejo de administración o de supervisión;
+
+o)
+
+«actividades de calificación crediticia»: el análisis de datos e información y la evaluación, aprobación, emisión y revisión de las calificaciones crediticias.
+
+2.   A efectos del apartado 1, letra a), no se considerarán calificaciones crediticias:
+
+a)
+
+las recomendaciones en el sentido del artículo 1, punto 3, de la Directiva 2003/125/CE de la Comisión;
+
+b)
+
+los informes de inversiones, como se definen en el artículo 24, apartado 1, de la Directiva 2006/73/CE y otras formas de recomendación general como «compre», «venda» o «conserve» en relación con transacciones de instrumentos financieros y obligaciones financieras, o
+
+c)
+
+las opiniones sobre el valor de un instrumento financiero de una obligación financiera.
+
+Artículo 4
+
+Utilización de calificaciones crediticias
+
+1.   Las entidades de crédito tal como se definen en la Directiva 2006/48/CE, las empresas de inversión tal como se definen en la Directiva 2004/39/CE, las empresas de seguros sujetas a la primera Directiva 73/239/CEE del Consejo, de 24 de julio de 1973, sobre coordinación de las disposiciones legales, reglamentarias y administrativas relativas al acceso a la actividad del seguro directo distinto del seguro de vida, y a su ejercicio, las empresas de seguros tal como se definen en la Directiva 2002/83/CE del Parlamento Europeo y del Consejo, de 5 de noviembre de 2002, sobre el seguro de vida, las empresas de reaseguros tal como se definen en la Directiva 2005/68/CE del Parlamento Europeo y del Consejo, de 16 de noviembre de 2005, sobre el reaseguro, los organismos de inversión colectiva en valores mobiliarios (OICVM) tal como se definen en la Directiva 85/611/CE y los fondos de pensiones de empleo tal como se definen en la Directiva 2003/41/CE solo podrán utilizar con fines reglamentarios calificaciones crediticias que hayan sido emitidas por agencias de calificación crediticia establecidas en la Comunidad y registradas de conformidad con el presente Reglamento.
+
+Si un folleto publicado de conformidad con la Directiva 2003/71/CE y el Reglamento (CE) no 809/2004 contiene una referencia a una calificación o calificaciones crediticias, el emisor, el oferente o la persona que solicita la admisión a negociación en un mercado regulado deberá garantizar que el folleto incluya también información clara y destacada sobre si dicha calificación crediticia ha sido emitida o no por una agencia de calificación crediticia establecida en la Comunidad y registrada de conformidad con el presente Reglamento.
+
+2.   Se considerará que las agencias de calificación crediticia establecidas en la Comunidad y registradas en virtud del presente Reglamento han emitido una calificación crediticia cuando dicha calificación crediticia se haya publicado en el sitio web de la agencia o por otros medios o se haya distribuido por suscripción o presentado o divulgado con arreglo a las obligaciones del artículo 10, indicando con claridad que la calificación crediticia ha sido refrendada de conformidad con el apartado 3 del presente artículo.
+
+3.   Una agencia de calificación crediticia establecida en la Comunidad y registrada de conformidad con el presente Reglamento podrá refrendar una calificación crediticia emitida en un tercer país solo cuando las actividades de calificación crediticias que den lugar a la emisión de dicha calificación crediticia cumplan las siguientes condiciones:
+
+a)
+
+que las actividades de calificación crediticias que den lugar a la emisión de la calificación crediticia que vaya a refrendarse sean realizadas total o parcialmente por la agencia de calificación crediticia refrendante o por agencias de calificación crediticia que pertenezcan al mismo grupo;
+
+b)
+
+que la agencia de calificación crediticia haya verificado y pueda demostrar de manera continuada a la autoridad competente del Estado miembro de origen que la realización de actividades de calificación crediticia por parte de la agencia de calificación crediticia del tercer país que da lugar a la emisión de una calificación crediticia destinada a su refrendo cumple unos requisitos al menos tan rigurosos como los que figuran en los artículos 6 a 12;
+
+c)
+
+que la capacidad de la autoridad competente del Estado miembro de origen de la agencia de calificación crediticia refrendante o la del colegio de autoridades competentes a que se refiere el artículo 29 (colegio) de evaluar y supervisar el cumplimiento por parte la agencia de calificación crediticia establecida en el tercer país de los requisitos mencionados en la letra b) no esté limitada;
+
+d)
+
+que la agencia de calificación crediticia facilite, previa petición, a la autoridad competente del Estado miembro de origen toda la información necesaria para que dicha autoridad competente pueda supervisar de manera permanente el cumplimiento de los requisitos del presente Reglamento;
+
+e)
+
+que exista una razón objetiva para que la calificación crediticia se elabore en un tercer país;
+
+f)
+
+que la agencia de calificación crediticia establecida en el tercer país esté autorizada o registrada y sometida a supervisión en dicho tercer país;
+
+g)
+
+que el régimen reglamentario de dicho tercer país impida la interferencia de las autoridades competentes y de otras autoridades públicas de dicho país con el contenido de las metodologías y las calificaciones crediticias, y
+
+h)
+
+que exista un acuerdo de cooperación apropiado entre la autoridad competente del Estado miembro de origen de la agencia de calificación crediticia refrendante y la autoridad competente correspondiente de la agencia de calificación crediticia establecida en el tercer país. Las autoridades competentes de los Estados miembros de origen velarán por que dichos acuerdos de cooperación especifiquen como mínimo:
+
+i)
+
+el mecanismo para el intercambio de información entre las autoridades competentes afectadas, y
+
+ii)
+
+los procedimientos relativos a la coordinación de las actividades de supervisión para que la autoridad competente del Estado miembro de origen de la agencia de calificación crediticia refrendante pueda supervisar las actividades de calificación crediticia cuyo resultado sea la emisión de una calificación crediticia refrendada de manera permanente.
+
+4.   Una calificación crediticia refrendada de conformidad con el apartado 3 se considerará como una calificación crediticia emitida por una agencia de calificación crediticia establecida en la Comunidad y registrada de conformidad con el presente Reglamento.
+
+Una agencia de calificación crediticia establecida en la Comunidad y registrada de conformidad con el presente Reglamento no utilizará tal refrendo con la intención de eludir los requisitos del presente Reglamento.
+
+5.   La agencia de calificación crediticia que haya refrendado las calificaciones crediticias emitidas en un tercer país, con arreglo al apartado 3, será plenamente responsable de dichas calificaciones crediticias y del cumplimiento de las condiciones a que hace referencia dicho apartado.
+
+6.   Cuando la Comisión haya reconocido, de conformidad con el artículo 5, apartado 6, el marco jurídico y de supervisión de un tercer país como equivalente a los requisitos previstos por el presente Reglamento y los acuerdos de cooperación a que se refiere el artículo 5, apartado 7, sean operativos, la agencia de calificación crediticia que refrende calificaciones emitidas en el tercer país en cuestión no estará obligada a verificar o demostrar, según proceda, que se cumple la condición prevista en el apartado 3, letra g), del presente artículo.
+
+Artículo 5
+
+Equivalencia y certificación basada en la equivalencia
+
+1.   Las calificaciones crediticias que se refieran a entidades establecidas o a instrumentos financieros emitidos en terceros países y que hayan sido emitidas por una agencia de calificación crediticia establecida en un tercer país podrán utilizarse en la Comunidad en virtud del artículo 4, apartado 1, sin ser refrendadas con arreglo a lo dispuesto en el artículo 4, apartado 3, a condición de que:
+
+a)
+
+la agencia de calificación crediticia esté autorizada o registrada y sometida a supervisión en dicho tercer país;
+
+b)
+
+la Comisión haya adoptado una decisión en materia de equivalencia de conformidad con lo dispuesto en el apartado 6 del presente artículo, reconociendo el marco jurídico y de supervisión de un tercer país como equivalente a los requisitos previstos por el presente Reglamento;
+
+c)
+
+los acuerdos de cooperación a los que se refiere el apartado 7 del presente artículo sean operativos;
+
+d)
+
+las calificaciones crediticias emitidas por la agencia de calificación y las actividades de calificación de esta no sean de importancia sistémica para la estabilidad financiera o la integridad de los mercados financieros de uno o más Estados miembros, y
+
+e)
+
+la agencia de calificación crediticia haya sido certificada con arreglo a lo previsto en el apartado 2 del presente artículo.
+
+2.   Las agencias de calificación crediticia a las que se refiere el apartado anterior podrán solicitar la certificación. La solicitud se presentará al Comité de Responsables Europeos de Reglamentación de Valores (CERV) de conformidad con las disposiciones pertinentes del artículo 15. En un plazo de cinco días laborables a partir de la recepción de la solicitud de certificación, el CERV transmitirá dicha solicitud a las autoridades competentes de todos los Estados miembros, invitándoles a que consideren la posibilidad de adherirse al colegio pertinente de conformidad con el artículo 29, apartado 3, letra b). Las autoridades competentes que hayan decidido adherirse al colegio lo comunicarán al CERV en el plazo de diez días laborables a partir de la recepción de la invitación del CERV. Serán miembros del colegio las autoridades competentes que hayan respondido positivamente a la invitación del CERV. En un plazo de 20 días laborables a partir de la recepción de la solicitud de certificación, el CERV elaborará y publicará en su sitio web una lista de las autoridades competentes miembros del colegio. En un plazo de diez días laborables desde la publicación, los miembros del colegio seleccionarán un facilitador de acuerdo con los criterios establecidos en el artículo 29, apartado 5. Tras el establecimiento del colegio, su composición y funcionamiento se regirán por las disposiciones correspondientes del artículo 29.
+
+3.   El examen de la solicitud de certificación quedará sujeto a las disposiciones y los procedimientos pertinentes que establece el artículo 16. La decisión sobre la certificación se basará en los criterios recogidos en el apartado 1, letras a) a d), del presente artículo.
+
+La decisión sobre la certificación habrá de ser notificada y publicada con arreglo a las disposiciones del artículo 18.
+
+4.   La agencia de calificación crediticia también podrá solicitar, por separado, quedar exenta:
+
+a)
+
+de la obligación de cumplir los requisitos establecidos en la sección A del anexo I y en el artículo 7, apartado 4, sobre la base de un análisis caso por caso, si la agencia puede demostrar que dichos requisitos no son proporcionados, a la vista de la naturaleza, la dimensión y la complejidad de sus operaciones y de la naturaleza y el alcance de las calificaciones crediticias que emite;
+
+b)
+
+de la obligación de tener presencia física en la Comunidad cuando dicho requisito resulte demasiado gravoso y desproporcionado a la vista de la naturaleza, dimensión y complejidad de su actividad y de la naturaleza y el alcance de las calificaciones crediticias que emite.
+
+Al examinar dicha solicitud, las autoridades competentes tendrán en cuenta el tamaño de la agencia solicitante, habida cuenta de la naturaleza, dimensión y complejidad de su actividad y la naturaleza y el alcance de las calificaciones crediticias que emite, así como la repercusión de las calificaciones crediticias emitidas por la agencia sobre la integridad y la estabilidad financiera de los mercados financieros de uno o más Estados miembros. Sobre la base de estas consideraciones, la autoridad competente podrá conceder tal exención a la agencia de calificación crediticia.
+
+5.   Las decisiones sobre las exenciones en virtud del apartado 4 del presente artículo estarán sometidas a las disposiciones y procedimientos pertinentes previstos en el artículo 16, con excepción del apartado 7, párrafo segundo, de ese artículo. En caso de que se prolongue la falta de acuerdo entre los miembros del colegio pertinente sobre la concesión de una exención a la agencia de calificación crediticia, el facilitador adoptará una decisión plenamente motivada.
+
+A efectos de certificación, incluida la concesión de exenciones, y de supervisión, el facilitador ejercerá las funciones de la autoridad competente del Estado miembro de origen, cuando proceda.
+
+6.   La Comisión podrá adoptar una decisión en materia de equivalencia con arreglo al procedimiento de reglamentación contemplado en el artículo 38, apartado 3, por la que declare que el marco jurídico y de supervisión de un tercer país garantiza que las agencias de calificación crediticia autorizadas o registradas en dicho país cumplen los requisitos jurídicamente vinculantes que sean equivalentes a los requisitos derivados del presente Reglamento y están sometidos a una supervisión y un control de cumplimiento efectivos en dicho tercer país.
+
+El marco jurídico y de supervisión de un tercer país podrá considerarse equivalente al presente Reglamento si cumple como mínimo las siguientes condiciones:
+
+a)
+
+las agencias de calificación crediticia de dicho tercer país están sometidas a autorización o registro y a una supervisión y un control de cumplimiento efectivos de manera continuada;
+
+b)
+
+las agencias de calificación crediticia están sometidas a normas jurídicamente vinculantes equivalentes a las establecidas en los artículos 6 a 12 y el anexo I, y
+
+c)
+
+el régimen regulador de dicho tercer país impide la interferencia de las autoridades de supervisión y de otras autoridades públicas de dicho tercer país con el contenido de los métodos y las calificaciones crediticias.
+
+La Comisión precisará o modificará los criterios contemplados en el párrafo segundo, letras a) a c), a fin de tener en cuenta la evolución de los mercados financieros. Estas medidas, destinadas a modificar elementos no esenciales del presente Reglamento, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 38, apartado 2.
+
+7.   El facilitador celebrará acuerdos de cooperación con las autoridades competentes de los terceros países cuyos marcos jurídicos y de supervisión hayan sido considerados equivalentes al presente Reglamento según lo dispuesto en el apartado 6. En dichos acuerdos se hará constar, como mínimo:
+
+a)
+
+el mecanismo para el intercambio de información entre las autoridades competentes afectadas, y
+
+b)
+
+los procedimientos relativos a la coordinación de las actividades de supervisión.
+
+El CERV coordinará el desarrollo de los acuerdos de cooperación entre las autoridades competentes de los Estados miembros y las autoridades competentes de los terceros países cuyos marcos jurídicos y de supervisión hayan sido considerados equivalentes al presente Reglamento según lo dispuesto en el apartado 6.
+
+8.   Los artículos 20, 24 y 25 se aplicarán mutatis mutandis a las agencias de calificación crediticia certificadas y a las calificaciones crediticias emitidas por las mismas.
+
+TÍTULO II
+
+EMISIÓN DE CALIFICACIONES CREDITICIAS
+
+Artículo 6
+
+Independencia e inexistencia de conflictos de intereses
+
+1.   Las agencias de calificación crediticia adoptarán todas las medidas necesarias para velar por que la emisión de una calificación crediticia no se vea afectada por ningún conflicto de intereses ni ninguna relación comercial, reales o potenciales, que impliquen a la propia agencia emisora de la calificación crediticia, sus administradores, analistas, empleados, cualquier otra persona física cuyos servicios estén puestos a disposición o sometidos a control de la agencia o cualquier persona que tenga, directa o indirectamente, con ella un vínculo de control.
+
+2.   A fin de garantizar el cumplimiento de lo dispuesto en el apartado 1, la agencia de calificación crediticia deberá satisfacer los requisitos fijados en el anexo I, secciones A y B.
+
+3.   A petición de una agencia de calificación crediticia, la autoridad competente del Estado miembro de origen podrá eximir a una agencia de calificación crediticia del cumplimiento de los requisitos del anexo I, sección A, puntos 2, 5 y 6, así como del artículo 7, apartado 4, si la agencia de calificación crediticia puede demostrar que dichos requisitos no son proporcionados, a la vista de la naturaleza, la dimensión y la complejidad de sus operaciones y de la naturaleza y el alcance de las calificaciones crediticias que emite, y que:
+
+a)
+
+la agencia de calificación crediticia tiene menos de 50 empleados;
+
+b)
+
+la agencia de calificación crediticia ha aplicado medidas y procedimientos, en particular mecanismos de control interno, medidas en materia de notificación y medidas que garanticen la independencia de los analistas de calificaciones y de las personas que aprueban las calificaciones crediticias, garantizándose así el cumplimiento efectivo de los objetivos del presente Reglamento, y
+
+c)
+
+el tamaño de la agencia de calificación crediticia no ha sido determinado con el propósito de que una agencia o un grupo de agencias pueda eludir el cumplimiento de los requisitos del presente Reglamento por una agencia de calificación crediticia o un grupo de agencias de calificación crediticia.
+
+En caso de que se trate de un grupo de agencias de calificación crediticia, las autoridades competentes velarán por que al menos una de las agencias de calificación crediticia del grupo no esté exenta del cumplimiento de los requisitos del anexo I, sección A, puntos 2, 5 y 6, y del artículo 7, apartado 4.
+
+Artículo 7
+
+Analistas de calificaciones, empleados y otras personas que participan en la emisión de calificaciones crediticias
+
+1.   Las agencias de calificación crediticia velarán por que los analistas de calificaciones, sus empleados y cualquier persona física cuyos servicios se pongan a su disposición o bajo su control y que intervengan directamente en las actividades de calificación crediticia posean los conocimientos y la experiencia adecuados para el desempeño de las funciones atribuidas.
+
+2.   Las agencias de calificación crediticia velarán por que las personas mencionadas en el apartado 1 no estén autorizadas a iniciar o participar en negociaciones sobre honorarios o pagos con una entidad calificada, un tercero vinculado o una persona que tenga, directa o indirectamente, un vínculo de control con la entidad calificada.
+
+3.   Las agencias de calificación crediticia velarán por que las personas a las que se refiere el apartado 1 cumplan los requisitos establecidos en el anexo I, sección C.
+
+4.   Las agencias de calificación crediticia establecerán un mecanismo de rotación gradual adecuado con respecto a los analistas de calificaciones y a las personas responsables de aprobar las calificaciones crediticias tal como se definen en el anexo I, sección C. Dicho mecanismo de rotación se llevará a cabo de manera escalonada de forma individual y no con el equipo completo.
+
+5.   La retribución y la evaluación de los resultados de los analistas de calificaciones y las personas responsables de aprobar las calificaciones crediticias no estarán subordinadas a la cuantía de ingresos que la agencia de calificación crediticia obtenga de las entidades calificadas o de terceros vinculados.
+
+Artículo 8
+
+Métodos, modelos e hipótesis fundamentales de calificación
+
+1.   Las agencias de calificación crediticia harán públicos los métodos, los modelos y las hipótesis fundamentales que utilicen en sus actividades de calificación crediticia, tal como se definen en el anexo I, sección E, parte I, punto 5.
+
+2.   Las agencias de calificación crediticia adoptarán, aplicarán y harán cumplir medidas adecuadas para velar por que las calificaciones crediticias que emitan se basen en un análisis completo de toda la información de que dispongan y que sea pertinente para su análisis con arreglo a sus métodos de calificación. Adoptarán cuantas medidas resulten necesarias para que la información que utilicen a efectos de la asignación de una calificación crediticia sea de suficiente calidad y provenga de fuentes fiables.
+
+3.   Las agencias de calificación crediticia emplearán métodos de calificación que sean rigurosos, sistemáticos, continuados y que puedan ser validados a partir de la experiencia histórica, incluida la simulación retrospectiva.
+
+4.   Cuando una agencia de calificación crediticia utilice una calificación crediticia elaborada por otra agencia en relación con activos subyacentes o instrumentos de financiación estructurada, no se negará a emitir una calificación crediticia con respecto a una entidad o un instrumento financiero por el hecho de que una parte de la entidad o el instrumento hayan sido calificados, con anterioridad, por otra agencia de calificación crediticia.
+
+Las agencias de calificación crediticia conservarán constancia documental de todos los casos en que, con ocasión de su proceso de calificación crediticia, se aparten de las calificaciones existentes emitidas por otra agencia en relación con activos subyacentes o instrumentos de financiación estructurada, justificando esa evaluación diferente.
+
+5.   Las agencias de calificación crediticia realizarán un seguimiento de sus calificaciones crediticias y revisarán sus calificaciones crediticias y sus métodos de manera permanente y al menos una vez al año, en particular, cuando se produzcan cambios sustanciales que puedan afectar a una calificación crediticia. Las agencias de calificación crediticia establecerán mecanismos internos para controlar el impacto que tengan los cambios en las condiciones macroeconómicas y de los mercados financieros sobre las calificaciones crediticias.
+
+6.   En el supuesto de que se modifiquen los métodos, los modelos o las hipótesis fundamentales utilizados en las actividades de calificación, la agencia de calificación crediticia deberá:
+
+a)
+
+comunicar de inmediato, valiéndose de los mismos medios de comunicación utilizados para la difusión de las calificaciones crediticias afectadas, qué calificaciones crediticias se verán probablemente afectadas;
+
+b)
+
+revisar las calificaciones crediticias afectadas lo antes posible y, a más tardar, en los seis meses siguientes a la modificación, y mantener entretanto dichas calificaciones en observación, y
+
+c)
+
+reevaluar todas las calificaciones crediticias que se hayan basado en tales métodos, modelos o hipótesis fundamentales de calificación si, tras la revisión, el efecto combinado general de las modificaciones afecta a estas calificaciones crediticias.
+
+Artículo 9
+
+Subcontratación
+
+No se llevará a cabo la subcontratación de funciones operativas importantes de manera que ello perjudique sensiblemente a la calidad del control interno de la agencia de calificación crediticia ni a la capacidad de las autoridades competentes para controlar que la agencia de calificación crediticia cumple las obligaciones previstas en el presente Reglamento.
+
+Artículo 10
+
+Divulgación y presentación de las calificaciones crediticias
+
+1.   Las agencias de calificación crediticia divulgarán cualquier calificación crediticia, así como toda decisión de suspender una calificación crediticia de forma no selectiva y sin demoras. En caso de que se decida suspender una calificación crediticia, la información divulgada incluirá una motivación exhaustiva de tal decisión.
+
+Lo dispuesto en el párrafo primero será aplicable asimismo a las calificaciones crediticias distribuidas por suscripción.
+
+2.   Las agencias de calificación crediticia velarán por que las calificaciones crediticias se presenten y traten de conformidad con los requisitos establecidos en el anexo I, sección D.
+
+3.   Cuando una agencia de calificación crediticia califique instrumentos de financiación estructurada, velará por que las categorías de calificación que se atribuyan a los instrumentos de financiación estructurada estén claramente diferenciadas mediante un símbolo adicional que las distinga de las categorías utilizadas para cualquier otro tipo de entidades, instrumentos financieros u obligaciones financieras.
+
+4.   Las agencias de calificación crediticia divulgarán su política en materia de calificaciones no solicitadas y los procedimientos que apliquen al respecto.
+
+5.   Cuando una agencia de calificación crediticia emita una calificación crediticia no solicitada, indicará en ella de forma destacada si la entidad calificada o el tercero vinculado ha participado o no en el proceso de calificación y si la propia agencia ha tenido acceso a las cuentas y demás documentación interna pertinente de la entidad calificada o un tercero vinculado.
+
+Las calificaciones crediticias no solicitadas se identificarán como tales.
+
+6.   Las agencias de calificación crediticia velarán por que no se utilice el nombre de ninguna autoridad competente de manera que indique o sugiera refrendo o aprobación por parte de dicha autoridad de las calificaciones crediticias o de cualesquiera actividades de calificación crediticia de la agencia de calificación crediticia.
+
+Artículo 11
+
+Comunicaciones generales y periódicas
+
+1.   Las agencias de calificación crediticia harán totalmente pública y actualizarán de inmediato la información que se especifica en el anexo I, sección E, parte I.
+
+2.   Las agencias de calificación crediticia comunicarán a un registro central establecido por el CERV información acerca de sus resultados históricos, incluida la frecuencia de la transición de las calificaciones e información sobre calificaciones crediticias emitidas en el pasado y sobre los cambios de las mismas. Las agencias de calificación crediticia facilitarán la información a este registro en un formato estándar, tal como prevé el CERV. El CERV pondrá esa información a disposición del público y publicará anualmente un resumen de los principales cambios observados.
+
+3.   Las agencias de calificación crediticia facilitarán anualmente a las autoridades competentes del Estado miembro de origen y al CERV la información que se especifica en el anexo I, sección E, parte II, punto 2. Las autoridades competentes de los Estados miembros de origen comunicarán dicha información a los miembros del colegio pertinente.
+
+Artículo 12
+
+Informe de transparencia
+
+Las agencias de calificación crediticia publicarán todos los años un informe de transparencia que contenga la información que se especifica en el anexo I, sección E, parte III. Las agencias de calificación crediticia publicarán su informe de transparencia a más tardar tres meses después de que concluya cada ejercicio y velarán por que pueda consultarse en sus páginas en internet durante cinco años, como mínimo.
+
+Artículo 13
+
+Honorarios por comunicación pública
+
+Las agencias de calificación crediticia no cobrarán honorarios por la información facilitada de conformidad con los artículos 8 a 12.
+
+TÍTULO III
+
+SUPERVISIÓN DE LAS ACTIVIDADES DE CALIFICACIÓN CREDITICIA
+
+CAPÍTULO I
+
+Procedimiento de registro
+
+Artículo 14
+
+Condiciones de registro
+
+1.   Las agencias de calificación crediticia solicitarán su registro a efectos del artículo 2, apartado 1, a condición de que sean personas jurídicas establecidas en la Comunidad.
+
+2.   El registro surtirá efecto en todo el territorio de la Comunidad una vez que la decisión de registro expedida por la autoridad competente del Estado miembro de origen a que se refiere el artículo 16, apartado 7, o el artículo 17, apartado 7, haya surtido efecto en virtud de la legislación nacional pertinente.
+
+3.   Las agencias de calificación crediticia registradas deberán cumplir en todo momento las condiciones de registro inicial.
+
+Las agencias de calificación crediticia notificarán, sin dilaciones indebidas, al CERV, a la autoridad competente del Estado miembro de origen y al facilitador cualquier modificación significativa de las condiciones de registro inicial, incluyendo la apertura o el cierre de una sucursal dentro de la Comunidad.
+
+4.   Sin perjuicio de lo dispuesto en los artículos 16 o 17, la autoridad competente del Estado miembro de origen procederá al registro de la agencia de calificación crediticia si llega a la conclusión, basándose en el examen de la solicitud, de que la agencia de calificación crediticia cumple las condiciones para la emisión de calificaciones crediticias establecidas en el presente Reglamento, teniendo en cuenta los artículos 4 y 6.
+
+5.   Las autoridades competentes no impondrán requisitos para el registro que no estén previstos en el presente Reglamento.
+
+Artículo 15
+
+Solicitud de registro
+
+1.   La agencia de calificación crediticia presentará una solicitud de registro al CERV. La solicitud contendrá la información que se especifica en el anexo II.
+
+2.   Cuando un grupo de agencias de calificación crediticia solicite su registro, los miembros del grupo encomendarán a uno de ellos que presente todas las solicitudes al CERV en nombre del grupo. La agencia de calificación crediticia mandataria proporcionará la información que se especifica en el anexo II en relación con cada uno de los miembros del grupo.
+
+3.   Las agencias de calificación crediticia presentarán su solicitud en la lengua exigida por la legislación de sus Estados miembros de origen, y en una lengua de uso habitual en el ámbito de las finanzas internacionales.
+
+Se considerará que las solicitudes de registro remitidas por el CERV a las autoridades competentes de los Estados miembros de origen son solicitudes presentadas por las agencias de calificación crediticia de que se trate.
+
+4.   En los cinco días laborables siguientes a su recepción, el CERV remitirá copias de la solicitud a las autoridades competentes de todos los Estados miembros.
+
+En los diez días laborables siguientes a su recepción, el CERV asesorará a la autoridad competente del Estado miembro de origen sobre si la solicitud está completa.
+
+5.   En los 25 días laborables siguientes a la recepción de la solicitud, la autoridad competente del Estado miembro de origen y los miembros del colegio pertinente comprobarán si la solicitud está completa, teniendo en cuenta el asesoramiento del CERV a que se refiere el apartado 4. Si la solicitud no está completa, la autoridad competente del Estado miembro de origen fijará un plazo para que la agencia de calificación crediticia facilite información adicional, tanto a ella como al CERV, e informará a los miembros del colegio y al CERV en consecuencia.
+
+Una vez que se haya estimado que una solicitud está completa, la autoridad competente del Estado miembro de origen informará a la agencia de calificación crediticia, a los miembros del colegio y al CERV en consecuencia.
+
+6.   En los cinco días laborables siguientes a la recepción de la información adicional contemplada en el apartado 5, el CERV remitirá la información adicional a las autoridades competentes distintas de las autoridades competentes de todos los demás Estados miembros.
+
+Artículo 16
+
+Examen de la solicitud de registro de una agencia de calificación crediticia por las autoridades competentes
+
+1.   En los 60 días laborables siguientes a la recepción de la notificación a que se refiere el artículo 15, apartado 5, párrafo segundo, la autoridad competente del Estado miembro de origen y las autoridades competentes que sean miembros del colegio pertinente:
+
+a)
+
+examinarán conjuntamente la solicitud de registro, y
+
+b)
+
+harán cuanto esté razonablemente en su mano para lograr un acuerdo sobre la concesión o la denegación del registro a la agencia de calificación crediticia, basándose en el cumplimiento de las condiciones establecidas en el presente Reglamento por parte de la agencia de calificación crediticia.
+
+2.   El facilitador podrá ampliar el plazo de examen a 30 días laborables, en particular en el caso de que la agencia de calificación crediticia:
+
+a)
+
+tenga previsto refrendar calificaciones crediticias como se prevé en el artículo 4, apartado 4;
+
+b)
+
+tenga previsto recurrir a la subcontratación, o
+
+c)
+
+solicite una exención del cumplimiento con arreglo al artículo 6, apartado 3.
+
+3.   El facilitador coordinará el examen de la solicitud presentada por la agencia de calificación crediticia y velará por que los miembros del colegio pertinente compartan toda la información necesaria para llevar a cabo dicho examen.
+
+4.   La autoridad competente del Estado miembro de origen preparará un proyecto de decisión motivado de manera exhaustiva con arreglo al acuerdo contemplado en el apartado 1, letra b), y lo presentará al facilitador.
+
+En caso de falta de acuerdo entre los miembros del colegio pertinente, la autoridad competente del Estado miembro de origen preparará un proyecto de decisión de denegación motivado de manera exhaustiva basado en las opiniones escritas de los miembros del colegio que se oponen al registro y lo presentará al facilitador. Los miembros del colegio que estén a favor del registro elaborarán y presentarán al facilitador una explicación detallada de sus opiniones.
+
+5.   En los 60 días laborables siguientes a la notificación a que se refiere el artículo 15, apartado 5, segundo párrafo, y en cualquier caso en un plazo de 90 días laborables en el caso de que se aplique el apartado 2, el facilitador comunicará al CERV el proyecto de decisión de registro o de denegación motivado de manera exhaustiva, acompañado de las explicaciones detalladas a que hace referencia el apartado 4, párrafo segundo.
+
+6.   En los 20 días laborables siguientes a la recepción de la comunicación a que hace referencia el apartado 5, el CERV prestará asesoramiento a los miembros del colegio pertinente sobre el cumplimiento de los requisitos de registro por parte de la agencia de calificación crediticia. Una vez recibido el asesoramiento del CERV, los miembros del colegio examinarán de nuevo el proyecto de decisión.
+
+7.   Las autoridades competentes de los Estados miembros de origen adoptarán una decisión de autorización del registro o una decisión de denegación motivada de manera exhaustiva en los 15 días laborables siguientes a la recepción del asesoramiento del CERV. Si la autoridad competente del Estado miembro de origen se desvía del asesoramiento del CERV, deberá motivarlo de manera exhaustiva. Si el CERV no presta asesoramiento alguno, la autoridad competente del Estado miembro de origen adoptará su decisión en los 30 días laborables siguientes a la comunicación al CERV del proyecto de decisión, de conformidad con el apartado 5.
+
+En caso de que se prolongue la falta de acuerdo entre los miembros del colegio pertinente, la autoridad competente del Estado miembro de origen adoptará una decisión de denegación motivada de manera exhaustiva en la que se indicarán las autoridades competentes que disienten y se expondrán sus opiniones.
+
+Artículo 17
+
+Examen de la solicitud de registro de un grupo de agencias de calificación crediticia por parte de las autoridades competentes
+
+1.   En los 60 días laborables siguientes a la recepción de la notificación contemplada en el artículo 15, apartado 5, párrafo segundo, el facilitador y las autoridades competentes que sean miembros del colegio pertinente:
+
+a)
+
+estudiarán conjuntamente las solicitudes de registro, y
+
+b)
+
+harán cuanto sea razonable para lograr un acuerdo sobre la concesión o la denegación de registro a los miembros del grupo de agencias de calificación crediticia, basándose en el cumplimiento de las condiciones establecidas en el presente Reglamento por parte de dichas agencias de calificación crediticia.
+
+2.   El facilitador podrá ampliar el plazo de examen a 30 días laborables, en particular en el caso de que una agencia de calificación crediticia del grupo:
+
+a)
+
+tenga previsto refrendar calificaciones crediticias como se prevé en el artículo 4, apartado 3;
+
+b)
+
+tenga previsto recurrir a la subcontratación, o
+
+c)
+
+solicite una exención del cumplimiento con arreglo al artículo 6, apartado 3.
+
+3.   El facilitador coordinará el examen de las solicitudes presentadas por el grupo de agencias de calificación crediticia y velará por que los miembros del colegio pertinente compartan toda la información necesaria para llevar a cabo dicho examen.
+
+4.   Las autoridades competentes de los Estados miembros de origen prepararán proyectos de decisión individual motivados de manera exhaustiva para cada agencia de calificación crediticia del grupo con arreglo al acuerdo contemplado en el apartado 1, letra b), y los presentarán al facilitador.
+
+En caso de falta de acuerdo entre los miembros del colegio pertinente, las autoridades competentes de los Estados miembros de origen prepararán proyectos de decisión de denegación motivados de manera exhaustiva, basados en las opiniones escritas de los miembros del colegio que se oponen al registro, y los presentarán al facilitador. Los miembros del colegio que estén a favor del registro prepararán y presentarán al facilitador una explicación detallada de sus opiniones.
+
+5.   En los 60 días laborables siguientes a la notificación a que se refiere el artículo 15, apartado 5, párrafo segundo, y en cualquier caso en un plazo de 90 días laborables en el caso de que se aplique el apartado 2, el facilitador comunicará al CERV los proyectos de decisión individual de registro motivados de manera exhaustiva, o los proyectos de decisión de denegación acompañados de las explicaciones detalladas a que hace referencia el apartado 4, párrafo segundo.
+
+6.   En los 20 días laborables siguientes a la recepción de la comunicación a que hace referencia el apartado 5, el CERV prestará asesoramiento a los miembros del colegio pertinente sobre el cumplimiento de los requisitos de registro por parte de las agencias de calificación crediticia del grupo. Tras la recepción del asesoramiento del CERV, los miembros del colegio examinarán de nuevo los proyectos de decisión.
+
+7.   Las autoridades competentes de los Estados miembros de origen adoptarán decisiones de autorización del registro o de denegación motivadas de manera exhaustiva en los 15 días laborables siguientes a la recepción del asesoramiento del CERV. Si las autoridades competentes de los Estados miembros de origen se desvían del asesoramiento del CERV, deberán motivarlo de manera exhaustiva. Si el CERV no presta asesoramiento alguno, las autoridades competentes de los Estados miembros de origen adoptarán sus decisiones en los 30 días laborables siguientes a la comunicación al CERV de los proyectos de decisión, de conformidad con el apartado 5.
+
+En caso de que se prolongue la falta de acuerdo entre los miembros del colegio pertinente sobre la concesión de la inscripción en el registro a alguna de las agencias de calificación crediticia del grupo, la autoridad competente del Estados miembro de origen de tal agencia de calificación crediticia adoptará una decisión de denegación motivada de manera exhaustiva en la que se indicarán las autoridades competentes que disienten y se expondrán sus opiniones.
+
+Artículo 18
+
+Notificación de la decisión de registro, de denegación de registro o de baja registral de una agencia de calificación crediticia
+
+1.   En los cinco días laborables siguientes a la adopción de una decisión en virtud de los artículos 16 o 17, la autoridad competente del Estado miembro de origen notificará a la agencia de calificación crediticia afectada si ha sido o no registrada. En el supuesto de que la autoridad competente del Estado miembro de origen se niegue a registrar a la agencia de calificación crediticia, motivarán de manera exhaustiva su decisión.
+
+2.   La autoridad competente del Estado miembro de origen notificará a la Comisión Europea, al CERV y a las demás autoridades competentes cualquier decisión adoptada con arreglo a los artículos 16, 17 o 20.
+
+3.   La Comisión publicará en el Diario Oficial de la Unión Europea y en su sitio web una lista de las agencias de calificación crediticias registradas de conformidad con el presente Reglamento. La lista se actualizará en los 30 días siguientes a la notificación a que se refiere el apartado 2.
+
+Artículo 19
+
+Tasas de registro y de supervisión
+
+La autoridad competente del Estado miembro de origen podrá cobrar a la agencia de calificación crediticia tasas de registro o de supervisión, o de ambos tipos. Las tasas de registro y de supervisión serán proporcionales al coste en que haya incurrido la autoridad competente del Estado miembro de origen.
+
+Artículo 20
+
+Baja registral
+
+1.   La autoridad competente del Estado miembro de origen procederá a la baja registral de una agencia de calificación crediticia cuando esta:
+
+a)
+
+renuncie expresamente al registro o no haya emitido calificación crediticia alguna en los seis meses anteriores;
+
+b)
+
+haya obtenido el registro valiéndose de declaraciones falsas o de cualquier otro medio irregular;
+
+c)
+
+deje de cumplir las condiciones iniciales de registro, o
+
+d)
+
+haya infringido de forma grave o reiterada las disposiciones del presente Reglamento que regulan las condiciones de ejercicio de la actividad de las agencias de calificación crediticia.
+
+2.   Cuando la autoridad competente del Estado miembro de origen considere que se ha cumplido una de las condiciones contempladas en el apartado 1, lo notificará al facilitador y cooperará estrechamente con los miembros del colegio pertinente para decidir si se procede a la baja registral de la agencia de calificación crediticia.
+
+Los miembros del colegio llevarán a cabo una evaluación conjunta y harán cuanto esté razonablemente en su mano para llegar a un acuerdo sobre la necesidad de proceder a la baja registral de la agencia de calificación crediticia.
+
+A falta de acuerdo, la autoridad competente del Estado miembro de origen, a petición de cualquiera de los otros miembros del colegio o por iniciativa propia, solicitará asesoramiento al CERV. Este prestará su asesoramiento en un plazo de 15 días laborables a partir de la recepción de dicha solicitud.
+
+La autoridad competente de cada uno de los Estados miembros de origen adoptará su decisión individual de baja basándose en el acuerdo alcanzado en el colegio.
+
+A falta de acuerdo entre los miembros del colegio en los 30 días laborables siguientes a la notificación al facilitador, según lo dispuesto en el párrafo primero, la autoridad competente del Estado miembro de origen podrá adoptar una decisión individual de baja. Cualquier divergencia de su decisión en relación con las opiniones manifestadas por los demás miembros del colegio, y, en su caso, con el asesoramiento prestado por el CERV, se motivará de manera exhaustiva.
+
+3.   La autoridad competente de un Estado miembro en el que se utilicen las calificaciones crediticias emitidas por la agencia de calificación crediticia afectada y que considere que se ha cumplido una de las condiciones contempladas en el apartado 1, podrá solicitar al colegio pertinente que examine si se cumplen las condiciones para una baja registral. Si la autoridad competente del Estado miembro de origen no procede a la baja registral de la agencia de calificación crediticia afectada, lo motivará de manera exhaustiva.
+
+4.   La decisión de baja registral surtirá efecto inmediato en toda la Comunidad, sin perjuicio del período transitorio de utilización de calificaciones crediticias a que se refiere el artículo 24, apartado 2.
+
+CAPÍTULO II
+
+CERV y autoridades competentes
+
+Artículo 21
+
+Comité de Responsables Europeos de Reglamentación de Valores
+
+1.   El CERV prestará asesoramiento a las autoridades competentes en los casos contemplados en el presente Reglamento. Las autoridades competentes tomarán en consideración dicho asesoramiento antes de adoptar una decisión definitiva con arreglo al presente Reglamento.
+
+2.   A más tardar el 7 de junio de 2010, el CERV publicará orientaciones sobre:
+
+a)
+
+el proceso de registro y los acuerdos de coordinación entre autoridades competentes y con el CERV, incluida la información que figura en el anexo II y el régimen lingüístico aplicable a las solicitudes presentadas al CERV;
+
+b)
+
+el funcionamiento operativo del colegio, incluidas las modalidades de determinación de la pertenencia a este colegio, la aplicación de los criterios de selección del facilitador contemplados en el artículo 29, apartado 5, letras a) a d), los acuerdos escritos para el funcionamiento de los colegios y los acuerdos de coordinación entre los colegios;
+
+c)
+
+la aplicación del régimen de refrendo en virtud del artículo 4, apartado 3, por parte de las autoridades competentes, y
+
+d)
+
+las normas comunes para la presentación de la información, incluidos la estructura, el formato, el método y el período de información, que las agencias de calificación crediticia divulgarán de conformidad con el artículo 11, apartado 2, y el anexo I, sección E, parte II, punto 1.
+
+3.   A más tardar el 7 de septiembre de 2010, el CERV publicará orientaciones sobre:
+
+a)
+
+las prácticas y actividades coercitivas a que deberán proceder las autoridades competentes en virtud del presente Reglamento;
+
+b)
+
+las normas comunes para evaluar si los métodos de calificación crediticia se ajustan a los requisitos establecidos en el artículo 8, apartado 3;
+
+c)
+
+los tipos de medidas previstas en el artículo 24, apartado 1, letra d), para garantizar que las agencias de calificación crediticia sigan cumpliendo los requisitos legales, y
+
+d)
+
+la información que la agencia de calificación crediticia debe facilitar para solicitar la certificación y para la evaluación de la importancia sistémica para la estabilidad financiera o la integridad de los mercados financieros contemplados en el artículo 5.
+
+4.   A más tardar el 7 de diciembre de 2010, y posteriormente cada año, el CERV publicará un informe sobre la aplicación del presente Reglamento. El informe incluirá, en particular, una evaluación de la aplicación del anexo I por las agencias de calificación crediticia registradas con arreglo al presente Reglamento.
+
+5.   El CERV cooperará con el Comité de Supervisores Bancarios Europeos establecido por la Decisión 2009/78/CE de la Comisión y con el Comité Europeo de Supervisores de Seguros y de Pensiones de Jubilación establecido por la Decisión 2009/79/CE de la Comisión, y consultará a esos Comités antes de publicar las orientaciones a que se refieren los apartados 2 y 3.
+
+Artículo 22
+
+Autoridades competentes
+
+1.   A más tardar el 7 de junio de 2010, cada Estado miembro designará una autoridad competente a efectos de lo previsto en el presente Reglamento.
+
+2.   Las autoridades competentes contarán con personal suficiente y cualificado a fin de poder aplicar el presente Reglamento.
+
+Artículo 23
+
+Facultades de las autoridades competentes
+
+1.   En el desempeño de sus funciones de conformidad con el presente Reglamento, ni las autoridades competentes de los Estados miembros ni otras autoridades públicas de los Estados miembros interferirán en el contenido de las calificaciones crediticias ni en las metodologías.
+
+2.   A fin de desempeñar sus funciones de conformidad con el presente Reglamento, las autoridades competentes dispondrán de todas las facultades de supervisión e investigación necesarias para el ejercicio de sus funciones, de conformidad con la legislación nacional. Ejercerán sus facultades:
+
+a)
+
+directamente;
+
+b)
+
+en colaboración con otras autoridades, o
+
+c)
+
+mediante recurso a las autoridades judiciales competentes.
+
+3.   A fin de desempeñar sus funciones de conformidad con el presente Reglamento, las autoridades competentes estarán facultadas, de conformidad con el Derecho nacional, para, en el ejercicio de sus competencias de supervisión:
+
+a)
+
+tener acceso a cualquier documento bajo cualquier forma y recibir o realizar una copia del mismo;
+
+b)
+
+requerir información de cualquier persona y, en su caso, convocar e interrogar a una persona para obtener información;
+
+c)
+
+realizar inspecciones in situ con o sin previo aviso, y
+
+d)
+
+requerir una relación de comunicaciones telefónicas y tráfico de datos.
+
+Las autoridades competentes podrán ejercer las facultades a que se refiere el párrafo primero únicamente en relación con las agencias de calificación crediticia, las personas que participan en las actividades de calificación, las entidades calificadas o terceros vinculados, los terceros a los que las agencias de calificación crediticia hayan subcontratado algunas de sus funciones o actividades, y las personas relacionadas o conectadas de cualquier otra forma con las agencias o con las actividades de calificación crediticia.
+
+Artículo 24
+
+Medidas de supervisión de las autoridades competentes del Estado miembro de origen
+
+1.   Cuando la autoridad competente del Estado miembro de origen haya comprobado que una agencia de calificación crediticia registrada incumple las obligaciones que se derivan del presente Reglamento, podrá adoptar las medidas siguientes:
+
+a)
+
+proceder a la baja registral de la agencia de calificación crediticia de conformidad con el artículo 20;
+
+b)
+
+prohibir temporalmente a la agencia de calificación crediticia la emisión de calificaciones crediticias con efectos en toda la Comunidad;
+
+c)
+
+suspender el uso, a efectos de regulación, de las calificaciones crediticias emitidas por tal agencia de calificación crediticia con efectos en toda la Comunidad;
+
+d)
+
+adoptar medidas adecuadas para garantizar que las agencias de calificación crediticia sigan cumpliendo los requisitos legales;
+
+e)
+
+publicar avisos;
+
+f)
+
+remitir los casos susceptibles de enjuiciamiento penal a sus autoridades nacionales competentes.
+
+2.   Las calificaciones crediticias podrán seguir utilizándose a efectos de regulación, tras la adopción de las medidas previstas en el apartado 1, letras a) y c), durante un plazo que no exceda:
+
+a)
+
+de diez días laborables si existen calificaciones crediticias del mismo instrumento financiero o entidad emitidas por otras agencias de calificación crediticia registradas con arreglo al presente Reglamento, o
+
+b)
+
+de tres meses si no existen calificaciones crediticias del mismo instrumento financiero o entidad emitidas por otras agencias de calificación crediticia registradas con arreglo al presente Reglamento.
+
+La autoridad competente podrá ampliar tres meses el plazo a que se refiere el párrafo primero, letra b), en circunstancias excepcionales relacionadas con una posible perturbación del mercado o inestabilidad financiera.
+
+3.   Antes de adoptar alguna de las medidas establecidas en el apartado 1, la autoridad competente del Estado miembro de origen notificará al facilitador y consultarán a los miembros el colegio pertinente. Los miembros del colegio harán cuanto esté razonablemente en su mano para lograr un acuerdo sobre la necesidad de adoptar cualquiera de las medidas previstas en el apartado 1.
+
+A falta de acuerdo entre los miembros del colegio, la autoridad competente del Estado miembro de origen solicitará asesoramiento al CERV a petición de cualquiera de los miembros del colegio o por iniciativa propia. El CERV prestará asesoramiento en un plazo de diez días laborables a partir de la recepción de dicha solicitud.
+
+A falta de acuerdo entre los miembros del colegio sobre la posibilidad de adoptar cualquiera de las medidas contempladas en el apartado 1 en un plazo de 15 días laborables a partir de la notificación de la cuestión al facilitador, según lo dispuesto en el párrafo primero, la autoridad competente del Estado miembro de origen podrá adoptar una decisión. Cualquier divergencia de su decisión en relación con las opiniones manifestadas por los otros miembros del colegio, y, en su caso, con el asesoramiento prestado por el CERV, se motivará de manera exhaustiva. La autoridad competente del Estado miembro de origen notificará su decisión, sin dilaciones indebidas, al facilitador y al CERV.
+
+El presente apartado se aplicará sin perjuicio de lo dispuesto en el artículo 20.
+
+Artículo 25
+
+Medidas de supervisión de las autoridades competentes distintas de la autoridad competente del Estado miembro de origen
+
+1.   Cuando la autoridad competente de un Estado miembro haya comprobado que una agencia de calificación crediticia registrada cuyas calificaciones se utilizan en su territorio incumple las obligaciones que se derivan del presente Reglamento, podrá:
+
+a)
+
+adoptar las medidas de supervisión a que se refiere el artículo 24, apartado 1, letras e) y f);
+
+b)
+
+adoptar las medidas a que se refiere el artículo 24, apartado 1, letra d), dentro de su jurisdicción y, al hacerlo, estudiará debidamente las medidas ya adoptadas o previstas por la autoridad competente del Estado miembro de origen;
+
+c)
+
+imponer la suspensión del uso de las calificaciones crediticias de dicha agencia de calificación crediticia a efectos de regulación por parte de las instituciones a que se refiere el artículo 4, apartado 1, cuyo domicilio social esté situado en su jurisdicción, en observancia del período transitorio a que se refiere el artículo 24, apartado 2;
+
+d)
+
+solicitar al colegio pertinente que estudie si son necesarias las medidas a que se refiere el artículo 24, apartado 1, letras b), c) o d).
+
+2.   Antes de adoptar alguna de las medidas a que se refiere el apartado 1, letras a), b) o c), la autoridad competente notificará al facilitador y consultará a los miembros del colegio pertinente. Los miembros del colegio harán cuanto esté razonablemente en su mano para lograr un acuerdo sobre la necesidad de tomar cualquiera de las medidas previstas en el apartado 1, letras a) y b). En caso de desacuerdo, el facilitador solicitará asesoramiento al CERV a petición de cualquiera de los demás miembros del colegio o por iniciativa propia. El CERV prestará asesoramiento en un plazo de diez días laborables a partir de la recepción de dicha solicitud.
+
+3.   A falta de acuerdo entre los miembros del colegio pertinente, en un plazo de 15 días laborables a partir de la notificación de la cuestión al facilitador de conformidad con el apartado 2, la autoridad competente del Estado miembro interesado podrá adoptar una decisión. Cualquier divergencia de su decisión en relación con las opiniones manifestadas por los otros miembros del colegio, y, en su caso, con el asesoramiento prestado por el CERV, se motivará de manera exhaustiva. La autoridad competente del Estado miembro de que se trate notificará su decisión, sin dilaciones indebidas, al facilitador y al CERV.
+
+4.   El presente artículo se aplicará sin perjuicio de lo dispuesto en el artículo 20.
+
+CAPÍTULO III
+
+Cooperación entre autoridades competentes
+
+Artículo 26
+
+Obligación de cooperar
+
+1.   Las autoridades competentes cooperarán cuando resulte necesario a efectos de lo previsto en el presente Reglamento, incluso en casos en que el comportamiento investigado no constituya una infracción de disposiciones legislativas o reglamentarias vigentes en el Estado miembro de que se trate.
+
+2.   Las autoridades competentes cooperarán también estrechamente con las autoridades competentes encargadas de la supervisión de las empresas a que se refiere el artículo 4, apartado 1.
+
+Artículo 27
+
+Intercambio de información
+
+1.   Las autoridades competentes se facilitarán mutuamente y sin dilaciones indebidas la información necesaria para el desempeño de sus funciones con arreglo al presente Reglamento.
+
+2.   Las autoridades competentes podrán transmitir a las autoridades competentes encargadas de la supervisión de las empresas a que se refiere el artículo 4, apartado 1, a los bancos centrales, al Sistema Europeo de Bancos Centrales y al Banco Central Europeo, en su capacidad de autoridades monetarias y, en su caso, a otras autoridades públicas responsables de supervisar los sistemas de pago y liquidación, la información confidencial necesaria para el ejercicio de sus funciones. De igual modo, tampoco se impedirá a dichas autoridades u organismos comunicar a las autoridades competentes la información que estas puedan necesitar para desempeñar sus funciones con arreglo al presente Reglamento.
+
+Artículo 28
+
+Cooperación en caso de solicitud en relación con inspecciones in situ o investigaciones
+
+1.   La autoridad competente de un Estado miembro podrá solicitar la asistencia de la autoridad competente de otro Estado miembro en relación con inspecciones in situ o investigaciones.
+
+La autoridad competente que realice esta solicitud informará al CERV de las solicitudes a que se refiere el párrafo primero. Cuando se trate de una investigación o inspección con repercusiones transfronterizas, las autoridades competentes podrán solicitar al CERV que se encargue de la coordinación de la investigación o inspección.
+
+2.   Cuando una autoridad competente reciba de la autoridad competente de otro Estado miembro la solicitud de realizar una inspección in situ o una investigación, podrá:
+
+a)
+
+realizar ella misma la inspección in situ o investigación;
+
+b)
+
+permitir a la autoridad competente que haya presentado la solicitud participar en la inspección in situ o investigación;
+
+c)
+
+permitir a la autoridad competente que haya presentado la solicitud realizar ella misma la inspección in situ o investigación;
+
+d)
+
+designar a auditores o expertos para que realicen la inspección in situ o investigación, o
+
+e)
+
+compartir tareas específicas relacionadas con las actividades de supervisión con las demás autoridades competentes.
+
+Artículo 29
+
+Colegios de autoridades competentes
+
+1.   En un plazo de diez días laborables a partir de la recepción de una solicitud de registro con arreglo al artículo 15, la autoridad competente del Estado miembro de origen o, en el caso de un grupo de agencias de calificación crediticia, la autoridad competente del Estado miembro de origen de la agencia calificación crediticia mandataria con arreglo al artículo 15, apartado 2, establecerá un colegio de autoridades competentes para facilitar el ejercicio de las tareas contempladas en los artículos 4, 5, 6, 16, 17, 20, 24, 25 y 28.
+
+2.   El colegio estará integrado por las autoridades competentes de los Estados miembros de origen y por las autoridades competentes a que se refiere el apartado 3, en el supuesto de una única agencia de calificación crediticia, o por las autoridades competentes de los Estados miembros de origen y las autoridades competentes a que se refiere el apartado 3, en el supuesto de un grupo de agencias de calificación crediticia.
+
+3.   Una autoridad competente distinta de la autoridad competente del Estado miembro de origen podrá en todo momento decidir convertirse en miembro del colegio siempre que:
+
+a)
+
+una sucursal que sea parte de la agencia de calificación crediticia o de una de las empresas del grupo de agencias de calificación crediticia esté establecida dentro de su jurisdicción, o
+
+b)
+
+el uso, con fines de regulación, de las calificaciones crediticias emitidas por la agencia de calificación crediticia o el grupo de las agencias de calificación crediticia se haya difundido o tenga o pueda tener un impacto significativo dentro de su jurisdicción.
+
+4.   Las autoridades competentes distintas de los miembros del colegio a que se refiere el apartado 3, en cuyas jurisdicciones se utilicen las calificaciones crediticias emitidas por la agencia de calificación crediticia o por el grupo de agencias de calificación crediticia de que se trate, podrán participar en reuniones o actividades del colegio.
+
+5.   En el plazo de 15 días laborables tras el establecimiento del colegio, sus miembros elegirán un facilitador y consultarán al CERV en caso de falta de acuerdo. A tal efecto, deberán tenerse en cuenta como mínimo los siguientes criterios:
+
+a)
+
+la relación entre la autoridad competente y la agencia de calificación crediticia o el grupo de agencias de calificación crediticia;
+
+b)
+
+la medida en que las calificaciones crediticias se utilizarán con fines de regulación en un determinado territorio o territorios;
+
+c)
+
+el lugar de la Comunidad en que la agencia o grupo de agencias de calificación crediticia desarrolla o proyecta desarrollar la parte más importante de su actividad de calificación crediticia, y
+
+d)
+
+la conveniencia administrativa, la optimización de las cargas y una adecuada distribución de la carga de trabajo.
+
+Los miembros del colegio revisarán la selección del facilitador cada cinco años como mínimo para garantizar que el facilitador seleccionado sigue siendo el más adecuado de acuerdo con los criterios a que se refiere el párrafo primero.
+
+6.   El facilitador presidirá las reuniones del colegio, coordinará las acciones de este y velará por un intercambio eficaz de información entre los miembros del colegio.
+
+7.   Con el objetivo de garantizar una estrecha cooperación entre las autoridades competentes en el marco del colegio, el facilitador, en un plazo de diez días laborables a partir de su selección, establecerá acuerdos de coordinación por escrito, en el marco del colegio, en relación con los asuntos siguientes:
+
+a)
+
+la información que hayan de intercambiar las autoridades competentes;
+
+b)
+
+el proceso de toma de decisiones entre las autoridades competentes, sin perjuicio de lo dispuesto en los artículos 16, 17 y 20;
+
+c)
+
+los casos en que las autoridades competentes deberán consultarse mutuamente;
+
+d)
+
+los casos en que las autoridades competentes deberán aplicar el mecanismo de mediación previsto en el artículo 31, y
+
+e)
+
+los casos en que las autoridades competentes podrán delegar tareas de supervisión de conformidad con el artículo 30.
+
+8.   A falta de consenso sobre los acuerdos de coordinación por escrito previstos en el apartado 7, cualquier miembro del colegio podrá transmitir el asunto al CERV. El facilitador tendrá debidamente en cuenta cualquier asesoramiento prestado por el CERV en relación con los acuerdos de coordinación por escrito antes de aceptar el texto final. Los acuerdos de coordinación por escrito se presentarán en un documento único que incluirá una motivación exhaustiva de cualquier divergencia significativa del asesoramiento prestado por el CERV. El facilitador remitirá los acuerdos de coordinación por escrito a los miembros del colegio y al CERV.
+
+Artículo 30
+
+Delegación de tareas entre autoridades competentes
+
+La autoridad competente del Estado miembro de origen podrá delegar cualquiera de sus tareas en la autoridad competente de otro Estado miembro, siempre que esta dé su consentimiento. La delegación de tareas no afectará a la responsabilidad de la autoridad competente que delega.
+
+Artículo 31
+
+Mediación
+
+1.   El CERV instaurará un mecanismo de mediación para ayudar a encontrar una posición común entre las autoridades competentes de que se trate.
+
+2.   En caso de desacuerdo entre las autoridades competentes sobre un examen o actuación en virtud del presente Reglamento, remitirán el asunto al CERV a efectos de mediación. Las autoridades competentes de que se trate tomarán debidamente en consideración el asesoramiento del CERV y motivarán de manera exhaustiva cualquier desvío de dicho asesoramiento.
+
+Artículo 32
+
+Secreto profesional
+
+1.   Estarán sujetas a la obligación de secreto profesional todas las personas que trabajen o hayan trabajado para el CERV, para la autoridad competente o para cualquier autoridad o persona en la que la autoridad competente haya delegado tareas, incluidos los auditores y expertos contratados por la autoridad competente. La información amparada por el secreto profesional no se comunicará a ninguna persona o autoridad, salvo que tal divulgación resulte necesaria en el marco de un procedimiento judicial.
+
+2.   Toda la información intercambiada por el CERV y las autoridades competentes y entre las autoridades competentes en virtud del presente Reglamento se considerará confidencial, salvo cuando el CERV o las autoridades competentes de que se trate declaren, en el momento de su comunicación, que la información puede ser divulgada o cuando esta divulgación resulte necesaria en el marco de un procedimiento judicial.
+
+Artículo 33
+
+Divulgación de información procedente de otro Estado miembro
+
+La autoridad competente de un Estado miembro solo podrá divulgar la información recibida de una autoridad competente de otro Estado miembro si obtuvo la autorización expresa de la autoridad competente que facilitó la información. Dicha información se podrá divulgar, si procede, solo para fines respecto de los cuales la autoridad competente que facilitó la información otorgó su consentimiento o si dicha divulgación resulta necesaria en el marco de un procedimiento judicial.
+
+CAPÍTULO IV
+
+Cooperación con terceros países
+
+Artículo 34
+
+Acuerdo de intercambio de información
+
+Los Estados miembros podrán celebrar acuerdos de cooperación para el intercambio de información con las autoridades competentes de terceros países, siempre y cuando la información divulgada goce de una garantía de secreto profesional al menos equivalente a la exigida en virtud del artículo 32.
+
+Este intercambio de información deberá destinarse a la realización de las tareas de esas autoridades competentes.
+
+En lo que atañe a la transmisión de datos de naturaleza personal a terceros países, los Estados miembros aplicarán la Directiva 95/46/CE.
+
+Artículo 35
+
+Divulgación de información procedente de terceros países
+
+La autoridad competente de un Estado miembro solo podrá divulgar la información recibida de autoridades competentes de terceros países si la autoridad competente del Estado miembro de que se trata obtuvo la autorización expresa de la autoridad competente que facilitó la información y, en su caso, si la información se divulga exclusivamente para fines respecto de los cuales dicha autoridad competente otorgó su consentimiento o si dicha divulgación resulta necesaria en el marco de un procedimiento judicial.
+
+TÍTULO IV
+
+SANCIONES, PROCEDIMIENTO DE COMITÉ, PRESENTACIÓN DE INFORMES Y DISPOSICIONES TRANSITORIAS Y FINALES
+
+CAPÍTULO I
+
+Sanciones, procedimiento de comité y presentación de informes
+
+Artículo 36
+
+Sanciones
+
+Los Estados miembros determinarán el régimen de sanciones aplicable a las infracciones de lo dispuesto en el presente Reglamento y adoptarán todas las medidas necesarias para garantizar su aplicación. Las sanciones así establecidas serán efectivas, proporcionadas y disuasorias.
+
+Los Estados miembros garantizarán que la autoridad competente haga públicas todas las sanciones que se hayan impuesto por incumplimiento del presente Reglamento, a menos que dicha divulgación pudiera poner en grave riesgo los mercados financieros o causar un perjuicio desproporcionado a las partes implicadas.
+
+A más tardar el 7 de diciembre de 2010, los Estados miembros notificarán el régimen a que se refiere el párrafo primero a la Comisión. Comunicarán sin demora a la Comisión cualquier modificación ulterior del mismo.
+
+Artículo 37
+
+Modificación de los anexos
+
+La Comisión podrá modificar los anexos para atender a la evolución, también a nivel internacional, de los mercados financieros, en particular en relación con nuevos instrumentos financieros y con la convergencia de las prácticas de supervisión.
+
+Dichas medidas, destinadas a modificar elementos no esenciales del presente Reglamento, se adoptarán de conformidad con el procedimiento de reglamentación con control contemplado en el artículo 38, apartado 2.
+
+Artículo 38
+
+Procedimiento de comité
+
+1.   La Comisión estará asistida por el Comité europeo de valores establecido por la Decisión 2001/528/CE de la Comisión.
+
+2.   En los casos en que se haga referencia al presente apartado, serán de aplicación el artículo 5 bis, apartados 1 a 4, y el artículo 7 de la Decisión 1999/468/CE, observando lo dispuesto en su artículo 8.
+
+3.   En los casos en que se haga referencia al presente apartado, serán de aplicación los artículos 5 y 7 de la Decisión 1999/468/CE, observando lo dispuesto en su artículo 8.
+
+El plazo contemplado en el artículo 5, apartado 6, de la Decisión 1999/468/CE queda fijado en tres meses.
+
+Artículo 39
+
+Informes
+
+1.   A más tardar el 7 de diciembre de 2012, la Comisión examinará la aplicación del presente Reglamento, evaluando, entre otras cosas, en qué medida se recurre a las calificaciones crediticias en la Comunidad, las repercusiones del nivel de concentración en el mercado de la calificación crediticia, los costes y beneficios de las consecuencias del Reglamento y hasta qué punto resulta apropiado que la retribución de la agencia de calificación crediticia provenga de la entidad calificada (modelo «el emisor paga»), y presentará un informe al respecto al Parlamento Europeo y al Consejo.
+
+2.   A más tardar el 7 de diciembre de 2010, la Comisión, a la vista de las conversaciones mantenidas con las autoridades competentes, examinará la aplicación del título III del presente Reglamento, en particular la cooperación entre las autoridades competentes, el estatuto jurídico del CERV y las prácticas de supervisión. La Comisión presentará un informe al respecto al Parlamento Europeo y al Consejo, acompañado, en su caso, de propuestas de revisión de tal título.
+
+Dicho informe incluirá una referencia a la propuesta de la Comisión de 12 de noviembre de 2008 sobre las agencias de calificación crediticia y al informe de la Comisión de Asuntos Económicos y Monetarios del Parlamento Europeo de 23 de marzo de 2009 sobre la misma.
+
+3.   A más tardar el 7 de diciembre de 2010, la Comisión presentará al Parlamento Europeo y al Consejo, teniendo en cuenta la evolución del marco regulador y de supervisión para las agencias de calificación crediticia de terceros países, un informe sobre los efectos de dicha evolución y de las disposiciones transitorias a que se refiere el artículo 40 sobre la estabilidad de los mercados financieros de la Comunidad.
+
+CAPÍTULO II
+
+Disposiciones transitorias y finales
+
+Artículo 40
+
+Disposición transitoria
+
+Las agencias de calificación crediticia que desarrollaran actividad en la Comunidad antes del 7 de junio de 2010 («agencias de calificación crediticia existentes») y que tengan previsto solicitar su registro con arreglo al presente Reglamento adoptarán las medidas necesarias para dar cumplimiento a lo dispuesto en él a más tardar el 7 de septiembre de 2010.
+
+Las agencias de calificación crediticia presentarán su solicitud de registro no antes del 7 de junio de 2010. Las agencias de calificación crediticia existentes presentarán su solicitud de registro a más tardar el 7 de septiembre de 2010.
+
+Las agencias de calificación crediticia existentes podrán continuar emitiendo calificaciones crediticias y las entidades financieras a que se refiere el artículo 4, apartado 1, podrán utilizar dichas calificaciones crediticias a efectos de regulación a menos que se deniegue el registro. Si se deniega el registro, se aplicará el artículo 24, apartado 2.
+
+Artículo 41
+
+Entrada en vigor
+
+La presente Directiva entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea.
+
+Será aplicable a partir de su fecha de entrada en vigor. No obstante:
+
+—
+
+el artículo 4, apartado 1, se aplicará a partir del 7 de diciembre de 2010, y
+
+—
+
+el artículo 4, apartado 3, letras f), g) y h), se aplicará a partir del 7 de junio de 2011.
+
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+
+ANEXO I
+
+INDEPENDENCIA E INEXISTENCIA DE CONFLICTOS DE INTERESES
+
+Sección A
+
+Requisitos de organización
+
+1.   Las agencias de calificación crediticia dispondrán de un consejo de administración o de supervisión. Sus altos directivos garantizarán que:
+
+a)
+
+las actividades de calificación crediticia sean independientes, incluso de toda influencia y presión política y económica;
+
+b)
+
+los conflictos de intereses se detecten, gestionen y comuniquen adecuadamente;
+
+c)
+
+las agencias de calificación crediticia cumplan las restantes disposiciones del presente Reglamento.
+
+2.   Las agencias de calificación crediticia se organizarán de modo que sus intereses comerciales no impidan la independencia o exactitud de las actividades de calificación crediticia.
+
+Quienes integren la alta dirección de una agencia de calificación crediticia habrán de gozar de la debida honorabilidad y poseer capacidad y experiencia suficientes, y velarán por la gestión sana y prudente de dicha agencia.
+
+Al menos un tercio de los miembros, pero no menos de dos, del consejo de administración o de supervisión de las agencias de calificación crediticia habrán de ser miembros independientes, que no participen en actividades de calificación crediticia.
+
+La retribución de los miembros independientes del consejo de administración o de supervisión no estará vinculada a los resultados empresariales de la agencia de calificación y se fijará de modo que quede garantizada la independencia de juicio de aquellos. El mandato de los miembros independientes del consejo de administración o de supervisión tendrá una duración fija máxima de cinco años, previamente acordada, y no será renovable. La destitución de los miembros independientes del consejo de administración o de supervisión solo podrá producirse en caso de conducta irregular o insuficiencia profesional.
+
+La mayoría de los miembros del consejo de administración o de supervisión, incluidos sus miembros independientes, poseerán suficientes conocimientos técnicos en el ámbito de los servicios financieros. Siempre que una agencia de calificación crediticia emita calificaciones crediticias de instrumentos de financiación estructurada, al menos uno de los miembros independientes y otro miembro del consejo tendrán extensos conocimientos y experiencia de alto nivel en el ámbito de los mercados de instrumentos de financiación estructurada.
+
+Los miembros independientes del consejo de administración o supervisión, además de las responsabilidades generales de este, tendrán la misión específica de vigilar:
+
+a)
+
+el desarrollo de la política de calificación crediticia y los métodos que las agencias de calificación crediticia utilizan en sus actividades de calificación crediticia;
+
+b)
+
+la eficacia del sistema interno de control de calidad de la agencia de calificación crediticia en relación con las actividades de calificación crediticia;
+
+c)
+
+la eficacia de las medidas y los procedimientos creados para garantizar que se detecta, elimina o gestiona y hace público todo conflicto de intereses, y
+
+d)
+
+los procesos de cumplimiento de las normas y buena gobernanza, incluida la eficacia de la función de revisión a que se refiere el punto 9 de la presente sección.
+
+Los miembros independientes del consejo de administración o de supervisión expondrán al consejo periódicamente los dictámenes que hayan emitido respecto de las cuestiones enunciadas en las letras a) a d), comunicándolos asimismo a las autoridades competentes, a petición de estas.
+
+3.   Las agencias de calificación crediticia implantarán políticas y procedimientos adecuados que garanticen el cumplimiento de las obligaciones que les incumben en virtud del presente Reglamento.
+
+4.   Las agencias de calificación crediticia dispondrán de procedimientos administrativos y contables adecuados, mecanismos de control interno, técnicas eficaces de valoración del riesgo y mecanismos eficaces de control y salvaguardia de sus sistemas informáticos.
+
+Estos mecanismos de control interno estarán diseñados para garantizar el cumplimiento de las decisiones y los procedimientos a todos los niveles de la agencia de calificación crediticia.
+
+Las agencias de calificación crediticia aplicarán y mantendrán procedimientos de adopción de decisiones y estructuras organizativas que especifiquen de forma clara y documentada los canales de información y asigne funciones y responsabilidades.
+
+5.   Las agencias de calificación crediticia implantarán y mantendrán un departamento de verificación del cumplimiento permanente y eficaz («función de cumplimiento»), que funcione de forma independiente. La función de cumplimiento supervisará el cumplimiento por parte de la agencia de calificación crediticia y de sus empleados de las obligaciones que incumben a la agencia de calificación crediticia en virtud del presente Reglamento, e informará al respecto. La función de cumplimiento tendrá las siguientes responsabilidades:
+
+a)
+
+controlar y, regularmente, evaluar la adecuación y eficacia de las medidas y los procedimientos establecidos de conformidad con el punto 3, y las medidas adoptadas para hacer frente a las posibles deficiencias de la agencia de calificación crediticia en el cumplimiento de sus obligaciones;
+
+b)
+
+asesorar y prestar asistencia a la dirección, a los analistas de calificaciones y a los empleados, así como a otras personas físicas cuyos servicios se pongan a disposición o bajo el control de la agencia de calificación crediticia o a cualquier persona directa o indirectamente vinculada a la agencia por una relación de control y que sea responsable de la ejecución de actividades de calificación crediticia, para que cumplan las obligaciones que incumben a la agencia calificación crediticia en virtud del presente Reglamento.
+
+6.   Con objeto de que la función de cumplimiento ejerza sus responsabilidades de forma adecuada e independiente, las agencias de calificación crediticia garantizarán que se cumplan las siguientes condiciones:
+
+a)
+
+la función de cumplimiento tiene la autoridad, los recursos, los conocimientos técnicos y el acceso necesarios a toda la información pertinente;
+
+b)
+
+se designa a una persona responsable del cumplimiento, que se encarga de la función de cumplimiento y de toda información relativa al cumplimiento exigido en el punto 3;
+
+c)
+
+la dirección, los analistas de calificaciones y los empleados, así como otras personas físicas cuyos servicios se pongan a disposición o bajo el control de la agencia de calificación crediticia o cualquier persona directa o indirectamente vinculada a la agencia por una relación de control y que tenga responsabilidad de verificación del cumplimiento no participan en las actividades de calificación crediticia de cuya vigilancia se ocupen;
+
+d)
+
+la retribución de la persona responsable del cumplimiento no está vinculada a los resultados empresariales de la agencia de calificación crediticia y se fija de modo que quede garantizada su independencia de juicio.
+
+La persona responsable del cumplimiento garantizará que se detecta y elimina adecuadamente todo conflicto de intereses de las personas puestas a disposición de la función de cumplimiento.
+
+La persona responsable del cumplimiento informará periódicamente sobre la ejecución de sus funciones a los dirigentes y a los miembros independientes del consejo de administración o de supervisión.
+
+7.   Las agencias de calificación crediticia implantarán procedimientos organizativos y administrativos adecuados y eficaces destinados a impedir, detectar, eliminar o gestionar y hacer público todo conflicto de intereses a que se refiere la sección B, punto 1. Se encargarán de que se lleven registros de todos los riesgos significativos que pesen sobre la independencia de las actividades de calificación crediticia, incluidas las normas relativas a los analistas de las agencias de calificación crediticia a que se hace referencia en la sección C, así como las medidas de protección aplicadas para mitigar esos riesgos.
+
+8.   Las agencias de calificación crediticia emplearán sistemas, recursos y procedimientos adecuados con vistas a garantizar la continuidad y regularidad de sus actividades de calificación crediticia.
+
+9.   Las agencias de calificación crediticia establecerán una función de revisión a la que corresponderá examinar periódicamente los métodos, los modelos y las hipótesis fundamentales, matemáticas o de correlación, que utilicen, y cualquier cambio o modificación significativos que sufran tales métodos y modelos, así como la idoneidad de los mismos y de las hipótesis fundamentales de calificación, si se utilizan o está previsto que se utilicen para el análisis de nuevos instrumentos financieros.
+
+Esta función de revisión deberá ser independiente de los servicios operativos responsables de llevar a cabo las actividades de calificación crediticia, e informará a los miembros del consejo de administración o de supervisión a que se refiere el punto 2 de la presente sección.
+
+10.   Las agencias de calificación crediticia comprobarán y evaluarán la idoneidad y eficacia de sus sistemas, sus mecanismos de control interno y otras disposiciones tomadas de conformidad con el presente Reglamento, y adoptarán las medidas oportunas para corregir toda posible deficiencia.
+
+Sección B
+
+Requisitos operativos
+
+1.   Las agencias de calificación crediticia deberán detectar, eliminar o gestionar y comunicar de forma clara y destacada todo conflicto de intereses, ya sea real o potencial, que pueda influir en los análisis y en la opinión de los analistas de calificaciones, los empleados u otras personas físicas cuyos servicios se pongan a disposición o bajo el control de la agencia de calificación crediticia, y que participen directamente en la emisión de calificaciones crediticias, así como de las personas responsables de aprobar dichas calificaciones.
+
+2.   Las agencias de calificación crediticia harán públicos los nombres de aquellas entidades calificadas o terceros vinculados de las que provenga más del 5 % de sus ingresos anuales.
+
+3.   Las agencias de calificación crediticia no emitirán calificaciones crediticias en ninguna de las siguientes circunstancias o, en el caso de una calificación ya existente, comunicarán inmediatamente que la calificación crediticia está potencialmente comprometida, cuando:
+
+a)
+
+la agencia de calificación crediticia o las personas a que se refiere el punto 1 posean directa o indirectamente instrumentos financieros de la entidad calificada o terceros vinculados, o participen de algún otro modo, directa o indirectamente, en la propiedad de esa entidad o de dichos terceros, a excepción de las participaciones en organismos de inversión colectiva diversificada que incluyan fondos gestionados, como los fondos de pensiones o los seguros de vida;
+
+b)
+
+la calificación crediticia se emita con respecto a la entidad calificada o un tercero que directa o indirectamente tenga un vínculo de control con la agencia de calificación;
+
+c)
+
+cualquier persona a la que se refiere el punto 1 sea miembro del consejo de administración o de supervisión de la entidad calificada o de un tercero vinculado, o
+
+d)
+
+cualquier analista de calificaciones que intervenga en la determinación de una calificación crediticia, o cualquier persona que apruebe una calificación crediticia, haya tenido cualquier relación con la entidad calificada o una tercero vinculado que pueda causar un conflicto de intereses.
+
+Las agencias de calificación crediticia evaluarán asimismo de forma inmediata si hay motivos para reevaluar o retirar la calificación crediticia existente.
+
+4.   Las agencias de calificación crediticia no prestarán a la entidad calificada o un tercero vinculado servicios de consultoría o asesoramiento con respecto a la estructura social o jurídica, el activo, el pasivo o las actividades de dicha entidad calificada o tercero vinculado.
+
+Las agencias de calificación crediticia podrán prestar otros servicios distintos de los de emisión de calificaciones crediticias («servicios auxiliares»). Los servicios auxiliares no forman parte de las actividades de calificación crediticia, e incluyen previsiones de mercado, estimaciones de la evolución económica, análisis de precios y otros análisis de datos generales, así como servicios de distribución conexos.
+
+Las agencias de calificación crediticia velarán por que la prestación de servicios auxiliares no entre en conflicto de intereses con las actividades de calificación crediticia y divulgarán en los informes de calificación definitivos los servicios auxiliares prestados a la entidad calificada o terceros vinculados.
+
+5.   Las agencias de calificación crediticia velarán por que los analistas de calificaciones o las personas que aprueban calificaciones no formulen propuestas o recomendaciones, ya sea formal o informalmente, en relación con la configuración de instrumentos de financiación estructurada con respecto a los cuales esté previsto que la agencia de calificación crediticia emita una calificación crediticia.
+
+6.   Las agencias de calificación crediticia organizarán sus canales de información y de comunicación de forma que quede garantizada la independencia de las personas a las que se refiere el punto 1 respecto de las demás actividades de la agencia de calificación crediticia llevadas a cabo a título comercial.
+
+7.   Las agencias de calificación crediticia dispondrán que se conserve la documentación adecuada y, cuando proceda, las pistas de auditoría de sus actividades de calificación crediticia. Esa documentación incluirá:
+
+a)
+
+para cada decisión de calificación crediticia, la identidad de los analistas de calificaciones que hayan intervenido en la determinación de la calificación crediticia, la identidad de las personas que hayan aprobado la calificación, información que indique si la calificación crediticia fue solicitada o no solicitada, y la fecha en la que se adoptó la decisión de calificación crediticia;
+
+b)
+
+la documentación contable relativa a los honorarios recibidos de cualquier entidad calificada o de terceros vinculados o de cualquier otro usuario de las calificaciones;
+
+c)
+
+la documentación contable correspondiente a cada suscriptor de calificación crediticia o servicios relacionados;
+
+d)
+
+la documentación sobre los procedimientos y métodos utilizados por la agencia de calificación crediticia para determinar las calificaciones crediticias;
+
+e)
+
+la documentación interna, incluso información no pública y documentos de trabajo, utilizada como base de cualquier decisión de calificación crediticia adoptada;
+
+f)
+
+informes de los análisis crediticios, informes de evaluación crediticia e informes privados de calificación crediticia y documentos de trabajo, incluso información no pública y documentos de trabajo, utilizados como base de los dictámenes emitidos en esos informes;
+
+g)
+
+información sobre los procedimientos y medidas aplicados por la agencia de calificación crediticia para cumplir lo dispuesto en el presente Reglamento, y
+
+h)
+
+copias de comunicaciones internas y externas, incluidas comunicaciones electrónicas, recibidas y enviadas por la agencia de calificación crediticia y sus empleados, relativas a actividades de calificación crediticia.
+
+8.   La documentación y las pistas de auditoría a que se refiere el punto 7 se conservarán en los locales de la agencia de calificación crediticia registrada durante al menos cinco años y se facilitarán a las autoridades competentes de los Estados miembros afectados cuando así lo soliciten.
+
+Cuando una agencia de calificación crediticia sea dada de baja en el registro, la citada documentación se conservará durante un plazo adicional de al menos tres años.
+
+9.   La documentación que recoja los respectivos derechos y obligaciones que incumban a la agencia de calificación crediticia y a la entidad calificada o terceros vinculados en virtud de un contrato de prestación de servicios de calificación crediticia se conservará durante al menos el tiempo que dure la relación con dicha entidad calificada o terceros vinculados.
+
+Sección C
+
+Disposiciones aplicables a los analistas de calificaciones y a otras personas directamente involucradas en actividades de calificación crediticia
+
+1.   Los analistas de calificaciones, los empleados de las agencias de calificación crediticia y cualquier otra persona física cuyos servicios se pongan a disposición o bajo el control de la agencia de calificación crediticia, y que intervienen directamente en actividades de calificación crediticia, así como las personas estrechamente vinculadas a ellos, en el sentido del artículo 1, apartado 2, letras a) a d), de la Directiva 2004/72/CE, no adquirirán, venderán ni realizarán ningún tipo de operación relacionada con instrumentos financieros que hayan sido emitidos, garantizados o de alguna otra forma respaldados por cualquier entidad calificada que entre dentro del ámbito principal de responsabilidad analítica de dichas personas, salvo cuando se trate de participaciones en organismos de inversión colectiva diversificada, incluidos los fondos gestionados, como los fondos de pensiones y los seguros de vida.
+
+2.   Ninguna de las personas a las que hace referencia el punto 1 participará o influirá de algún otro modo en la determinación de una calificación crediticia de una concreta entidad calificada cuando dicha persona:
+
+a)
+
+posea instrumentos financieros de la entidad calificada, a excepción de las participaciones en organismos de inversión colectiva diversificada;
+
+b)
+
+posea instrumentos financieros de cualquier entidad vinculada a una entidad calificada, cuando dicha propiedad pueda generar un conflicto de intereses o ser percibida en general como causante del mismo, a excepción de las participaciones en organismos de inversión colectiva diversificada;
+
+c)
+
+haya tenido recientemente una relación de empleo, empresarial o de otra índole con la entidad calificada que pueda generar un conflicto de intereses o ser percibida en general como causante del mismo.
+
+3.   Las agencias de calificación crediticia velarán por que las personas a que se hace referencia en el punto 1:
+
+a)
+
+adopten cuantas medidas resulten razonables para proteger los bienes y la documentación en posesión de la agencia de calificación crediticia frente a todo fraude, hurto o mal uso, teniendo en cuenta la naturaleza, envergadura y complejidad de sus operaciones y la naturaleza y el alcance de sus actividades de calificación crediticia;
+
+b)
+
+no divulguen información alguna sobre las calificaciones crediticias o posibles futuras calificaciones crediticias de la agencia, salvo a la entidad calificada o terceros vinculados;
+
+c)
+
+no divulguen información confidencial confiada a la agencia de calificación crediticia a los analistas de calificaciones ni a los empleados de cualquier persona que tenga directa o indirectamente con ella un vínculo de control, ni a ninguna otra persona física cuyos servicios se pongan a disposición o bajo el control de cualquier persona directa o indirectamente vinculada a dicha agencia por una relación de control, y que participe directamente en las actividades de calificación crediticia, y
+
+d)
+
+no utilicen ni divulguen información confidencial a los fines de la negociación de instrumentos financieros o a cualquier otro fin que no sea el de ejercicio de actividades de calificación crediticia.
+
+4.   Ninguna de las personas a que se hace referencia en el punto 1 solicitará o aceptará dinero, obsequios o favores de ninguna persona con la que la agencia de calificación crediticia mantenga relaciones de negocios.
+
+5.   Si una de las personas a que se hace referencia en el punto 1 considera que cualquier otra persona ha incurrido en una conducta que considera ilícita, dará cuenta de ello inmediatamente a la persona responsable del cumplimiento, sin que esto tenga consecuencias negativas para ella.
+
+6.   Cuando un analista de calificaciones finalice su relación de empleo y se una a una entidad calificada en cuya calificación haya intervenido o a una entidad financiera con la que haya estado en relación como consecuencia de sus funciones en la agencia de calificación crediticia, esta última reexaminará el trabajo que a ese respecto haya realizado el analista en los dos años previos a su partida.
+
+7.   Ninguna de las personas a que se hace referencia en el punto 1 asumirá funciones destacadas de dirección en la entidad calificada o terceros vinculados en los seis meses siguientes a la emisión de la calificación crediticia.
+
+8.   A efectos del artículo 7, apartado 4, las agencias de calificación crediticia velarán por que:
+
+a)
+
+los analistas de calificaciones principales no participen en actividades de calificación crediticia relacionadas con la misma entidad calificada o terceros vinculados durante un período superior a cuatro años;
+
+b)
+
+los analistas de calificaciones no participen en actividades de calificación crediticia relacionadas con la misma entidad calificada o terceros vinculados durante un período superior a cinco años;
+
+c)
+
+las personas que aprueban las calificaciones crediticias no participen en actividades de calificación crediticia relacionadas con la misma entidad calificada o terceros vinculados durante un período superior a siete años.
+
+Las personas a que se hace referencia en el párrafo primero, letras a), b) y c), no tomarán parte en actividades de calificación crediticia en relación con la entidad calificada o terceros vinculados a que se refieren dichas letras en los dos años siguientes al final de los plazos indicados en estas letras.
+
+Sección D
+
+Disposiciones sobre la presentación de las calificaciones crediticias
+
+I.   Obligaciones generales
+
+1.   Las agencias de calificación crediticia velarán por que en las calificaciones crediticias figure de forma clara y destacada el nombre y cargo del analista de calificaciones en una actividad de calificación crediticia concreta y el nombre y cargo de la persona que asuma la responsabilidad principal de la aprobación de la calificación crediticia.
+
+2.   Las agencias de calificación crediticia garantizarán como mínimo que:
+
+a)
+
+figuren todas las fuentes de importancia sustancial, incluida la entidad calificada o, en su caso, un tercero vinculado, que se utilizaron para determinar la calificación crediticia, junto con una indicación de si la calificación crediticia se comunicó a la entidad calificada o un tercero vinculado y se modificó como consecuencia de dicha comunicación antes de su emisión;
+
+b)
+
+se indique claramente el método fundamental o la versión del método utilizada para determinar la calificación, incluyendo una referencia a su descripción completa; cuando la calificación crediticia se base en más de un método, o si la referencia exclusiva al método fundamental puede hacer que los inversores no constaten otros aspectos importantes de la calificación crediticia, como pueden ser los posibles ajustes y desviaciones, la agencia de calificación crediticia explicará este hecho en la calificación crediticia e indicará de qué modo los diferentes métodos o esos otros aspectos se han tenido en cuenta para determinar dicha calificación;
+
+c)
+
+se indique el significado de las diversas categorías de calificación, la definición de incumplimiento o recuperación, así como las advertencias de riesgo que resulten procedentes, con inclusión de un análisis de sensibilidad de las hipótesis de calificación fundamentales pertinentes, como las asunciones matemáticas o de correlación, así como las calificaciones crediticias basadas en el peor y el mejor escenario posible;
+
+d)
+
+se indique de forma clara y destacada la fecha en que se difundió por primera vez la calificación y la fecha de su última actualización, y
+
+e)
+
+se proporcione información sobre si la calificación crediticia se refiere a un instrumento financiero de nueva emisión o si la agencia de calificación crediticia está calificando por primera vez el instrumento financiero.
+
+3.   La agencia de calificación crediticia informará a la entidad calificada como mínimo doce horas antes de la publicación del resultado de la calificación crediticia sobre los principales fundamentos en los que se basa la calificación, a fin de permitir a la entidad en cuestión la posibilidad de indicar posibles errores de hecho de la agencia de calificación crediticia.
+
+4.   Las agencias de calificación crediticia indicarán de forma clara y destacada toda posible especificidad y limitación de las calificaciones crediticias cuando divulguen las mismas. En particular, las agencias de calificación crediticia indicarán de forma destacada, al divulgar una calificación, si consideran satisfactoria la calidad de la información existente sobre la entidad calificada y en qué medida han verificado la información que les haya sido facilitada por dicha entidad o terceros vinculados. Si la calificación crediticia se refiere a un tipo de entidad o de instrumento financiero en relación con los cuales existen solo datos históricos limitados, la agencia de calificación crediticia indicará, de forma destacada, tales limitaciones de la calificación crediticia.
+
+Cuando la falta de datos fiables, la complejidad de la estructura de un nuevo tipo de instrumento financiero o la insuficiente calidad de la información existente no resulten satisfactorias o planteen serias dudas sobre la fiabilidad de la calificación que pueda emitir la agencia de calificación crediticia, esta se abstendrá de emitir una calificación o retirará la calificación ya existente.
+
+5.   Al anunciar una calificación, las agencias de calificación crediticia explicarán en sus comunicados de prensa o en sus informes los elementos fundamentales en que se basa.
+
+Cuando la información a que se refieren los puntos 1, 2 y 4 resulte desproporcionada en relación con la extensión del informe difundido, bastará con hacer referencia en el propio informe, de forma clara y destacada, al lugar donde pueda obtenerse de manera fácil y directa esa información, por ejemplo, un enlace directo a dicha información en un sitio web apropiado de la agencia de calificación crediticia.
+
+II.   Obligaciones adicionales en relación con las calificaciones crediticias de los instrumentos de financiación estructurada
+
+1.   Cuando una agencia de calificación crediticia califique un instrumento de financiación estructurada, facilitará en la calificación toda la información sobre el análisis de pérdidas y de flujo de caja que haya realizado o en el que se base, así como una indicación sobre las variaciones previstas de la calificación crediticia.
+
+2.   La agencia de calificación crediticia indicará el nivel de análisis realizado por lo que atañe a los procesos de debida diligencia efectuados con respecto a los instrumentos financieros u otros activos subyacentes de los instrumentos de financiación estructurada. La agencia de calificación crediticia señalará si ha efectuado un análisis de dichos procesos o si se ha basado en el análisis de un tercero, e indicará de qué modo influye el resultado de ese análisis en la calificación crediticia.
+
+3.   Cuando una agencia de calificación crediticia emita calificaciones crediticias de instrumentos de financiación estructurada, acompañará la divulgación de métodos, modelos e hipótesis fundamentales de calificación con orientaciones que expliquen las hipótesis, los parámetros, los límites y las incertidumbres en relación con los modelos y métodos de calificación utilizados en dichas calificaciones crediticias, incluidas simulaciones de escenarios de estrés efectuadas por la agencia al establecer las calificaciones. Dichas orientaciones serán claras y fácilmente comprensibles.
+
+4.   Las agencias de calificación crediticia divulgarán, de forma permanente, información relativa a todos los productos de financiación estructurada que se les someten para su revisión inicial o para calificación preliminar. Dicha divulgación tendrá lugar independientemente de que los emisores celebren o no un contrato con la agencia de calificación crediticia para una calificación definitiva.
+
+Sección E
+
+Información que debe divulgarse
+
+I.   Información general
+
+Las agencias de calificación crediticia divulgarán en general el hecho de que están registradas de conformidad con el presente Reglamento, así como la siguiente información:
+
+1)   los conflictos reales y potenciales de intereses a que se refiere la sección B, punto 1;
+
+2)   una lista de sus servicios auxiliares;
+
+3)   la política de la agencia de calificación crediticia con respecto a la publicación de las calificaciones de crédito y otra información conexa;
+
+4)   la naturaleza general de sus acuerdos de retribución;
+
+5)   los métodos y las descripciones de los modelos y las hipótesis fundamentales, matemáticas o de correlación, utilizados en sus actividades de calificación crediticia, y sus modificaciones significativas;
+
+6)   toda modificación significativa de sus sistemas, recursos o procesos, y
+
+7)   cuando proceda, su código de conducta.
+
+II.   Información periódica
+
+Las agencias de calificación crediticia divulgarán periódicamente la siguiente información:
+
+1)   cada seis meses, los datos sobre las tasas históricas de incumplimiento de sus categorías de calificación, distinguiendo entre las principales áreas geográficas de sus emisores, con indicación de si dichas tasas históricas han variado a lo largo del tiempo;
+
+2)   anualmente, la siguiente información:
+
+a)
+
+una lista de los 20 clientes más importantes de la agencia de calificación por orden de ingresos generados, y
+
+b)
+
+una lista de los clientes de la agencia de calificación cuya contribución a la tasa de crecimiento de la generación de ingresos de dicha agencia en el ejercicio precedente sea más de 1,5 veces superior a la tasa de crecimiento del total de ingresos registrado por la agencia de calificación en ese mismo ejercicio. Cada uno de estos clientes figurará en la lista únicamente cuando su contribución al total mundial de ingresos de la agencia de calificación en ese ejercicio sea superior al 0,25 %.
+
+A efectos del presente punto, se entenderá por «cliente» una entidad, sus filiales y entidades asociadas en las cuales la entidad posea participaciones superiores al 20 %, así como cualquier otra entidad en relación con la cual haya negociado la estructuración de una emisión de deuda por cuenta de un cliente, siempre que se hayan abonado honorarios, directa o indirectamente, a la agencia de calificación crediticia por la calificación de dicha emisión de deuda.
+
+III.   Informe de transparencia
+
+Las agencias de calificación crediticia facilitarán anualmente la siguiente información:
+
+1)   información detallada sobre la estructura jurídica y sobre la propiedad de la agencia de calificación crediticia, en particular información sobre las participaciones a que se refieren los artículos 9 y 10 de la Directiva 2004/109/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de 2004, sobre la armonización de los requisitos de transparencia relativos a la información sobre los emisores cuyos valores se admiten a negociación en un mercado regulado;
+
+2)   una descripción del mecanismo de control interno que garantice la calidad de sus actividades de calificación crediticia;
+
+3)   estadísticas sobre el personal que destinen a nuevas calificaciones crediticias, a la revisión de calificaciones crediticias, a la evaluación de los métodos o modelos y a cargos de dirección;
+
+4)   una descripción de su política de conservación de la documentación;
+
+5)   los resultados del examen anual interno de verificación de la independencia de su función de cumplimiento;
+
+6)   una descripción de su política de rotación del personal de dirección y de análisis de calificaciones;
+
+7)   información financiera sobre los ingresos de la agencia de calificación crediticia, diferenciando entre retribuciones por actividades de calificación crediticia y retribuciones por otras actividades, y facilitando una descripción completa de cada uno de estos conceptos;
+
+8)   un informe de gobierno corporativo de conformidad con el artículo 46 bis, apartado 1, de la Directiva 78/660/CEE del Consejo, de 25 de julio de 1978, relativa a las cuentas anuales de determinadas formas de sociedad. En dicho informe, la agencia de calificación crediticia incluirá la información a que se refiere el artículo 46 bis, apartado 1, letra d), de dicha Directiva, ya esté o no sujeta a la Directiva 2004/25/CE del Parlamento Europeo y del Consejo, de 21 de abril de 2004, relativa a las ofertas públicas de adquisición.
+
+ANEXO II
+
+INFORMACIÓN QUE DEBE FACILITARSE EN LA SOLICITUD DE REGISTRO
+
+1.   Denominación completa de la agencia de calificación crediticia, dirección del domicilio social en la Comunidad
+
+2.   Nombre y datos de una persona de contacto y de la persona responsable del cumplimiento
+
+3.   Forma jurídica
+
+4.   Clase de calificaciones crediticias en relación con las cuales la agencia de calificación crediticia solicita ser registrada
+
+5.   Estructura de la propiedad
+
+6.   Estructura organizativa y gobernanza empresarial
+
+7.   Recursos financieros para ejercer actividades de calificación crediticia
+
+8.   Personal de la agencia de calificación crediticia y sus cualificaciones
+
+9.   Información relativa a las filiales de la agencia de calificación crediticia
+
+10.   Descripción de los procedimientos y de los métodos utilizados para emitir y revisar las calificaciones crediticias
+
+11.   Políticas y procedimientos aplicados para detectar, gestionar y comunicar todos los conflictos de intereses
+
+12.   Información sobre los analistas de calificaciones
+
+13.   Acuerdos de retribución y de evaluación de resultados
+
+14.   Servicios distintos de las actividades de calificación crediticia que la agencia de calificación crediticia tiene intención de facilitar
+
+15.   Un programa de actividades en el que figure dónde está previsto que tengan lugar las actividades fundamentales, las sucursales que se han de establecer y el tipo de actividad que se prevé desarrollar
+
+16.   Documentos e información detallada relativos al uso previsto del refrendo
+
+17.   Documentos e información detallada relativos a los acuerdos previstos de subcontratación, incluida la información sobre las entidades que asuman las funciones de subcontratación

@@ -1,0 +1,245 @@
+DIRECTIVA 2008/22/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+
+de 11 de marzo de 2008
+
+por la que se modifica la Directiva 2004/109/CE sobre la armonización de los requisitos de transparencia relativos a la información sobre los emisores cuyos valores se admiten a negociación en un mercado regulado, por lo que se refiere a las competencias de ejecución atribuidas a la Comisión
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+Visto el Tratado constitutivo de la Comunidad Europea y, en particular, sus artículos 44 y 95,
+
+Vista la propuesta de la Comisión,
+
+Visto el dictamen del Comité Económico y Social Europeo,
+
+Visto el dictamen del Banco Central Europeo,
+
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado,
+
+Considerando lo siguiente:
+
+(1)
+
+La Directiva 2004/109/CE del Parlamento Europeo y del Consejo establece que determinadas medidas deben adoptarse de conformidad con la Decisión 1999/468/CE del Consejo, de 28 de junio de 1999, por la que se establecen los procedimientos para el ejercicio de las competencias de ejecución atribuidas a la Comisión.
+
+(2)
+
+La Decisión 1999/468/CE fue modificada por la Decisión 2006/512/CE, que introdujo el procedimiento de reglamentación con control para la adopción de medidas de alcance general destinadas a modificar elementos no esenciales de un acto de base adoptado según el procedimiento establecido en el artículo 251 del Tratado, incluso suprimiendo algunos de esos elementos o completando el acto con nuevos elementos no esenciales.
+
+(3)
+
+De conformidad con la Declaración del Parlamento Europeo, el Consejo y la Comisión relativa a la Decisión 2006/512/CE, para que el procedimiento de reglamentación con control sea aplicable a los actos ya vigentes adoptados según el procedimiento establecido en el artículo 251 del Tratado, estos últimos deben adaptarse de acuerdo con los procedimientos aplicables.
+
+(4)
+
+Conviene conferir competencias a la Comisión para que modifique los anexos y adopte las medidas necesarias para la aplicación de la Directiva 2004/109/CE a fin de: especificar los aspectos técnicos de algunas definiciones establecidas en esa Directiva, en particular la duración máxima del ciclo corto de liquidación, el calendario de días de mercado, las circunstancias en las que una persona debiera haber tenido conocimiento de la adquisición o cesión de los derechos de voto, las condiciones de independencia que deberán cumplir los creadores de mercado y las sociedades de gestión; tener en cuenta los progresos técnicos de los mercados financieros; aclarar la naturaleza de la revisión del auditor, especificar el contenido mínimo del resumen de los estados financieros; detallar más los procedimientos de notificación y divulgación de las participaciones importantes, así como los procedimientos de archivo de la información regulada con el organismo competente del Estado miembro de origen de los emisores, y especificar normas mínimas para los mecanismos destinados al almacenamiento. Dado que estas medidas son de alcance general y están destinadas a modificar elementos no esenciales de la Directiva 2004/109/CE, incluso completándola con nuevos elementos no esenciales, deben adoptarse con arreglo al procedimiento de reglamentación con control previsto en el artículo 5 bis de la Decisión 1999/468/CE.
+
+(5)
+
+La Directiva 2004/109/CE estableció una limitación temporal para las competencias de ejecución atribuidas a la Comisión. En su Declaración relativa a la Decisión 2006/512/CE, el Parlamento Europeo, el Consejo y la Comisión afirmaron que dicha Decisión proporciona una solución horizontal y satisfactoria al deseo del Parlamento Europeo de controlar la aplicación de los instrumentos adoptados con arreglo al procedimiento de codecisión y que, en consecuencia, las competencias de ejecución deben conferirse a la Comisión sin límite de tiempo. El Parlamento Europeo y el Consejo declararon asimismo que garantizarían la adopción a la mayor brevedad posible de las propuestas para derogar las disposiciones contenidas en los instrumentos que prevén una fecha límite para la delegación de competencias de ejecución a la Comisión. Tras la introducción del procedimiento de reglamentación con control, debe suprimirse la disposición que establece dicha limitación temporal en la Directiva 2004/109/CE.
+
+(6)
+
+La Comisión debe evaluar periódicamente el funcionamiento de las disposiciones relativas a las competencias de ejecución que le han sido atribuidas, con el fin de posibilitar que el Parlamento Europeo y el Consejo determinen si la amplitud de estas competencias y los requisitos procedimentales impuestos a la Comisión son adecuados y garantizan tanto la eficiencia como la responsabilidad democrática.
+
+(7)
+
+Procede, por tanto, modificar la Directiva 2004/109/CE en consecuencia.
+
+(8)
+
+Puesto que las modificaciones que deben aportarse a la Directiva 2004/109/CE mediante la presente Directiva son de carácter técnico y solo afectan al procedimiento de comité, no necesitan ser incorporadas por los Estados miembros. Por consiguiente, no es necesario establecer disposiciones al efecto.
+
+HAN ADOPTADO LA PRESENTE DIRECTIVA:
+
+Artículo 1
+
+Modificaciones
+
+La Directiva 2004/109/CE queda modificada como sigue:
+
+1)
+
+En el artículo 2, el apartado 3 se sustituye por el texto siguiente:
+
+«3.   Para tener en cuenta la evolución técnica de los mercados financieros y asegurar la aplicación uniforme del apartado 1, la Comisión, de conformidad con los procedimientos mencionados en los apartados 2 y 2 bis del artículo 27, adoptará medidas de ejecución en relación con las definiciones establecidas en el apartado 1.
+
+La Comisión deberá, en particular:
+
+a)
+
+establecer, a los efectos del apartado 1, letra i), inciso ii), los requisitos de procedimiento con arreglo a los cuales un emisor puede hacer la elección del Estado miembro de origen;
+
+b)
+
+ajustar, cuando proceda a efectos de la elección del Estado miembro de origen mencionado del apartado 1, letra i), inciso ii), el período de tres años referente al historial del emisor en función de un eventual nuevo requisito de Derecho comunitario sobre la admisión a cotización en un mercado regulado, y
+
+c)
+
+establecer, a efectos del apartado 1, letra l), una lista orientativa de medios que no deben ser considerados medios electrónicos, teniendo así en cuenta el anexo V de la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas y de las reglas relativas a los servicios de la sociedad de la información, de conformidad con el procedimiento de reglamentación contemplado en el artículo 27, apartado 2.
+
+Las medidas mencionadas en las letras a) y b) del párrafo segundo, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.
+
+2)
+
+En el artículo 5, el apartado 6 se modifica como sigue:
+
+a)
+
+en el párrafo primero se suprime la expresión «de conformidad con el procedimiento mencionado en el apartado 2 del artículo 27»;
+
+b)
+
+el párrafo tercero se sustituye por el texto siguiente:
+
+«Las medidas mencionadas en la letra a) se adoptarán con arreglo al procedimiento de reglamentación contemplado en el artículo 27, apartado 2. Las medidas mencionadas en las letras b) y c), destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.
+
+Si procede, la Comisión podrá adaptar también el período de cinco años mencionado en el apartado 1. Esa medida, destinada a modificar elementos no esenciales de la presente Directiva, se adoptará con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.».
+
+3)
+
+En el artículo 9, el apartado 7 se sustituye por el texto siguiente:
+
+«7.   La Comisión adoptará medidas de ejecución para tener en cuenta la evolución técnica de los mercados financieros y asegurar la aplicación uniforme de los apartados 2, 4 y 5. Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.
+
+La Comisión especificará la duración máxima del “ciclo corto de liquidación” a que se refiere el apartado 4 del presente artículo, así como los oportunos mecanismos de control de la autoridad competente del Estado miembro de origen. Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.
+
+Además, la Comisión podrá establecer una lista de los acontecimientos a que se refiere el apartado 2, de conformidad con el procedimiento contemplado en el artículo 27, apartado 2.».
+
+4)
+
+En el artículo 12, el apartado 8 se modifica como sigue:
+
+a)
+
+se suprime la expresión «de conformidad con el procedimiento mencionado en el apartado 2 del artículo 27»;
+
+b)
+
+se añade el párrafo siguiente:
+
+«Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.».
+
+5)
+
+En el artículo 13, el apartado 2 se modifica como sigue:
+
+a)
+
+se suprime la expresión «de conformidad con el procedimiento mencionado en el apartado 2 del artículo 27»;
+
+b)
+
+se añade el párrafo siguiente:
+
+«Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.».
+
+6)
+
+En el artículo 14, el apartado 2, en el artículo 17, el apartado 4, y en el artículo 18, el apartado 5, se modifican como sigue:
+
+a)
+
+se suprime la expresión «de conformidad con el procedimiento mencionado en el apartado 2 del artículo 27»;
+
+b)
+
+se añade la frase siguiente:
+
+«Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.».
+
+7)
+
+En el artículo 19, el apartado 4 se modifica como sigue:
+
+a)
+
+en el párrafo primero, se suprime la expresión «de conformidad con el procedimiento mencionado en el apartado 2 del artículo 27»;
+
+b)
+
+se añade el párrafo siguiente:
+
+«Las medidas mencionadas en los párrafos primero y segundo, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.».
+
+8)
+
+En el artículo 21, el apartado 4 se modifica como sigue:
+
+a)
+
+en el párrafo primero, se suprime la expresión «de conformidad con el procedimiento mencionado en el apartado 2 del artículo 27»;
+
+b)
+
+se añade el párrafo siguiente:
+
+«Las medidas mencionadas en los párrafos primero, segundo y tercero, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.».
+
+9)
+
+El artículo 23 se modifica como sigue:
+
+a)
+
+el apartado 4 se modifica como sigue:
+
+i)
+
+se inserta el párrafo siguiente después del párrafo primero:
+
+«En el contexto del inciso ii) del párrafo primero, la Comisión también adoptará medidas de ejecución relativas a la evaluación de las normas correspondientes a los emisores de más de un país. Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.»,
+
+ii)
+
+se añade el párrafo siguiente:
+
+«En el contexto del párrafo anterior, la Comisión también adoptará medidas de ejecución destinadas a establecer criterios de equivalencia general relativos a la evaluación de normas de contabilidad correspondientes a los emisores de más de un país. Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.»;
+
+b)
+
+el apartado 5 se modifica como sigue:
+
+i)
+
+se suprime la expresión «de conformidad con el procedimiento mencionado en el apartado 2 del artículo 27»,
+
+ii)
+
+se añade la frase siguiente:
+
+«Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.»;
+
+c)
+
+en el apartado 7, se añade el párrafo siguiente:
+
+«En este contexto, la Comisión también adoptará medidas de ejecución destinadas a establecer criterios de equivalencia general a efectos del párrafo primero. Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, completándola, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 27, apartado 2 bis.».
+
+10)
+
+El artículo 27 se modifica como sigue:
+
+a)
+
+se añade el apartado siguiente:
+
+«2 bis.   En los casos en que se haga referencia al presente apartado, serán de aplicación el artículo 5 bis, apartados 1 a 4, y el artículo 7 de la Decisión 1999/468/CE, observando lo dispuesto en su artículo 8.»;
+
+b)
+
+los apartados 3 y 4 se sustituyen por el texto siguiente:
+
+«3.   A más tardar el 31 de diciembre de 2010 y a continuación cada tres años como mínimo, la Comisión revisará las disposiciones relativas a sus competencias de ejecución y presentará un informe al Parlamento Europeo y al Consejo sobre el funcionamiento de dichas competencias. El informe examinará, en particular, la necesidad de que la Comisión proponga modificaciones destinadas a garantizar una delimitación pertinente de las competencias de ejecución que le han sido atribuidas. La conclusión relativa a la necesidad o no de introducir una modificación se acompañará de una exposición de motivos detallada. En caso necesario, el informe se acompañará de una propuesta legislativa destinada a modificar las disposiciones relativas a la atribución de competencias de ejecución a la Comisión.».
+
+Artículo 2
+
+Entrada en vigor
+
+La presente Directiva entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Unión Europea.
+
+Artículo 3
+
+Destinatarios
+
+Los destinatarios de la presente Directiva son los Estados miembros.

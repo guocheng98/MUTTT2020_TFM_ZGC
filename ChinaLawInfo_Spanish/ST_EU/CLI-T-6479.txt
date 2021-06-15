@@ -1,0 +1,547 @@
+Directiva 2000/31/CE del Parlamento Europeo y del Consejo relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el comercio electrónico en el mercado interior (Directiva sobre el comercio electrónico)
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+Visto el Tratado constitutivo de la Comunidad Europea y, en particular, el apartado 2 de su artículo 47, y sus artículos 55 y 95,
+
+Vista la propuesta de la Comisión(1),
+
+Visto el dictamen del Comité Económico y Social(2),
+
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado(3),
+
+Considerando lo siguiente:
+
+(1) La Unión Europea tiene como objetivo crear una unión cada vez más estrecha entre los Estados y los pueblos europeos, así como asegurar el progreso económico y social. De conformidad con el apartado 2 del artículo 14 del Tratado, el mercado interior supone un espacio sin fronteras interiores, en el que la libre circulación de mercancías y servicios y la libertad de establecimiento están garantizadas. El desarrollo de los servicios de la sociedad de la información en el espacio sin fronteras interiores es un medio esencial para eliminar las barreras que dividen a los pueblos europeos.
+
+(2) El desarrollo del comercio electrónico en la sociedad de la información ofrece importantes oportunidades para el empleo en la Comunidad, especialmente para las pequeñas y medianas empresas, que facilitará el crecimiento de las empresas europeas, así como las inversiones en innovación, y también puede incrementar la competitividad de la industria europea, siempre y cuando Internet sea accesible para todos.
+
+(3) El Derecho comunitario y las características del ordenamiento jurídico comunitario constituyen una baza fundamental para que los ciudadanos y los agentes europeos puedan disfrutar plenamente, y sin tener en cuenta las fronteras, de las oportunidades que ofrece el comercio electrónico. La presente Directiva tiene, por consiguiente, como finalidad garantizar un elevado nivel de integración jurídica comunitaria con objeto de establecer un auténtico espacio sin fronteras interiores en el ámbito de los servicios de la sociedad de la información.
+
+(4) Es importante que el comercio electrónico pueda beneficiarse plenamente del mercado interior y que se alcance un alto grado de integración comunitaria, como en el caso de la Directiva 89/552/CEE del Consejo, de 3 de octubre de 1989, sobre la coordinación de determinadas disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas al ejercicio de actividades de radiodifusión televisiva(4).
+
+(5) El desarrollo de los servicios de la sociedad de la información en la Comunidad se ve entorpecido por cierto número de obstáculos jurídicos que se oponen al buen funcionamiento del mercado interior y que hacen menos atractivo el ejercicio de la libertad de establecimiento y de la libre circulación de servicios. Dichos obstáculos tienen su origen en la disparidad de legislaciones, así como en la inseguridad jurídica de los regímenes nacionales aplicables a estos servicios; a falta de coordinación y ajuste de las legislaciones en los ámbitos en cuestión, hay obstáculos que pueden estar justificados con arreglo a la jurisprudencia del Tribunal de Justicia de las Comunidades Europeas y existe una inseguridad jurídica sobre el alcance del control que los Estados miembros pueden realizar sobre los servicios procedentes de otro Estado miembro.
+
+(6) Atendiendo a los objetivos comunitarios, a lo dispuesto en los artículos 43 y 49 del Tratado y al Derecho derivado comunitario, conviene suprimir dichos obstáculos coordinando determinadas legislaciones nacionales y aclarando conceptos jurídicos a nivel comunitario, en la medida en que sea necesario para el buen funcionamiento del mercado interior. La presente Directiva, al no tratar sino algunos puntos específicos que plantean problemas para el mercado interior, es plenamente coherente con la necesidad de respetar el principio de subsidiariedad de conformidad con el artículo 5 del Tratado.
+
+(7) Es fundamental para garantizar la seguridad jurídica y la confianza de los consumidores que la presente Directiva establezca un marco claro y de carácter general para determinados aspectos jurídicos del comercio electrónico en el mercado interior.
+
+(8) El objetivo de la presente Directiva es crear un marco jurídico que garantice la libre circulación de los servicios de la sociedad de la información entre Estados miembros y no armonizar el campo de la legislación penal en sí.
+
+(9) La libre circulación de los servicios de la sociedad de la información puede constituir, en muchos casos, un reflejo específico en el Derecho comunitario de un principio más general, esto es, de la libertad de expresión consagrada en el apartado 1 del artículo 10 del Convenio para la protección de los derechos humanos y de las libertades fundamentales, ratificado por todos los Estados miembros; por esta razón, las Directivas que tratan de la prestación de servicios de la sociedad de la información deben garantizar que se pueda desempeñar esta actividad libremente en virtud de dicho artículo, quedando condicionada únicamente a las restricciones establecidas en al apartado 2 de dicho artículo y en el apartado 1 del artículo 46 del Tratado. La presente Directiva no está destinada a influir en las normas y principios nacionales fundamentales relativos a la libertad de expresión.
+
+(10) De conformidad con el principio de proporcionalidad, las medidas previstas en la presente Directiva se limitan al mínimo necesario para conseguir el objetivo del correcto funcionamiento del mercado interior. En aquellos casos en que sea necesaria una intervención comunitaria y con el fin de garantizar que realmente dicho espacio interior no presente fronteras interiores para el comercio electrónico, la Directiva debe garantizar un alto nivel de protección de los objetivos de interés general y, en especial, la protección de los menores y la dignidad humana, la protección del consumidor y de la salud pública. A tenor de lo dispuesto en el artículo 152 del Tratado, la protección de la salud es un componente esencial de las demás políticas comunitarias.
+
+(11) La presente Directiva no afecta al nivel de protección, en particular, de la salud pública y de los intereses de los consumidores fijados en los instrumentos comunitarios; entre otras, la Directiva 93/13/CEE del Consejo, de 5 de abril de 1993, sobre las cláusulas abusivas en los contratos celebrados con consumidores(5) y la Directiva 97/7/CE del Parlamento Europeo y del Consejo, de 20 de mayo de 1997, relativa a la protección de los consumidores en materia de contratos a distancia(6), constituyen un instrumento esencial para la protección del consumidor en materia contractual. Dichas Directivas se seguirán aplicando en su integridad a los servicios de la sociedad de la información; también forman parte de este acervo comunitario, plenamente aplicable a los servicios de la sociedad de la información, en particular, la Directiva 84/450/CEE del Consejo, de 10 de septiembre de 1984, sobre publicidad engañosa y publicidad comparativa(7), la Directiva 87/102/CEE del Consejo, de 22 de diciembre de 1986, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de crédito al consumo(8), la Directiva 93/22/CEE del Consejo, de 10 de mayo de 1993, relativa a los servicios de inversión en el ámbito de los valores negociables(9), la Directiva 90/314/CEE del Consejo, de 13 de junio de 1990, relativa a los viajes combinados, las vacaciones combinadas y los circuitos combinados(10), la Directiva 98/6/CE del Parlamento Europeo y del Consejo, de 16 de febrero de 1998, relativa a la protección de los consumidores en materia de indicación de los precios de los productos ofrecidos a los consumidores(11), la Directiva 92/59/CEE del Consejo, de 29 de junio de 1992, relativa a la seguridad general de los productos(12), la Directiva 94/47/CE del Parlamento Europeo y del Consejo, de 26 de octubre de 1994, sobre el derecho de utilización de inmuebles en régimen de tiempo compartido(13), la Directiva 98/27/CE del Parlamento Europeo y del Consejo, de 19 de mayo de 1998, relativa a las acciones de cesación en materia de protección de los intereses de los consumidores(14), la Directiva 85/374/CEE del Consejo, de 25 de julio de 1985, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de responsabilidad por los daños causados por productos defectuosos(15), la Directiva 1999/44/CE del Parlamento Europeo y del Consejo, de 25 de abril de 1999, sobre determinados aspectos de la venta y las garantías de los bienes de consumo(16), la futura Directiva del Parlamento Europeo y del Consejo relativa a la comercialización a distancia de servicios financieros destinados a los consumidores y la Directiva 92/28/CEE del Consejo, de 31 de marzo de 1992, relativa a la publicidad de los medicamentos para uso humano(17). La presente Directiva no debe afectar a la Directiva 98/43/CE del Parlamento Europeo y del Consejo, de 6 de julio de 1998, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de publicidad y de patrocinio de los productos del tabaco(18), adoptadas en el marco del mercado interior ni a otras Directivas sobre protección de la salud pública. La presente Directiva completa los requisitos de información establecidos en las Directivas mencionadas y, en particular, en la Directiva 97/7/CE.
+
+(12) Es necesario excluir del ámbito de aplicación de la presente Directiva algunas actividades habida cuenta de que, en el momento presente, la libre circulación de servicios no puede quedar garantizar con arreglo al Tratado o al actual Derecho comunitario derivado. Esta exclusión no va en perjuicio de los posibles instrumentos que puedan resultar necesarios para el buen funcionamiento del mercado interior; las cuestiones fiscales y, concretamente, el impuesto sobre el valor añadido -que grava gran número de los servicios objeto de la presente Directiva- deben excluirse del ámbito de aplicación de la presente Directiva.
+
+(13) La presente Directiva no tiene la finalidad de establecer normas sobre obligaciones fiscales; tampoco prejuzga la elaboración de instrumentos comunitarios relativos a aspectos fiscales del comercio electrónico.
+
+(14) La protección de las personas con respecto al tratamiento de datos de carácter personal se rige únicamente por la Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos(19) y la Directiva 97/66/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de 1997, relativa al tratamiento de los datos personales y a la protección de la intimidad en el sector de las telecomunicaciones(20), que son enteramente aplicables a los servicios de la sociedad de la información. Dichas Directivas establecen ya un marco jurídico comunitario en materia de datos personales y, por tanto, no es necesario abordar este aspecto en la presente Directiva para garantizar el correcto funcionamiento del mercado interior, en particular la libre circulación de datos personales entre Estados miembros. La aplicación y ejecución de la presente Directiva debe respetar plenamente los principios relativos a la protección de datos personales, en particular en lo que se refiere a las comunicaciones comerciales no solicitadas y a la responsabilidad de los intermediarios, la presente Directiva no puede evitar el uso anónimo de redes abiertas como Internet.
+
+(15) La confidencialidad de las comunicaciones queda garantizada por el artículo 5 de la Directiva 97/66/CE; basándose en dicha Directiva, los Estados miembros deben prohibir cualquier forma de interceptar o vigilar esas comunicaciones por parte de cualquier persona que no sea su remitente o su destinatario salvo que esté legalmente autorizada.
+
+(16) La exclusión de las actividades relacionadas con los juegos de azar del ámbito de aplicación de la presente Directiva se refiere sólo a juegos de azar, loterías y apuestas, que impliquen una participación con valor monetario; ésta no se refiere a los concursos o juegos promocionales en que el objetivo sea fomentar la venta de bienes o servicios y en los que los pagos, si los hay, sólo sirven para adquirir los bienes o servicios publicitados.
+
+(17) La definición de servicios de la sociedad de la información ya existe en el Derecho comunitario, y se recoge en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas y de las reglas relativas a los servicios de la sociedad de la información(21) y en la Directiva 98/84/CE del Parlamento Europeo y del Conseje, de 20 de noviembre de 1998, relativa a la protección jurídica de los servicios de acceso condicional o basados en dicho acceso(22). Dicha definición se refiere a cualquier servicio prestado normalmente a título oneroso, a distancia, mediante un equipo electrónico para el tratamiento (incluida la compresión digital) y el almacenamiento de datos, y a petición individual de un receptor de un servicio; estos servicios a los que se hace referencia en la lista indicativa del anexo V de la Directiva 98/34/CE que no implica tratamiento y almacenamiento de datos no están incluidos en la presente definición.
+
+(18) Los servicios de la sociedad de la información cubren una amplia variedad de actividades económicas que se desarrollan en línea; dichas actividades en particular consisten en la venta de mercancías en línea. Las actividades como la entrega de mercancías en sí misma o la prestación de servicios fuera de la línea no están cubiertas. Los servicios de la sociedad de la información no se limitan únicamente a servicios que dan lugar a la contratación en línea, sino también, en la medida en que representan una actividad económica, son extensivos a servicios no remunerados por sus destinatarios, como aquéllos que consisten en ofrecer información en línea o comunicaciones comerciales, o los que ofrecen instrumentos de búsqueda, acceso y recopilación de datos. Los servicios de la sociedad de la información cubren también servicios consistentes en transmitir información a través de una red de comunicación, o albergar información facilitada por el destinatario del servicio. La radiodifusión televisiva según se define en la Directiva 89/552/CEE y la radiodifusión radiofónica no son servicios de la sociedad de la información, ya que no se prestan a petición individual; por el contrario, los servicios que se transmiten entre dos puntos, como el vídeo a la carta o el envío de comunicaciones comerciales por correo electrónico son servicios de la sociedad de la información. El uso del correo electrónico o, por ejemplo, de sistemas equivalentes de comunicación entre individuos, por parte de personas físicas que actúan fuera de su profesión, negocio o actividad profesional, incluso cuando los usan para celebrar contratos entre sí, no constituyen un servicio de la sociedad de la información. La relación contractual entre un empleado y su empresario no es un servicio de la sociedad de la información; las actividades que por su propia naturaleza no pueden realizarse a distancia ni por medios electrónicos, tales como el control legal de la contabilidad de las empresas o el asesoramiento médico que requiere el reconocimiento físico de un paciente, no constituyen servicios de la sociedad de la información.
+
+(19) Se debe determinar el lugar de establecimiento del prestador de servicios a tenor de lo dispuesto en la jurisprudencia del Tribunal de Justicia, según la cual el concepto de establecimiento implica la realización efectiva de una actividad económica a través de un establecimiento fijo durante un período indefinido. Este requisito se cumple también cuando se constituye una sociedad durante un período determinado; cuando se trata de una sociedad que proporciona servicios mediante un sitio Internet, dicho lugar de establecimiento no se encuentra allí donde está la tecnología que mantiene el sitio ni allí donde se puede acceder al sitio, sino el lugar donde se desarrolla la actividad económica. En el supuesto de que existan varios establecimientos de un mismo prestador de servicios es importante determinar desde qué lugar de establecimiento se presta un servicio concreto; en caso de especial dificultad para determinar a partir de cual de los distintos lugares de establecimiento se presta un servicio dado, será el lugar en que el prestador tenga su centro de actividades en relación con ese servicio en particular.
+
+(20) La definición del "destinatario de un servicio" abarca todos los tipos de utilización de los servicios de la sociedad de la información, tanto por personas que suministran información en redes abiertas tales como Internet, como las que buscan información en Internet por razones profesionales o privadas.
+
+(21) El ámbito de aplicación del ámbito coordinado no prejuzga la futura armonización comunitaria en relación con los servicios de la sociedad de la información, ni la futura legislación nacional adoptada con arreglo al Derecho comunitario. El ámbito coordinado se refiere sólo a los requisitos relacionados con las actividades en línea, como la información en línea, la publicidad en línea, las compras en línea o la contratación en línea, y no se refiere a los requisitos legales del Estado miembro relativos a las mercancías, tales como las normas de seguridad, las obligaciones de etiquetado o la responsabilidad de las mercancías, ni a los requisitos del Estado miembro relativos a la entrega o transporte de mercancías, incluida la distribución de medicamentos. El ámbito coordinado no afecta al ejercicio del derecho preferente de las autoridades públicas en relación con determinados bienes, tales como las obras de arte.
+
+(22) El control de los servicios de la sociedad de la información debe hacerse en el origen de la actividad para garantizar que se protegen de forma eficaz los intereses generales y que, para ello, es necesario garantizar que la autoridad competente garantice dicha protección no sólo en el caso de los ciudadanos de su país, sino en el de todos los ciudadanos de la Comunidad. Es indispensable precisar con claridad esta responsabilidad del Estado miembro de origen de los servicios para mejorar la confianza mutua entre los Estados miembros; además y con el fin de garantizar de forma eficaz la libre circulación de servicios y la seguridad jurídica para los prestadores de servicios y sus destinatarios, en principio estos servicios deben estar sujetos al régimen jurídico del Estado miembro en que está establecido el prestador de servicios.
+
+(23) No es objetivo de la presente Directiva fijar normas adicionales de Derecho internacional privado relativas a conflictos entre legislaciones y no afecta a la jurisdicción de los tribunales de justicia. Las disposiciones de la legislación aplicable determinada por las normas del Derecho internacional privado no podrán restringir la libre prestación de servicios de la sociedad de la información tal como se enuncia en la presente Directiva.
+
+(24) En el contexto de la presente Directiva, pese a la regla del control en el origen de los servicios de la sociedad de la información, resulta legítimo que, en las condiciones establecidas en la presente Directiva, los Estados miembros puedan tomar medidas dirigidas a restringir la libre circulación de los servicios de la sociedad de la información.
+
+(25) Los tribunales nacionales, incluidos los tribunales civiles, que conocen de controversias de Derecho privado pueden adoptar medidas que establecen excepciones a la libertad de prestar servicios en el marco de la sociedad de la información de conformidad con las condiciones establecidas en la presente Directiva.
+
+(26) Los Estados miembros, de conformidad con las condiciones establecidas en la presente Directiva, pueden aplicar sus normas nacionales sobre Derecho penal y enjuiciamiento criminal con vistas a adoptar todas las medidas de investigación y otras, necesarias para la averiguación y persecución de delitos, sin que sea necesario notificar dichas medidas a la Comisión.
+
+(27) La presente Directiva, junto con la futura Directiva del Parlamento Europeo y del Consejo relativa a la comercialización a distancia de servicios financieros destinados a los consumidores, contribuye a la creación de un marco jurídico para la provisión en línea de servicios financieros. La presente Directiva no impide futuras iniciativas en el campo de los servicios financieros, en particular en relación con la armonización de normas de conducta en este terreno. La posibilidad, establecida por la presente Directiva, de que los Estados miembros restrinjan, en determinadas circunstancias, la libre provisión de servicios de la sociedad de la información a fin de proteger a los consumidores comprende también medidas en el ámbito de los servicios financieros, en particular medidas destinadas a proteger a los inversores.
+
+(28) La obligación de los Estados miembros de no someter el acceso al ejercicio de la actividad de prestador de servicios de la sociedad de la información a autorización previa no se refiere a los servicios postales recogidos en la Directiva 97/67/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de 1997, relativa a las normas comunes para el desarrollo del mercado interior de los servicios postales de la Comunidad y la mejora de la calidad del servicio(23), consistentes en el reparto físico de mensajes impresos de correo electrónico y que no afecta a los regímenes de acreditación voluntaria, en particular para los prestadores de servicios de certificación de firma electrónica.
+
+(29) Las comunicaciones comerciales son esenciales para financiar los servicios de la sociedad de la información y el desarrollo de una amplia variedad de servicios nuevos y gratuitos. En interés de los consumidores y en beneficio de la lealtad de las transacciones, las comunicaciones comerciales -incluidas las rebajas, ofertas y concursos o juegos promocionales- deben respetar algunas obligaciones en cuanto a su transparencia; dichas obligaciones se entenderán sin perjuicio de lo dispuesto en la Directiva 97/7/CE. Lo dispuesto en la presente Directiva deberá entenderse sin perjuicio de las Directivas existentes sobre comunicaciones comerciales y, especialmente, la Directiva 98/43/CE.
+
+(30) El envío por correo electrónico de comunicaciones comerciales no solicitadas puede no resultar deseable para los consumidores y los prestadores de servicios de la sociedad de la información y trastornar el buen funcionamiento de las redes interactivas. La cuestión del consentimiento del destinatario en determinados casos de comunicaciones comerciales no solicitadas no se regula en la presente Directiva sino que ya está regulada, en particular, por las Directivas 97/7/CE y 97/66/CE. En los Estados miembros que autoricen las comunicaciones comerciales por correo electrónico no solicitadas, deberá fomentarse y facilitarse la creación por el sector competente de dispositivos de filtro; además, las comunicaciones comerciales no solicitadas han de ser en todos los casos claramente identificables como tales con el fin de mejorar la transparencia y facilitar el funcionamiento de los dispositivos creados por la industria. Las comunicaciones comerciales por correo electrónico no solicitadas no deberán redundar en gastos suplementarios para el destinatario.
+
+(31) Los Estados miembros que permiten el envío de comunicación comercial no solicitada por parte de prestadores de servicios establecidos en su territorio por correo electrónico sin consentimiento previo del receptor, deben garantizar que los prestadores de servicios consultan periódicamente las listas de exclusión voluntaria en las que se podrán inscribir las personas físicas que no deseen recibir dichas comunicaciones comerciales, y las respeten.
+
+(32) Para suprimir los obstáculos que impiden el desarrollo en la Comunidad de los servicios transfronterizos que las personas que ejercen las profesiones reguladas puedan ofrecer en Internet, es necesario que se respeten las normas profesionales, previstas para proteger especialmente a los consumidores o la salud pública, y que dicho respeto quede garantizado a nivel comunitario. Los códigos de conducta a nivel comunitario constituyen un instrumento privilegiado para determinar las normas deontológicas aplicables a la comunicación comercial; conviene impulsar en primer lugar su elaboración o, si procede, su adaptación, sin perjuicio de la autonomía de los colegios y asociaciones profesionales.
+
+(33) La presente Directiva complementa el Derecho comunitario y nacional en lo que respecta a las profesiones reguladas manteniendo un conjunto coherente de normas aplicables en la materia.
+
+(34) Todo Estado miembro debe ajustar su legislación en cuanto a los requisitos -y, especialmente, los requisitos formales- que puedan entorpecer la celebración de contratos por vía electrónica. Se debe examinar de forma sistemática qué legislaciones necesitan proceder a dicho ajuste y este examen debe versar sobre todas las fases y actos necesarios para realizar el proceso contractual, incluyendo el registro del contrato. El resultado de dicho ajuste debería hacer posibles la celebración de contratos por vía electrónica. El efecto jurídico de la firma electrónica es objeto de la Directiva 1999/93/CE del Parlamento Europeo y del Consejo, de 13 de diciembre de 1999, por la que se establece un marco común para la firma electrónica(24). El acuse de recibo expedido por un prestador de servicios puede consistir en suministrar en línea un servicio pagado.
+
+(35) La presente Directiva no afecta a la posibilidad que tienen los Estados miembros de mantener o establecer regímenes jurídicos específicos o generales en materia de contratos que pueden cumplirse por vía electrónica, en particular los requisitos en relación con la seguridad de las firmas electrónicas.
+
+(36) Los Estados miembros pueden mantener restricciones para el uso de los contratos electrónicos en lo que se refiere a los contratos que requieran, por ley, la intervención de los tribunales, las autoridades públicas o las profesiones que ejerzan una función pública. Esta posibilidad se aplica también a los contratos que requieren la intervención de los tribunales, autoridades públicas o profesiones que ejerzan una función pública para surtir efectos frente a terceros, así como también a los contratos que requieran, por ley, la certificación o la fe pública notarial.
+
+(37) La obligación de los Estados miembros de suprimir los obstáculos por la celebración de los contratos electrónicos se refiere sólo a los obstáculos derivados del régimen jurídico y no a los obstáculos prácticos derivados de la imposibilidad de utilizar la vía electrónica en determinados casos.
+
+(38) La obligación de los Estados miembros de suprimir obstáculos para la celebración de contratos por la vía electrónica debe realizarse con arreglo al régimen jurídico relativo a los contratos consagrado en el Derecho comunitario.
+
+(39) Las excepciones a las disposiciones relativas a los contratos celebrados exclusivamente por correo electrónico o mediante comunicaciones individuales equivalentes previstas en la presente Directiva, en relación con la información exigida y la realización de un pedido, no deben tener como resultado permitir la elusión de dichas disposiciones por parte de los prestadores de servicios de la sociedad de la información.
+
+(40) La divergencia de las normativas y jurisprudencias nacionales actuales o futuras en el ámbito de la responsabilidad de los prestadores de servicios que actúan como intermediarios entorpece el correcto funcionamiento del mercado interior al obstaculizar, en especial, el desarrollo de servicios transfronterizos y producir distorsiones de la competencia. En algunos casos, los prestadores de servicios tienen el deber de actuar para evitar o poner fin a actividades ilegales. Lo dispuesto en la presente Directiva deberá constituir una base adecuada para elaborar mecanismos rápidos y fiables que permitan retirar información ilícita y hacer que sea imposible acceder a ella; convendría que estos mecanismos se elaborasen tomando como base acuerdos voluntarios negociados entre todas las partes implicadas y fomentados por los Estados miembros. Todas las partes que participan en el suministro de servicios de la sociedad de la información tienen interés en que este tipo de mecanismos se apruebe y se aplique. Lo dispuesto en la presente Directiva sobre responsabilidad no supone un obstáculo para que las distintas partes interesadas desarrollen y apliquen de forma efectiva sistemas técnicos de protección e identificación y de supervisión que permite la tecnología digital dentro de los límites trazados por las Directivas 95/46/CE y 97/66/CE.
+
+(41) La presente Directiva logra un justo equilibrio entre los diferentes intereses en presencia y establece principios sobre los que pueden basarse acuerdos y normas industriales.
+
+(42) Las exenciones de responsabilidad establecidas en la presente Directiva sólo se aplican a aquellos casos en que la actividad del prestador de servicios de la sociedad de la información se limita al proceso técnico de explotar y facilitar el acceso a una red de comunicación mediante la cual la información facilitada por terceros es transmitida o almacenada temporalmente, con el fin de hacer que la transmisión sea más eficiente. Esa actividad es de naturaleza meramente técnica, automática y pasiva, lo que implica que el prestador de servicios de la sociedad de la información no tiene conocimiento ni control de la información transmitida o almacenada.
+
+(43) Un prestador de servicios puede beneficiarse de las exenciones por mera transmisión (mere conduit) y por la forma de almacenamiento automático, provisional y temporal, denominada "memoria tampón" (caching) cuando no tenga participación alguna en el contenido de los datos transmitidos; esto requiere, entre otras cosas, que no modifique los datos que transmite. Este requisito no abarca las manipulaciones de carácter técnico que tienen lugar en el transcurso de la transmisión, puesto que no alteran la integridad de los datos contenidos en la misma.
+
+(44) Un prestador de servicios que colabore deliberadamente con uno de los destinatarios de su servicio a fin de cometer actos ilegales rebasa las actividades de mero transporte (mere conduit) o la forma de almacenamiento automático, provisional y temporal, denominada "memoria tampón" (caching) y no puede beneficiarse, por consiguiente, de las exenciones de responsabilidad establecidas para dichas actividades.
+
+(45) Las limitaciones de la responsabilidad de los prestadores de servicios intermediarios establecida en la presente Directiva no afecta a la posibilidad de entablar acciones de cesación de distintos tipos. Dichas acciones de cesación pueden consistir, en particular, en órdenes de los tribunales o de las autoridades administrativas por los que se exija poner fin a cualquier infracción o impedir que se cometa, incluso retirando la información ilícita o haciendo imposible el acceso a ella.
+
+(46) Para beneficiarse de una limitación de responsabilidad, el prestador de un servicio de la sociedad de la información consistente en el almacenamiento de datos habrá de actuar con prontitud para retirar los datos de que se trate o impedir el acceso a ellos en cuanto tenga conocimiento efectivo de actividades ilícitas. La retirada de datos o la actuación encaminada a impedir el acceso a los mismos habrá de llevarse a cabo respetando el principio de libertad de expresión y los procedimientos establecidos a tal fin a nivel nacional. La presente Directiva no afecta a la posibilidad de que los Estados miembros establezcan requisitos específicos que deberán cumplirse con prontitud antes de que retiren los datos de que se trate o se impida el acceso a los mismos.
+
+(47) Los Estados miembros no pueden imponer a los prestadores de servicios una obligación de supervisión exclusivamente con respecto a obligaciones de carácter general. Esto no se refiere a las obligaciones de supervisión en casos específicos y, en particular, no afecta a las órdenes de las autoridades nacionales formuladas de conformidad con la legislación nacional.
+
+(48) La presente Directiva no afecta a la posibilidad de que los Estados miembros exijan a los prestadores de servicios, que proporcionan alojamiento de datos suministrados por destinatarios de su servicio, que apliquen un deber de diligencia, que cabe esperar razonablemente de ellos y que esté especificado en el Derecho nacional, a fin de detectar y prevenir determinados tipos de actividades ilegales.
+
+(49) Los Estados miembros y la Comisión fomentarán la elaboración de códigos de conducta; ello no irá en perjuicio del carácter voluntario de dichos códigos ni de la posibilidad de que las partes interesadas decidan libremente la adhesión a los mismos.
+
+(50) Es importante que la propuesta de Directiva del Parlamento Europeo y del Consejo relativa a la armonización de ciertos aspectos de los derechos de autor y derechos conexos en la sociedad de la información y la presente Directiva entren en vigor más o menos al mismo tiempo, para garantizar el establecimiento de un marco normativo claro relativo a la cuestión de la responsabilidad de los intermediarios por infracciones de los derechos de autor y los derechos conexos a escala comunitaria.
+
+(51) Corresponderá a cada Estado miembro, llegado el caso, ajustar aquellas disposiciones de su legislación que puedan entorpecer la utilización de los mecanismos de solución extrajudicial de conflictos por vías electrónicas adecuadas. El resultado de dicho ajuste debe hacer posible el funcionamiento de tales mecanismos de forma real y efectiva, tanto de derecho como de hecho, incluso en situaciones transfronterizas.
+
+(52) El ejercicio efectivo de las libertades del mercado interior hace necesario que se garantice a las víctimas un acceso eficaz a los medios de resolución de litigios. Los daños y perjuicios que se pueden producir en el marco de los servicios de la sociedad de la información se caracterizan por su rapidez y por su extensión geográfica. Debido a esta característica y a la necesidad de velar por que las autoridades nacionales eviten que se ponga en duda la confianza mutua que se deben conceder, la presente Directiva requiere de los Estados miembros que establezcan las condiciones para que se puedan emprender los recursos judiciales pertinentes. Los Estados miembros estudiarán la necesidad de ofrecer acceso a los procedimientos judiciales por los medios electrónicos adecuados.
+
+(53) La Directiva 98/27/CE, aplicable a los servicios de la sociedad de la información, establece un mecanismo relativo a las acciones de cesación en materia de protección de los intereses colectivos de los consumidores; este mecanismo contribuirá a la libre circulación de los servicios de la sociedad de la información al garantizar un alto nivel de protección de los consumidores.
+
+(54) Las sanciones establecidas en virtud de la presente Directiva se entenderán sin perjuicio de cualquier otra sanción o reparación establecidos en virtud de la legislación nacional. Los Estados miembros no están obligados a establecer sanciones penales por infracción de las disposiciones nacionales adoptadas en aplicación de la presente Directiva.
+
+(55) La presente Directiva no afecta a la legislación aplicable a las obligaciones contractuales relativas a los contratos celebrados por los consumidores; por lo tanto, la presente Directiva no podré tener como efecto el privar al consumidor de la protección que le confieren las normas obligatorias relativas a las obligaciones contractuales que impone la legislación del Estado miembro en que tiene su residencia habitual.
+
+(56) Por lo que se refiere a la excepción prevista en la presente Directiva, se deberá interpretar que las obligaciones contractuales en los contratos celebrados por los consumidores incluyen la información sobre elementos esenciales del contenido del contrato, incluidos los derechos del consumidor, que tengan una influencia determinante sobre la decisión de celebrarlo.
+
+(57) El Tribunal de Justicia siempre ha sostenido que un Estado miembro conserva el derecho de adoptar medidas contra un prestador de servicios establecido en otro Estado miembro, cuya actividad se dirige principalmente o en su totalidad hacia el territorio del primer Estado miembro, cuando dicho establecimiento se haya realizado con la intención de evadir la legislación que se hubiera aplicado al prestador de servicios en caso de que se hubiera establecido en el territorio del primer Estado miembro.
+
+(58) La presente Directiva no será aplicable a los servicios procedentes de prestadores establecidos en un tercer país; habida cuenta de la dimensión global del comercio electrónico, conviene garantizar, no obstante, la coherencia del marco comunitario con el marco internacional. La Directiva se entenderá sin perjuicio de los resultados a que se llegue en los debates en curso sobre los aspectos jurídicos en las organizaciones internacionales (entre otras, la Organización Mundial del Comercio, la Organización de Cooperación y Desarrollo Económico y la CNUDMI).
+
+(59) Pese a la naturaleza global de las comunicaciones electrónicas, es necesario coordinar las medidas reguladoras nacionales a escala de la Unión Europea, con el fin de evitar la fragmentación del mercado interior y establecer el adecuado marco regulador europeo. Dicha coordinación deberá contribuir también al establecimiento de una posición común firme en las negociaciones en los foros internacionales.
+
+(60) Para lograr un desarrollo sin trabas del comercio electrónico, es esencial que dicho marco jurídico sea sencillo, claro y seguro y compatible con las normas vigentes a escala internacional, de modo que no se vea afectada la competitividad de la industria europea y no se obstaculice la realización de acciones innovadoras en dicho ámbito.
+
+(61) Para el correcto funcionamiento del mercado por vía electrónica en un contexto mundializado, es precisa una concertación entre la Unión Europea y los grandes espacios no europeos con el fin de compatibilizar las legislaciones y los procedimientos.
+
+(62) Debe reforzarse la cooperación con terceros países en el sector del comercio electrónico, en particular con los países candidatos, los países en vías de desarrollo y los principales socios comerciales de la Unión Europea.
+
+(63) La adopción de la presente Directiva no impide a los Estados miembros tener en cuenta las diferentes repercusiones sociales y socioculturales inherentes a la aparición de la sociedad de la información y, en particular, no impide que los Estados miembros adopten medidas políticas de conformidad con la legislación comunitaria con el propósito de alcanzar objetivos sociales, culturales y democráticas en atención a su diversidad lingüística, sus peculiaridades nacionales y regionales y su legado cultural, así como con el fin de proporcionar y garantizar el acceso público a un abanico lo más amplio posible de servicios de la sociedad de la información. El desarrollo de la sociedad de la información debe garantizar en todos los casos que los ciudadanos europeos puedan acceder al patrimonio cultural europeo en un entorno digital.
+
+(64) La comunicaciones electrónicas brindan a los Estados miembros una excelente vía para prestar servicios públicos en los ámbitos cultural, educativo y lingüístico.
+
+(65) El Consejo de Ministros, en su Resolución de 19 de enero de 1999 sobre la dimensión relativa a los consumidores de la sociedad de la información(25), ha destacado que la protección de los consumidores merecía especial atención en el marco de dicha sociedad. La Comisión examinará en qué medida las actuales normas de protección del consumidor no proporcionan la protección adecuada en relación con la sociedad de la información y, si procede, señalará las posibles lagunas de esta legislación y los aspectos en los que podría resultar necesario tomar medidas adicionales; llegado el caso, la Comisión debería hacer propuestas específicas adicionales para colmar las lagunas que haya detectado.
+
+HAN ADOPTADO LA PRESENTE DIRECTIVA:
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
+
+Artículo 1
+
+Objetivo y ámbito de aplicación
+
+1. El objetivo de la presente Directiva es contribuir al correcto funcionamiento del mercado interior garantizando la libre circulación de los servicios de la sociedad de la información entre los Estados miembros.
+
+2. En la medida en que resulte necesario para alcanzar el objetivo enunciado en el apartado 1 mediante la presente Directiva, se aproximarán entre sí determinadas disposiciones nacionales aplicables a los servicios de la sociedad de la información relativas al mercado interior, el establecimiento de los prestadores de servicios, las comunicaciones comerciales, los contratos por vía electrónica, la responsabilidad de los intermediarios, los códigos de conducta, los acuerdos extrajudiciales para la solución de litigios, los recursos judiciales y la cooperación entre Estados miembros.
+
+3. La presente Directiva completará el ordenamiento jurídico comunitario aplicable a los servicios de la sociedad de la información, sin perjuicio del nivel de protección, en particular, de la salud pública y de los intereses del consumidor, fijados tanto en los instrumentos comunitarios como en las legislaciones nacionales que los desarrollan, en la medida en que nos restrinjan la libertad de prestar servicios de la sociedad de la información.
+
+4. La presente Directiva no establece normas adicionales de Derecho internacional privado ni afecta a la jurisdicción de los tribunales de justicia.
+
+5. La presente Directiva no se aplicará:
+
+a) en materia de fiscalidad;
+
+b) a cuestiones relacionadas con servicios de la sociedad de la información incluidas en las Directivas 95/46/CE y 97/66/CE;
+
+c) a cuestiones relacionadas con acuerdos o prácticas que se rijan por la legislación sobre carteles;
+
+d) a las siguientes actividades de los servicios de la sociedad de la información;
+
+- las actividades de los notarios o profesiones equivalentes, en la medida en que impliquen una conexión directa y específica con el ejercicio de la autoridad pública,
+
+- la representación de un cliente y la defensa de sus intereses ante los tribunales,
+
+- las actividades de juegos de azar que impliquen apuestas de valor monetario incluidas loterías y apuestas.
+
+6. La presente Directiva no afectará a las medidas adoptadas en el plano comunitario ni nacional, dentro del respeto del Derecho comunitario, para fomentar la diversidad cultural y lingüística y garantizar la defensa del pluralismo.
+
+Artículo 2
+
+Definiciones
+
+A efectos de la presente Directiva, se entenderá por:
+
+a) "servicios de la sociedad de la información": servicios en el sentido del apartado 2 del artículo 1 de la Directiva 98/34/CE, modificada por la Directiva 98/48/CE;
+
+b) "prestador de servicios": cualquier persona física o jurídica que suministre un servicio de la sociedad de la información;
+
+c) "prestador de servicios establecido": prestador que ejerce de manera efectiva una actividad económica a través de una instalación estable y por un período de tiempo indeterminado. La presencia y utilización de los medios técnicos y de las tecnologías utilizadas para prestar el servicio no constituyen en sí mismos el establecimiento del prestador de servicios;
+
+d) "destinatario del servicio": cualquier persona física o jurídica que utilice un servicio de la sociedad de la información por motivos profesionales o de otro tipo y, especialmente, para buscar información o para hacerla accesible;
+
+e) "consumidor": cualquier persona física que actúa con un propósito ajeno a su actividad económica, negocio o profesión;
+
+f) "comunicación comercial": todas las formas de comunicación destinadas a proporcionar directa o indirectamente bienes, servicios o la imagen de una empresa, organización o persona con una actividad comercial, industrial, artesanal o de profesiones reguladas. No se consideran comunicaciones comerciales en sí mismas las siguientes:
+
+- los datos que permiten acceder directamente a la actividad de dicha empresa, organización o persona y, concretamente el nombre de dominio o la dirección de correo electrónico,
+
+- las comunicaciones relativas a los bienes, servicios o a la imagen de dicha empresa, organización o persona, elaboradas de forma independiente de ella, en particular cuando estos se realizan sin contrapartida económica;
+
+g) "profesión regulada": cualquier profesión en el sentido o bien de la letra d) del artículo 1 de la Directiva 89/48/CE del Consejo, de 21 de diciembre de 1988, relativa a un sistema general de reconocimiento de títulos de enseñanza superior que sancionen formaciones profesionales de una duración mínima de tres años(26), o de la letra f) del artículo 1 de la Directiva 92/51/CE del Consejo, de 18 de junio de 1992, relativa a un segundo sistema general de reconocimiento de formaciones profesionales que completa la Directiva 89/48/CE(27);
+
+h) "ámbito coordinado": los requisitos exigibles a los prestadores de servicios en los regímenes jurídicos de los Estados miembros aplicables a los prestadores de servicios de la sociedad de la información a los servicios de la sociedad de la información, independientemente de si son de tipo general o destinados específicamente a los mismos.
+
+i) El ámbito coordinado se refiere a los requisitos que debe cumplir el prestador de servicios en relación con:
+
+- el inicio de la actividad de un servicio de la sociedad de la información, como los requisitos relativos a cualificaciones, autorizaciones o notificaciones,
+
+- el ejercicio de la actividad de un servicio de la sociedad de la información, como los requisitos relativos al comportamiento del prestador de servicios, los requisitos en relación con la calidad o el contenido del servicio, incluidos los aplicables a publicidad y contratos, o los requisitos relativos a la responsabilidad del prestador de servicios.
+
+ii) El ámbito coordinado no se refiere a los requisitos siguientes:
+
+- requisitos aplicables a las mercancías en sí,
+
+- requisitos aplicables a la entrega de las mercancías,
+
+- requisitos aplicables a los servicios no prestados por medios electrónicos.
+
+Artículo 3
+
+Mercado interior
+
+1. Todo Estado miembro velará por que los servicios de la sociedad de la información facilitados por un prestador de servicios establecido en su territorio respeten las disposiciones nacionales aplicables en dicho Estado miembro que formen parte del ámbito coordinado.
+
+2. Los Estados miembros no podrán restringir la libertad de prestación de servicios de la sociedad de la información de otro Estado miembro por razones inherentes al ámbito coordinado.
+
+3. No se aplicarán los apartados 1 y 2 a los ámbitos a que se hace referencia en el anexo.
+
+4. Los Estados miembros podrán tomar medidas que constituyen excepciones al apartado 2 respecto de un determinado servicio de la sociedad de la información si se cumplen las condiciones siguientes:
+
+a) Las medidas deberán ser:
+
+i) necesarias por uno de los motivos siguientes:
+
+- orden público, en particular la prevención, investigación, descubrimiento y procesamiento del delito, incluidas la protección de menores y la lucha contra la instigación al odio por motivos de raza, sexo, religión o nacionalidad, así como las violaciones de la dignidad humana de personas individuales,
+
+- protección de la salud pública,
+
+- seguridad pública, incluidas la salvaguarda de la seguridad y la defensa nacionales,
+
+- protección de los consumidores, incluidos los inversores;
+
+ii) tomadas en contra de un servicio de la sociedad de la información que vaya en detrimento de los objetivos enunciados en el inciso i) o que presente un riesgo serio y grave de ir en detrimento de dichos objetivos;
+
+iii) proporcionadas a dichos objetivos.
+
+b) Antes de adoptar dichas medidas y sin perjuicio de los procesos judiciales, incluidas las actuaciones preliminares y los actos realizados en el marco de una investigación criminal, el Estado miembro deberá:
+
+- haber pedido al Estado miembro que figura en el apartado 1 que tome medidas y este último no haberlas tomado, o no haber resultado suficientes,
+
+- haber notificado a la Comisión y al Estado miembro mencionado en el apartado 1 su intención de adoptar dichas medidas.
+
+5. En caso de urgencia, los Estados miembros podrán establecer excepciones a las condiciones estipuladas en la letra b) del apartado 4. Cuando así ocurra, las medidas se notificarán con la mayor brevedad a la Comisión y al Estado miembro a que hace referencia el apartado 1, indicando las razones de la urgencia según el Estado miembro.
+
+6. Sin perjuicio de la posibilidad de un Estado miembro de tomar las medidas en cuestión, la Comisión deberá examinar la compatibilidad de las medidas notificadas con el Derecho comunitario en el más breve plazo; en caso de que llegue a la conclusión de que dichas medidas son incompatibles con el Derecho comunitario, la Comisión solicitará a dicho Estado miembro que se abstenga de tomar ninguna de las medidas propuestas o que ponga fin lo antes posible a las mismas.
+
+CAPÍTULO II
+
+PRINCIPIOS
+
+Sección 1: Régimen de establecimiento y de información
+
+Artículo 4
+
+Principio de no autorización previa
+
+1. Los Estados miembros dispondrán que el acceso a la actividad de prestador de servicios de la sociedad de la información no pueda someterse a autorización previa ni a ningún otro requisito con efectos equivalentes.
+
+2. Lo dispuesto en el apartado 1 no irá en perjuicio de los regímenes de autorización que no tengan por objeto específico y exclusivo los servicios de la sociedad de la información, ni de los regímenes cubiertos por la Directiva 97/13/CE del Parlamento Europeo y del Consejo, de 10 de abril de 1997, relativa a un marco común en materia de autorizaciones generales y licencias individuales en el ámbito de los servicios de telecomunicaciones(28).
+
+Artículo 5
+
+Información general exigida
+
+1. Además de otros requisitos en materia de información contemplados en el Derecho comunitario, los Estados miembros garantizarán que el prestador de servicios permita a los destinatarios del servicio y a las autoridades competentes acceder con facilidad y de forma directa y permanente como mínimo a los datos siguientes:
+
+a) nombre del prestador de servicios;
+
+b) dirección geográfica donde está establecido el prestador de servicios
+
+c) señas que permitan ponerse en contacto rápidamente con el prestador de servicios y establecer una comunicación directa y efectiva con él, incluyendo su dirección de correo electrónico;
+
+d) si el prestador de servicios está inscrito en un registro mercantil u otro registro público similar, nombre de dicho registro y número de inscripción asignado en él al prestador de servicios, u otros medios equivalentes de identificación en el registro;
+
+e) si una determinada actividad está sujeta a un régimen de autorización, los datos de la autoridad de supervisión correspondiente;
+
+f) en lo que se refiere a las profesiones reguladas:
+
+- si el prestador de servicios pertenece a un colegio profesional o institución similar, datos de dicho colegio o institución,
+
+- título profesional expedido y el Estado miembro en que se expidió,
+
+- referencia a las normas profesionales aplicables en el Estado miembro de establecimiento y los medios de acceder a las mismas;
+
+g) si el prestador de servicios ejerce una actividad gravada por el impuesto sobre el valor añadido (IVA), el número de identificación a que hace referencia el apartado 1 del artículo 22 de la Sexta Directiva 77/388/CEE del Consejo, de 17 de mayo de 1977, en materia de armonización de las legislaciones de los Estados miembros relativas a los impuestos sobre el volumen de negocios - Sistema común del Impuesto sobre el Valor Añadido: base imponible uniforme(29).
+
+2. Además de otros requisitos en materia de información establecidos en el Derecho comunitario, los Estados miembros garantizarán que cuando los servicios de la sociedad de la información hagan referencia a precios, éstos se indiquen claramente y sin ambigüedades, y se haga constar en particular, si están incluidos los impuestos y los gastos de envío.
+
+Sección 2: Comunicaciones comerciales
+
+Artículo 6
+
+Información exigida
+
+Además de otros requisitos en materia de información establecidos en el Derecho comunitario, los Estados miembros garantizarán que las comunicaciones comerciales que forman parte o constituyen un servicio de la sociedad de la información cumplan al menos las condiciones siguientes:
+
+a) las comunicaciones comerciales serán claramente identificables como tales;
+
+b) será claramente identificable la persona física o jurídica en nombre de la cual se hagan dichas comunicaciones comerciales;
+
+c) las ofertas promocionales, como los descuentos, premios y regalos, cuando estén permitidos en el Estado miembro de establecimiento del prestador de servicios, deberán ser claramente identificables como tales, y serán fácilmente accesibles y presentadas de manera clara e inequívoca las condiciones que deban cumplirse para acceder a ellos;
+
+d) los concursos o juegos promocionales, cuando estén permitidos en el Estado miembro de establecimiento del prestador de servicios, serán claramente identificables como tales las condiciones de participación; serán fácilmente accesibles y se presentarán de manera clara e inequívoca.
+
+Artículo 7
+
+Comunicación comercial no solicitada
+
+1. Además de otros requisitos establecidos en el Derecho comunitario, los Estados miembros que permitan la comunicación comercial no solicitada por correo electrónico garantizarán que dicha comunicación comercial facilitada por un prestador de servicios establecido en su territorio sea identificable de manera clara e inequívoca como tal en el mismo momento de su recepción.
+
+2. Sin perjuicio de los dispuesto en las Directivas 97/7/CE y 97/66/CE, los Estados miembros deberán adoptar medidas para garantizar que los prestadores de servicios que realicen comunicaciones comerciales no solicitadas por correo electrónico consulten regularmente las listas de exclusión voluntaria ("opt-out") en las que se podrán inscribir las personas físicas que no deseen recibir dichas comunicaciones comerciales, y las respeten.
+
+Artículo 8
+
+Profesiones reguladas
+
+1. Los Estados miembros garantizarán que esté permitido el uso de comunicaciones comerciales que en todo o en parte constituyan un servicio de la sociedad de la información facilitado por un miembro de una profesión regulada, condicionado al cumplimiento de normas profesionales relativas, en particular, a la independencia, dignidad y honor de la profesión, el secreto profesional y la lealtad hacia clientes y colegas.
+
+2. Sin perjuicio de la autonomía de los colegios y asociaciones profesionales, los Estados miembros y la Comisión fomentarán que las asociaciones y colegios profesionales establezcan códigos de conducta comunitarios para determinar los tipos de información que puedan facilitarse a efectos de comunicación comercial, con arreglo a las normas a que se hace referencia en el apartado 1.
+
+3. A la hora de elaborar propuestas de iniciativas comunitarias que puedan resultar necesarias para garantizar el funcionamiento adecuado del mercado interior en los que se refiere a la información a la que hace referencia el apartado 2, la Comisión tendrá debidamente en cuenta los códigos de conducta aplicables en el plano comunitario y actuará en estrecha cooperación con las asociaciones y colegios profesionales correspondientes.
+
+4. La presente Directiva se aplicará además de las Directivas comunitarias relativas al acceso a las actividades de las profesiones reguladas y a su ejercicio.
+
+Sección 3: Contratos por vía electrónica
+
+Artículo 9
+
+Tratamiento de los contratos por vía electrónica
+
+1. Los Estados miembros velarán por que su legislación permita la celebración de contratos por vía electrónica. Los Estados miembros garantizarán en particular que el régimen jurídico aplicable al proceso contractual no entorpezca la utilización real de los contratos por vía electrónica, ni conduzca a privar de efecto y de validez jurídica a este tipo de contratos en razón de su celebración por vía electrónica.
+
+2. Los Estados miembros podrán disponer que el apartado 1 no se aplique a contratos incluidos en una de las categorías siguientes:
+
+a) los contratos de creación o transferencia de derechos en materia inmobiliaria, con la excepción de los derechos de arrendamiento;
+
+b) los contratos que requieran por ley la intervención de los tribunales, las autoridades públicas o profesionales que ejerzan una función pública;
+
+c) los contratos de crédito y caución y las garantías presentadas por personas que actúan por motivos ajenos a su actividad económica, negocio o profesión;
+
+d) los contratos en materia de Derecho de familia o de sucesiones.
+
+3. Los Estados miembros comunicarán a la Comisión las categorías a que hace referencia el apartado 2 a las que no se aplicará el apartado 1. Los Estados miembros enviarán a la Comisión cada cinco años un informe sobre la aplicación del apartado 2, explicando los motivos por los que consideran necesario mantener las categorías a que hace referencia la letra b) del apartado 2, a las que no aplicará el apartado 1.
+
+Artículo 10
+
+Información exigida
+
+1. Además de otros requisitos en materia de información contemplados en el Derecho comunitario, los Estados miembros garantizarán, excepto cuando las partes que no son consumidores así los acuerden, que el prestador de servicios facilite al menos la siguiente información de manera clara, comprensible e inequívoca y antes de que el destinatario del servicio efectúe un pedido:
+
+a) los diferentes pasos técnicos que deben darse para celebrar el contrato;
+
+b) si el prestador de servicios va a registrar o no el contrato celebrado, y si éste va a ser accesible;
+
+c) los medios técnicos para identificar y corregir los errores de introducción de datos antes de efectuar el pedido;
+
+d) las lenguas ofrecidas para la celebración del contrato.
+
+2. Los Estados miembros garantizarán que, excepto cuando las partes que no son consumidores así lo acuerden, el prestador de servicios indique los códigos de conducta correspondientes a los que se acoja y facilite información sobre la manera de consultar electrónicamente dichos códigos.
+
+3. Las condiciones generales de los contratos facilitadas al destinatario deben estar disponibles de tal manera que éste pueda almacenarlas y reproducirlas.
+
+4. Los apartados 1 y 2 no son aplicables a los contratos celebrados exclusivamente mediante intercambio de correo electrónico u otra comunicación individual equivalente.
+
+Artículo 11
+
+Realización de un pedido
+
+1. Los Estados miembros garantizarán que, excepto cuando las partes que no son consumidores así lo acuerden, en los casos en que el destinatario de un servicio efectúe su pedido por vía electrónica, se aplicarán los principios siguientes:
+
+- el prestador de servicios debe acusar recibo del pedido del destinatario sin demora indebida y por vía electrónica,
+
+- se considerará que se han recibido el pedido y el acuse de recibo cuando las partes a las que se dirigen puedan tener acceso a los mismos.
+
+2. Los Estados miembros garantizarán que, excepto cuando así lo acuerden las partes que no son consumidores, el prestador de servicios ponga a disposición del destinatario del servicio los medios técnicos adecuados, eficaces, accesibles que le permitan identificar y corregir los errores de introducción de datos, antes de realizar el pedido.
+
+3. El primer guión del apartado 1 y el apartado 2 del artículo 11 no se aplicarán a los contratos celebrados exclusivamente por intercambio de correo electrónico u otra comunicación individual equivalente.
+
+Sección 4: Responsabilidad de los prestadores de servicios intermediarios
+
+Artículo 12
+
+Mera transmisión
+
+1. Los Estados miembros garantizarán que, en el caso de un servicio de la sociedad de la información que consista en transmitir en una red de comunicaciones, datos facilitados por el destinatario del servicio o en facilitar acceso a una red de comunicaciones, no se pueda considerar al prestador de servicios de este tipo responsable de los datos transmitidos, a condición de que el prestador de servicios:
+
+a) no haya originado él mismo la transmisión;
+
+b) no seleccione al destinatario de la transmisión; y
+
+c) no seleccione ni modifique los datos transmitidos.
+
+2. Las actividades de transmisión y concesión de acceso enumeradas en el apartado 1 engloban el almacenamiento automático, provisional y transitorio de los datos transmitidos siempre que dicho almacenamiento sirva exclusivamente para ejecutar la transmisión en la red de comunicaciones y que su duración no supere el tiempo razonablemente necesario para dicha transmisión.
+
+3. El presente artículo no afectará a la posibilidad de que un tribunal o una autoridad administrativa, de conformidad con los sistemas jurídicos de los Estados miembros, exija al prestador de servicios que ponga fin a una infracción o que la impida.
+
+Artículo 13
+
+Memoria tampón (Caching)
+
+1. Los Estados miembros garantizarán que, cuando se preste un servicio de la sociedad de la información consistente en transmitir por una red de comunicaciones datos facilitados por el destinatario del servicio, el prestador del servicio no pueda ser considerado responsable del almacenamiento automático, provisional y temporal de esta información, realizado con la única finalidad de hacer más eficaz la transmisión ulterior de la información a otros destinatarios del servicio, a petición de éstos, a condición de que:
+
+a) el prestador de servicios no modifique la información;
+
+b) el prestador de servicios cumpla las condiciones de acceso a la información;
+
+c) el prestador de servicios cumpla las normas relativas a la actualización de la información, especificadas de manera ampliamente reconocida y utilizada por el sector;
+
+d) el prestador de servicios no interfiera en la utilización lícita de tecnología ampliamente reconocida y utilizada por el sector, con el fin de obtener datos sobre la utilización de la información; y
+
+e) el prestador de servicios actúe con prontitud para retirar la información que haya almacenado, o hacer que el acceso a ella será imposible, en cuanto tenga conocimiento efectivo del hecho de que la información ha sido retirada del lugar de la red en que se encontraba inicialmente, de que se ha imposibilitado el acceso a dicha información o de que un tribunal o una autoridad administrativa ha ordenado retirarla o impedir que se acceda a ella.
+
+2. El presente artículo no afectará a la posibilidad de que un tribunal o una autoridad administrativa, de conformidad con los sistemas jurídicos de los Estados miembros, exija al prestador de servicios poner fin a una infracción o impedirla.
+
+Artículo 14
+
+Alojamiento de datos
+
+1. Los Estados miembros garantizarán que, cuando se preste un servicio de la sociedad de la información consistente en almacenar datos facilitados por el destinatario del servicio, el prestador de servicios no pueda ser considerado responsable de los datos almacenados a petición del destinatario, a condición de que:
+
+a) el prestador de servicios no tenga conocimiento efectivo de que la actividad a la información es ilícita y, en lo que se refiere a una acción por daños y perjuicios, no tenga conocimiento de hechos o circunstancias por los que la actividad o la información revele su carácter ilícito, o de que,
+
+b) en cuanto tenga conocimiento de estos puntos, el prestador de servicios actúe con prontitud para retirar los datos o hacer que el acceso a ellos sea imposible.
+
+2. El apartado 1 no se aplicará cuando el destinatario del servicio actúe bajo la autoridad o control del prestador de servicios.
+
+3. El presente artículo no afectará la posibilidad de que un tribunal o una autoridad administrativa, de conformidad con los sistemas jurídicos de los Estados miembros, exijan al prestador de servicios de poner fin a una infracción o impedirla, ni a la posibilidad de que los Estados miembros establezcan procedimientos por los que se rija la retirada de datos o impida el acceso a ellos.
+
+Artículo 15
+
+Inexistencia de obligación general de supervisión
+
+1. Los Estados miembros no impondrán a los prestadores de servicios una obligación general de supervisar los datos que transmitan o almacenen, ni una obligación general de realizar búsquedas activas de hechos o circunstancias que indiquen actividades ilícitas, respecto de los servicios contemplados en los artículos 12, 13 y 14.
+
+2. Los Estados miembros podrán establecer obligaciones tendentes a que los prestadores de servicios de la sociedad de la información comuniquen con prontitud a las autoridades públicas competentes los presuntos datos ilícitos o las actividades ilícitas llevadas a cabo por destinatarios de su servicio o la obligación de comunicar a las autoridades competentes, a solicitud de éstas, información que les permita identificar a los destinatarios de su servicio con los que hayan celebrado acuerdos de almacenamiento.
+
+CAPÍTULO III
+
+APLICACIÓN
+
+Artículo 16
+
+Códigos de conducta
+
+1. Los Estados miembros y la Comisión fomentarán:
+
+a) la elaboración de códigos de conducta a nivel comunitario, a través de asociaciones u organizaciones comerciales, profesionales o de consumidores, con el fin de contribuir a que se apliquen correctamente los artículos 5 a 15;
+
+b) el envío voluntario a la Comisión de los proyectos de códigos de conducta a nivel nacional o comunitario;
+
+c) la posibilidad de acceder a los códigos de conducta por vía electrónica en las lenguas comunitarias;
+
+d) la comunicación a los Estados miembros y a la Comisión, por parte de las asociaciones u organizaciones profesionales y de consumidores, de la evaluación que éstas hagan de la aplicación de sus códigos de conducta y su repercusión en las prácticas, usos o costumbres relacionados con el comercio electrónico;
+
+e) la elaboración de códigos de conducta en materia de protección de los menores y de la dignidad humana.
+
+2. Los Estados miembros y la Comisión fomentarán la participación de asociaciones u organizaciones que representen a los consumidores en la redacción y aplicación de los códigos de conducta que afecten a sus intereses, y que se elaborarán de conformidad con lo dispuesto en la letra a) del apartado 1. Cuando resulte adecuado, a fin de tener en cuenta sus necesidades específicas, deberá consultarse a las asociaciones que representen a los discapacitados y a los malvidentes.
+
+Artículo 17
+
+Solución extrajudicial de litigios
+
+1. Los Estados miembros velarán por que, en caso de desacuerdo entre un prestador de servicios de la sociedad de la información y el destinatario del servicio, su legislación no obstaculice la utilización de los mecanismos de solución extrajudicial, existentes con arreglo a la legislación nacional para la solución de litigios, incluso utilizando vías electrónicas adecuadas.
+
+2. Los Estados miembros alentarán a los órganos responsables de la solución extrajudicial de litigios, en particular de litigios en materia de productos de consumo, a que actúen de modo tal que proporcionen garantías de procedimiento adecuadas a las partes afectadas.
+
+3. Los Estados miembros incitarán a los órganos responsables de la solución extrajudicial de litigios a que informen a la Comisión de las decisiones relevantes que tomen en relación con los servicios de la sociedad de la información, y a que le transmitan todos los demás datos sobre prácticas, usos o costumbres relacionados con el comercio electrónico.
+
+Artículo 18
+
+Recursos judiciales
+
+1. Los Estados miembros velarán por que los recursos judiciales existentes en virtud de la legislación nacional en relación con las actividades de servicios de la sociedad de la información permitan adoptar rápidamente medidas, incluso medidas provisionales, destinadas a poner término a cualquier presunta infracción y a evitar que se produzcan nuevos perjuicios contra los intereses afectados.
+
+2. En el anexo de la Directiva 98/27/CE se añadirá el punto siguiente:
+
+"11. Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el comercio electrónico, en el mercado interior ('Directiva sobre el comercio electrónico') (DO L 178 de 17.7.2000, p.1)."
+
+Artículo 19
+
+Cooperación
+
+1. Los Estados miembros dispondrán de los medios de control e investigación necesarios para aplicar de forma eficaz la presente Directiva y garantizarán que los prestadores de servicios comuniquen la información requerida.
+
+2. Los Estados miembros cooperarán con los demás Estados miembros y, a tal efecto, designarán uno o más puntos de contacto cuyas señas comunicarán a los demás Estados miembros y a la Comisión.
+
+3. Los Estados miembros facilitarán, a la mayor brevedad y de conformidad con la legislación nacional, la ayuda y la información que les soliciten otros Estados miembros o la Comisión, incluso utilizando las vías electrónicas adecuadas.
+
+4. Los Estados miembros crearán puntos de contacto accesibles, como mínimo, por vía electrónica y a los que los destinatarios de un servicio y los prestadores de servicios podrán dirigirse para:
+
+a) conseguir información general sobre sus derechos y obligaciones contractuales así como los mecanismos de reclamación y recurso disponibles en caso de litigio, incluidos los aspectos prácticos relativos a la utilización de tales mecanismos;
+
+b) obtener los datos de las autoridades, asociaciones u organizaciones de las que pueden obtener información adicional o asistencia práctica.
+
+5. Los Estados miembros velarán por que se comunique a la Comisión toda decisión administrativa o resolución judicial de carácter relevante que se adopte en sus respectivos territorios sobre litigios relativos a los servicios de la sociedad de la información y a las prácticas, usos y costumbres relacionados con el comercio electrónico. La Comisión comunicará dichas decisiones o resoluciones a los demás Estados miembros.
+
+Artículo 20
+
+Sanciones
+
+Los Estados miembros determinarán las sanciones aplicables a las infracciones de las disposiciones nacionales que se adopten en aplicación de la presente Directiva y tomarán todas las medidas necesarias para garantizar su aplicación. Las sanciones que establezcan deberán ser efectivas, proporcionadas y disuasorias.
+
+CAPÍTULO IV
+
+DISPOSICIONES FINALES
+
+Artículo 21
+
+Reexamen
+
+1. Antes del 17 de julio de 2003 y, a continuación, cada dos años, la Comisión presentará al Parlamento Europeo, al Consejo y al Comité Económico y Social un informe sobre su aplicación, que irá acompañado, en su caso, de propuestas para adaptarla a la evolución jurídica, técnica y económica en el ámbito de los servicios de la sociedad de la información, en particular por lo que respecta a la prevención del delito, protección de menores, de los consumidores y al buen funcionamiento del mercado interior.
+
+2. Al examinar la necesidad de adaptar la presente Directiva, el informe analizará especialmente la necesidad de presentar propuestas relativas a la responsabilidad de los proveedores de hipervínculos y servicios de instrumentos de localización, a los procedimientos de "detección y retirada" y a la imputación de responsabilidad tras la retirada del contenido. El informe analizará asimismo la necesidad de establecer condiciones suplementarias para la exención de responsabilidad, dispuesta de los artículos 12 y 13, en función del desarrollo tecnológico, así como la posibilidad de aplicar los principios del mercado interior a las comunicaciones comerciales por correo electrónico no solicitadas.
+
+Artículo 22
+
+Trasposición
+
+1. Los Estados miembros adoptarán las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo establecido en la presente Directiva antes del 17 de enero de 2002. Las comunicarán inmediatamente a la Comisión.
+
+2. Cuando los Estados miembros adopten las disposiciones contempladas en el apartado 1, éstas incluirán una referencia a la presente Directiva o irán acompañadas de dicha referencia en su publicación oficial. Los Estados miembros establecerán las modalidades de la mencionada referencia.
+
+Artículo 23
+
+Entrada en vigor
+
+La presente Directiva entrará en vigor el día de su publicación en el Diario Oficial de las Comunidades Europeas.
+
+Artículo 24
+
+Destinatarios
+
+Los destinatarios de la presente Directiva serán los Estados miembros.
+
+Hecho en Luxemburgo, el 8 de junio de 2000.
