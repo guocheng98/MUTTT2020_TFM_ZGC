@@ -12,11 +12,11 @@ This repo functions as complementary materials of the author's master thesis. It
 5. HuggingFace_Fine-tune.ipynb: Jupyter Notebook file; code of the whole fine-tuning process.
 6. HuggingFace_gettingtranslation.ipynb: Jupyter Notebook file; code of the inference stage where we obtain the machine translation outputs of the original and the fine-tuned models.
 7. Other TXT files:
-i. Test_es.txt:
-ii. Spanish part of the test set.
-    7.3. Test_zh.txt: Simplified Chinese part of the test set.
-    7.4. Translation_FT.txt: machine translation outputs of the fine-tuned model, with Test_es.txt as the source text.
-    7.5. Translation_original.txt: machine translation outputs of the original model, with Test_es.txt as the source text.
+    i. Test_es.txt:
+    ii. Spanish part of the test set.
+    iii. Test_zh.txt: Simplified Chinese part of the test set.
+    iv. Translation_FT.txt: machine translation outputs of the fine-tuned model, with Test_es.txt as the source text.
+    v. Translation_original.txt: machine translation outputs of the original model, with Test_es.txt as the source text.
 
 To-do:
 - Upload the full text of the master thesis
